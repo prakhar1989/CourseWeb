@@ -19,5 +19,6 @@ $(document).ready(function(){
         //   $('#points').text('Points Over!'); 
         //   }
     });
+    $('#password').popover('show');
 });
 
