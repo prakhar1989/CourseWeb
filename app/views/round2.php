@@ -1,5 +1,6 @@
 <?php 
-  $this->load->view('include/header');
+  $data['isRound3'] = true;
+  $this->load->view('include/header', $data);
 ?>
 
 

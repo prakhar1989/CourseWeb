@@ -20,7 +20,7 @@
   else
   {
 ?>
-      <form action="round1/submit" method="post">
+      <form action="round1/submit" method="post" id="round1Form">
         <table class="bordered-table zebra-striped" id="eoiTable"> 
           <thead>
             <tr>
@@ -28,6 +28,7 @@
               <th>COURSE</th>
               <th>FACULTY</th>
               <th>SEATS</th>
+              <th>CREDITS</th>
               <th>SELECT</th>
             </tr>
           </thead>
@@ -41,6 +42,7 @@
               echo "<td>". $row->course_name."</td> \n";
               echo "<td>". $row->faculty."</td> \n";
               echo "<td>". $row->seats."</td> \n";
+              echo "<td>". $row->credits."</td> \n";
               echo "<td><input type=\"checkbox\" name=\"". $row->course_id."\"</td> \n";
               echo "</tr> \n";
             }
@@ -49,8 +51,24 @@
         </table>
         </div>
         </div>
+
+        <div id="modal-from-dom" class="modal hide fade">
+          <div class="modal-header">
+            <a href="#" class="close">&times;</a>
+            <h3>Submission Confirmation</h3>
+          </div>
+          <div class="modal-body">
+            <p>Are you sure you want to submit your choices? Only one submission is allowed, hence your choices will be considered final.</p>
+          </div>
+          <div class="modal-footer">
+            <a href="#" class="btn primary">Yup! I'm sure</a>
+            <a href="#" class="btn secondary quit">No, I'll check again</a>
+          </div>
+        </div>
+
         <div class="actions well">
-          <input type="submit" class="btn primary" value="Submit My Choices"/>
+          <input type="submit" data-controls-modal="modal-from-dom" data-backdrop="true" data-keyboard="true" class="btn primary" value="Submit My Choices"/>
+          <span class="label important" id="credit">Credits: &nbsp;<span class="creditshow">0</span></span>
           <a href="#header">Top</a>
         </div>
       </form>
