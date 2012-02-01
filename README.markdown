@@ -8,3 +8,9 @@ Technologies used:
 -------------------
 - Code Igniter (PHP)
 - jQuery
+
+Issues
+------------------
+- Add warning msgs
+- Slot scrolling in Round 2
+
