@@ -1,5 +1,4 @@
 $(document).ready(function(){
-  $(".sorted").tablesorter({sortList: [[ 1, 0 ]]});
 
     var totalpoints = 2000;
     $('#points').text(totalpoints);
@@ -19,6 +18,8 @@ $(document).ready(function(){
         //   $('#points').text('Points Over!'); 
         //   }
     });
-    $('#password').popover('show');
+    $('.msgerror').hide();
+    $('.fadein').fadeIn();
 });
+
 

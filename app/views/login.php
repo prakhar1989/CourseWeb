@@ -6,8 +6,8 @@ $prev_username = $this->session->flashdata('prev_uname');
 <div class="container">
   <div class="row">
     <div id="loginform" class="span8 offset4">
-      <h4>Login</h4>
-      <form action="validate_login" method="post" accept-charset="utf-8">
+    <h4>Login</h4>
+    <form action="<?php echo base_url();?>/login/validate_login" method="post" accept-charset="utf-8">
         <fieldset>
           <div class="clearfix">
             <label for="username">Username</label>
@@ -17,12 +17,11 @@ $prev_username = $this->session->flashdata('prev_uname');
           </div><!-- /clearfix -->
           <div class="clearfix <?php if ($errormsg) { echo "error";} ?>">
             <label for="password">Password</label>
-            <div class="input">
-              <input rel="popover" data-content="username and password dont match!" data-original-title="Error" class="large <?php if ($errormsg) { echo "error";} ?>" id="password" name="password" size="30" type="password" />
-               <?php if ($errormsg) {?>
-                <span class="help-inline">Username and Password dont match!</span> 
-              <?php }?>
+            <div class="input rel">
+              <input  class="large <?php if ($errormsg) { echo "error";} ?>" id="password" name="password" size="30" type="password" />
+              <p class="msgerror<?php if ($errormsg){ echo " fadein";} ?>">Wrong Username and password combination</p>
             </div>
+            <input type="hidden" name="redirectTo" value="<?php echo $redirectTo ?>" />
           </div><!-- /clearfix -->
           <div class="actions">
             <p><input type="submit" class="btn primary" value="Login &rarr;"/></p>

@@ -1,40 +1,31 @@
 <?php if ( ! defined('BASEPATH')) exit('No direct script access allowed');
 
-class Home extends CI_Controller
+class Login extends CI_Controller
 {
 
-  public function index()
+  public function index($redirectTo="home")
   {
     if(isLoggedIn())
-    {
-      echo "Hello, ". getUserName() . " ! &nbsp;&nbsp;&nbsp; ";
-      echo anchor("logout","logout") ;
-    }
+      redirect($redirectTo);
     else
     {
-      redirect("login");
+      $data['redirectTo']=$redirectTo;
+      $this->load->view('login',$data);
     }
   }
-  
-  public function login()
+
+  public function go($redirectTo="home")
   {
-    if(isLoggedIn())
-      redirect("home");
-    else
-      $this->load->view('login');
+    $this->index($redirectTo);
   }
-  
-  function logout()
-	{
-		$this->session->unset_userdata('logged_in');
-		$this->session->unset_userdata('username');
-		$this->index();
-	}
-  
-  function validate_login()
+ 
+  function validate_login($redirectTo="home")
 	{		
     $username = $this->input->post('username');
     $password = $this->input->post('password');
+    $redirectTo = $this->input->post('redirectTo');
+
+    $redirectTo= ($redirectTo=="") ? "home":$redirectTo;
 
 		if(ldap_authenticate($username, $password)) // if the user's credentials validated...
 		{
@@ -45,7 +36,7 @@ class Home extends CI_Controller
 			);
       
 			$this->session->set_userdata($data);
-			redirect('home');
+			redirect($redirectTo);
 		}
 		else // incorrect username or password
     {
@@ -54,7 +45,7 @@ class Home extends CI_Controller
                    'error'  => 'Incorrect Credentials!',
                    'prev_uname'     => $username,
                ) );
-      redirect("home/login");
+      redirect("login");
 		}
 	}
 }

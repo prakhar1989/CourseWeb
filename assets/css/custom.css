@@ -1,5 +1,9 @@
 @import url('bootstrap.min.css');
 
+::selection {
+  background-color: #D9D9D9 !important;
+  color: #000 !important;
+}
 @font-face {
   font-family: 'Mido';
   /* for IE */
@@ -21,6 +25,16 @@ label, select, input[type=button], input[type=submit]{
   font-family: 'Open Sans', sans-serif !important;
 }
 
+.rel{
+  position: relative;
+}
+
+p.msgerror {
+  position: absolute;
+  top:30px;
+  color: #B94A48;
+  display: inline-block;
+}
 
 h1,h2{
   font-family: 'Mido'; 
