@@ -1,11 +1,4 @@
-
 <?php 
-//create view round3_display_view as 
-//select courses.course_id as course_id, 
-//courses.course_name as course_name,
-//courses.seats as seats, 
-//round2_users.slot as slot from
-//courses join round2_slots on courses.course_id = round2_slots.course_id
   $this->load->view('include/header');
 ?>
 
@@ -32,10 +25,22 @@
   {
      $num_slots = $row->count;
   }
-  
+?>
+  <div class="pagination">
+    <ul>
+<?php 
   for($i=1; $i<= $num_slots; $i++)
   {
-    echo '<section id="slot$i">';
+    echo "<li><a href=\"#slot$i\">$i</a></li>";
+  }
+?>
+     </ul>
+  </div>
+
+<?php
+  for($i=1; $i<= $num_slots; $i++)
+  {
+    echo "<section id=\"slot$i\">";
 ?>
 <div class="page-header">
 <h3>Slot <?php echo $i;?></h3>
@@ -90,9 +95,9 @@
 <?php 
   } ?>
 
-<div class="actions courseSubmit">
+<div class="actions well">
   <input type="submit" class="btn primary" name="" value="Submit Courses" id=""/>
-  <a href="#top">Top</a>
+  <a href="#header">Top</a>
 </div>
 </form>
 <?php

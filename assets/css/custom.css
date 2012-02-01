@@ -74,7 +74,7 @@ table thead{
 .mainactions input[type=button]{
   margin: 0px 10px;
 }
-.header{
+#header{
   background: url('../img/bg_grid.png') repeat;
   padding-top: 50px;
   padding-bottom: 45px;
@@ -85,7 +85,7 @@ table thead{
   -moz-box-shadow: inset 0 -10px 10px rgba(0, 0, 0, 0.10);
   box-shadow: inset 0 -10px 10px rgba(0, 0, 0, 0.10);
 }
-.header h1,h2{ color: #EFF0F1;
+#header h1,h2{ color: #EFF0F1;
   font-size: 42px;
 }
 
@@ -128,14 +128,8 @@ footer p{
 section {
   padding-top: 40px;
 }
-.courseSubmit{
-  border-top: 1px solid #ddd;
-}
 
-.courseSubmit input[type=submit]{
-  margin-left: 100px;
-}
-.courseSubmit a {
+.well a {
   float: right;
 }
 .bidScore{

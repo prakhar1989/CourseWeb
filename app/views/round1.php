@@ -49,8 +49,9 @@
         </table>
         </div>
         </div>
-        <div class="well">
+        <div class="actions well">
           <input type="submit" class="btn primary" value="Submit My Choices"/>
+          <a href="#header">Top</a>
         </div>
       </form>
 <?php } ?>

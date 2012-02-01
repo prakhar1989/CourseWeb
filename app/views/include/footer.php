@@ -10,7 +10,8 @@
 //<![CDATA[
 $('.nav li a').smoothScroll();
 $('a.brand').smoothScroll({offset: -100});
-$('.courseSubmit a').smoothScroll({offset: -100});
+$('.well a').smoothScroll({offset: -100});
+$('.pagination a').smoothScroll();
 //]]>
 </script>
 </body>

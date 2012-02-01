@@ -6,5 +6,5 @@ of ISG @ IIM Calcutta
 
 Technologies used:
 -------------------
-- Code Ignitor (PHP)
+- Code Igniter (PHP)
 - jQuery

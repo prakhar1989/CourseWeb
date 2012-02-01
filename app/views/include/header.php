@@ -9,7 +9,7 @@
     <![endif]-->
     <!-- Le styles -->
     <link rel="stylesheet" href="<?php echo base_url(); ?>assets/css/custom.css" type="text/css" media="screen" charset="utf-8"/>
-    <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
+    <!-- <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'> -->
     <link rel="shortcut icon" href="<?php echo base_url(); ?>assets/img/favicon.png">
 <?php
   if(isLoggedIn())
@@ -41,7 +41,7 @@
 <?php 
   }
 ?>
-    <div class="header">
+    <div id="header">
       <div class="container">
         <h1>COURSE REGISTRATION PORTAL</h1>
         <div class="iimc">
