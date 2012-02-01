@@ -1,5 +1,5 @@
 $(document).ready(function(){
-
+    //points display on round3
     var totalpoints = 2000;
     $('#points').text(totalpoints);
     function computeScore(){
@@ -12,14 +12,24 @@ $(document).ready(function(){
       return score;
     }
     $('input[type=text]').change(function(){
-        // if (totalpoints - computeScore() > -1){
           $('#points').text(totalpoints - computeScore());
-        // } else {
-        //   $('#points').text('Points Over!'); 
-        //   }
     });
+    
+    //error message display in login page
     $('.msgerror').hide();
     $('.fadein').fadeIn();
+
+    //selection tables in round1
+    
+    $('#eoiTable tr input[type="checkbox"]').click(function(e) {
+       $(this).parent().parent().toggleClass('selected');
+       e.stopPropagation();
+    });
+    $('#eoiTable tr').click(function(){
+      $(this).toggleClass('selected');
+      var $checkbox = $(this).find('input[type=checkbox]');
+      $checkbox.prop('checked', !$checkbox.is(':checked'));
+     });
 });
 
 
