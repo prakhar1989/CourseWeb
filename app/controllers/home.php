@@ -9,6 +9,10 @@ class Home extends CI_Controller
     {
       echo "Hello, ". getUserName() . " ! &nbsp;&nbsp;&nbsp; ";
       echo anchor("logout","logout") ;
+      print "\n \n";
+      echo anchor('round1', "round1");
+      echo anchor('round2', "round2");
+      echo anchor('round3', "round3");
     }
     else
     {

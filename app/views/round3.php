@@ -21,10 +21,10 @@ $this->load->view('include/header',$data);
   <div class="page-header">
     <h3>Round 3</h3>
   </div>
-    <form action="round3/submit" method="post">
+    <form action="round3/submit" method="post" id="round3Form">
   <div class="row">
     <div class="span4">
-      <input type="submit" class="btn primary" value="Submit Bid"/>
+      <input type="submit" class="btn primary" id="round3submit" value="Submit Bid"/>
       <div class="bidScore">
         <h5>Points left</h5>
         <h5 id="points"></h5>
@@ -71,6 +71,20 @@ $this->load->view('include/header',$data);
 ?>
   </div>
 </section>
+
+<div id="modal-from-dom" class="modal hide fade">
+  <div class="modal-header">
+    <a href="#" class="close">&times;</a>
+    <h3>Submission Confirmation</h3>
+  </div>
+  <div class="modal-body">
+    <p>Are you sure you want to submit your choices? Only one submission is allowed, hence your choices will be considered final.</p>
+  </div>
+  <div class="modal-footer">
+    <a href="#" class="btn primary">Yup! I'm sure</a>
+    <a href="#" class="btn secondary quit">No, I'll check again</a>
+  </div>
+</div>
 
 <?php
 $this->load->view('include/footer');

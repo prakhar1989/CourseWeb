@@ -113,6 +113,7 @@ $(document).ready(function(){
           $('#modal-from-dom').modal('show');
        }
     });
+
     $('#modal-from-dom').modal({
       keyboard: true,
       backdrop: true 
@@ -120,7 +121,7 @@ $(document).ready(function(){
 
     //ROUND3
     //points display on round3
-    var totalpoints = 2000;
+    var totalpoints = 700;
     $('#points').text(totalpoints);
     function computeScore(){
       var score = 0;
@@ -135,6 +136,17 @@ $(document).ready(function(){
           $('#points').text(totalpoints - computeScore());
     });
     
+    $('#round3submit').click(function(e){
+       var checkpoints = parseInt($('#points').text()); 
+       if(isNaN(checkpoints) || checkpoints<0){
+         alert("Please make sure you use at the most 700 points for bidding");
+         return false;
+       } else {
+          e.preventDefault();
+          $('#modal-from-dom').modal('show');
+       }
+    });
+    
     //COMMON TO ROUNDS
     //modal window handling
     $('.quit').click(function(){
@@ -144,6 +156,7 @@ $(document).ready(function(){
     $('.modal-footer a.primary').click(function(){
       $('#round1Form').submit();
       $('#round2Form').submit();
+      $('#round3Form').submit();
     });
 });
 
