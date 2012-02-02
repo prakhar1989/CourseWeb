@@ -1,31 +1,11 @@
 $(document).ready(function(){
-
-    //scroll settings for round2
-    $('.nav li a').smoothScroll();
-    $('a.brand').smoothScroll({offset: -100});
-    $('.well a').smoothScroll({offset: -100});
-    $('.pagination a').smoothScroll()
-
+  
+    // LOGIN PAGE
     //error message display in login page
     $('.msgerror').hide();
     $('.fadein').fadeIn();
     
-    //points display on round3
-    var totalpoints = 2000;
-    $('#points').text(totalpoints);
-    function computeScore(){
-      var score = 0;
-      $('input[type=text]').each(function(){
-          if($(this).val()){
-            score += parseInt($(this).val());
-          }
-      });
-      return score;
-    }
-    $('input[type=text]').change(function(){
-          $('#points').text(totalpoints - computeScore());
-    });
-    
+    //ROUND1
     //credits display on round1
     function computeTotalCredits(){
       var totalcredits = 0;
@@ -48,43 +28,20 @@ $(document).ready(function(){
           }
       });
     }
-
     $('#Round1Table input[type=checkbox]').change(function(){
       computeTotalCredits();
     });
-    
     //selection tables in round1
-    $('table tr input[type="radio"]').click(function(e) {
-        var trClicked = $(this).parent().parent();
-        console.log(trClicked);
-        if (!$(trClicked).hasClass('selected')){
-          console.log("here");
-          //remove selected class from all rows in this table
-          $(trClicked).parent().children().removeClass('selected');
-          //add selected class to this row
-          $(trClicked).addClass('selected');
-        }
+    $('#eoiTable tr input[type="checkbox"]').click(function(e) {
+       $(this).parent().parent().toggleClass('selected');
        e.stopPropagation();
     });
-    $('table.round2Tables tr').click(function(){
-      if (!$(this).hasClass('selected')){
-        //remove selected class from all rows in this table
-        $(this).parent().children().removeClass('selected');
-        //add selected class to this row
-        $(this).addClass('selected');
-      } else {
-        $(this).removeClass('selected');
-      }
-      var radio = $(this).find('input[type=radio]');
-      radio.prop('checked', !radio.is(':checked'));
-      // computeTotalCredits();
+    $('#eoiTable tr').click(function(){
+      $(this).toggleClass('selected');
+      var $checkbox = $(this).find('input[type=checkbox]');
+      $checkbox.prop('checked', !$checkbox.is(':checked'));
+      computeTotalCredits();
      });
-      
-     //selection tables in round2
-     $
-     
-
-
      //onSubmit check in round1
     $('#Round1Submit').click(function(e){
        var totalCredits = parseFloat($('#credit span').text());
@@ -96,7 +53,89 @@ $(document).ready(function(){
           $('#modal-from-dom').modal('show');
        }
     });
+
+    //ROUND2 
+    //scroll settings for round2
+    $('.nav li a').smoothScroll();
+    $('a.brand').smoothScroll({offset: -100});
+    $('.well a').smoothScroll({offset: -100});
+    $('.pagination a').smoothScroll()
+
+    //selection tables in round2
+    $('table tr input[type="radio"]').click(function(e) {
+        var trClicked = $(this).parent().parent();
+        console.log(trClicked);
+        if (!$(trClicked).hasClass('selected')){
+          console.log("here");
+          //remove selected class from all rows in this table
+          $(trClicked).parent().children().removeClass('selected');
+          //add selected class to this row
+          $(trClicked).addClass('selected');
+        }
+       e.stopPropagation();
+       // computeRound2Credits();
+    });
+
+    $('table.round2Tables tr').click(function(){
+      if (!$(this).hasClass('selected')){
+        //remove selected class from all rows in this table
+        $(this).parent().children().removeClass('selected');
+        //add selected class to this row
+        $(this).addClass('selected');
+      } else {
+        $(this).removeClass('selected');
+      }
+      var radio = $(this).find('input[type=radio]');
+      radio.prop('checked', !radio.is(':checked'));
+      // computeRound2Credits();
+   });
     
+   //function to compute round2 credits
+   function computeRound2Credits(){
+      var totalcredits = 0;
+      $('.round2Tables input[type=radio]').each(function(){
+        if ($(this).prop('checked')){ 
+          clickedCredits = parseFloat($(this).parent().prev().text());
+          totalcredits += clickedCredits;
+        }
+       });
+       return totalcredits;
+    }
+    
+    //call this function on submit click
+    $('#round2submit').click(function(e){
+       var totalCredits = computeRound2Credits();
+       if(totalCredits<5 || totalCredits>7){
+         alert('Please make sure your total credits are between 5 and 7');
+         return false;
+       } else {
+          e.preventDefault();
+          $('#modal-from-dom').modal('show');
+       }
+    });
+    $('#modal-from-dom').modal({
+      keyboard: true,
+      backdrop: true 
+    });
+
+    //ROUND3
+    //points display on round3
+    var totalpoints = 2000;
+    $('#points').text(totalpoints);
+    function computeScore(){
+      var score = 0;
+      $('input[type=text]').each(function(){
+          if($(this).val()){
+            score += parseInt($(this).val());
+          }
+      });
+      return score;
+    }
+    $('input[type=text]').change(function(){
+          $('#points').text(totalpoints - computeScore());
+    });
+    
+    //COMMON TO ROUNDS
     //modal window handling
     $('.quit').click(function(){
       $('#modal-from-dom').modal('hide');

@@ -27,7 +27,6 @@
   {
 ?>
 <form action="round2/submit" method="post" id="round2Form">
-
 <?php
   for($i=1; $i<= $num_slots; $i++)
   {
@@ -77,7 +76,6 @@
   } 
 ?>
 
-
 <div id="modal-from-dom" class="modal hide fade">
   <div class="modal-header">
     <a href="#" class="close">&times;</a>
@@ -93,7 +91,7 @@
 </div>
 
 <div class="actions well">
-  <input type="submit" data-controls-modal="modal-from-dom" data-backdrop="true" data-keyboard="true" class="btn primary" value="Submit Courses"/>
+  <input type="submit" id= "round2submit" class="btn primary" value="Submit Courses"/>
   <a href="#header">Top</a>
 </div>
 </form>

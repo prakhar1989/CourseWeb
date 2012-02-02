@@ -23,7 +23,7 @@ $prev_username = $this->session->flashdata('prev_uname');
             </div>
             <input type="hidden" name="redirectTo" value="<?php echo $redirectTo ?>" />
           </div><!-- /clearfix -->
-          <div class="actions">
+          <div class="actions no-white">
             <p><input type="submit" class="btn primary" value="Login &rarr;"/></p>
           </div>
         </fieldset>

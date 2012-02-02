@@ -69,7 +69,7 @@
         </div>
 
         <div class="actions well">
-          <input type="submit" id="#Round1Submit" class="btn primary" value="Submit My Choices"/>
+          <input type="submit" id="Round1Submit" class="btn primary" value="Submit My Choices"/>
           <a href="#header">Top</a>
         </div>
       </form>

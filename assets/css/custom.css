@@ -167,3 +167,11 @@ span.label{
   left: 120px;
 }
 
+span.round2label {
+  top: 315px;
+  left: 280px;
+}
+
+.no-white{
+  background: white;
+}

@@ -2564,3 +2564,2758 @@ DEBUG - 2012-02-02 14:16:24 --> File loaded: app/views/include/footer.php
 DEBUG - 2012-02-02 14:16:24 --> File loaded: app/views/round2.php
 DEBUG - 2012-02-02 14:16:24 --> Final output sent to browser
 DEBUG - 2012-02-02 14:16:24 --> Total execution time: 0.0390
+DEBUG - 2012-02-02 14:19:39 --> Config Class Initialized
+DEBUG - 2012-02-02 14:19:39 --> Hooks Class Initialized
+DEBUG - 2012-02-02 14:19:39 --> Utf8 Class Initialized
+DEBUG - 2012-02-02 14:19:39 --> UTF-8 Support Enabled
+DEBUG - 2012-02-02 14:19:39 --> URI Class Initialized
+DEBUG - 2012-02-02 14:19:39 --> Router Class Initialized
+DEBUG - 2012-02-02 14:19:39 --> Output Class Initialized
+DEBUG - 2012-02-02 14:19:39 --> Security Class Initialized
+DEBUG - 2012-02-02 14:19:39 --> Input Class Initialized
+DEBUG - 2012-02-02 14:19:39 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-02-02 14:19:39 --> Language Class Initialized
+DEBUG - 2012-02-02 14:19:39 --> Loader Class Initialized
+DEBUG - 2012-02-02 14:19:39 --> Helper loaded: form_helper
+DEBUG - 2012-02-02 14:19:39 --> Helper loaded: url_helper
+DEBUG - 2012-02-02 14:19:39 --> Helper loaded: login_helper
+DEBUG - 2012-02-02 14:19:39 --> Database Driver Class Initialized
+DEBUG - 2012-02-02 14:19:39 --> Session Class Initialized
+DEBUG - 2012-02-02 14:19:39 --> Helper loaded: string_helper
+DEBUG - 2012-02-02 14:19:39 --> Encrypt Class Initialized
+DEBUG - 2012-02-02 14:19:39 --> Session routines successfully run
+DEBUG - 2012-02-02 14:19:39 --> Controller Class Initialized
+DEBUG - 2012-02-02 14:19:39 --> File loaded: app/views/include/header.php
+DEBUG - 2012-02-02 14:19:39 --> File loaded: app/views/include/footer.php
+DEBUG - 2012-02-02 14:19:39 --> File loaded: app/views/round2.php
+DEBUG - 2012-02-02 14:19:39 --> Final output sent to browser
+DEBUG - 2012-02-02 14:19:39 --> Total execution time: 0.0655
+DEBUG - 2012-02-02 15:31:19 --> Config Class Initialized
+DEBUG - 2012-02-02 15:31:19 --> Hooks Class Initialized
+DEBUG - 2012-02-02 15:31:19 --> Utf8 Class Initialized
+DEBUG - 2012-02-02 15:31:19 --> UTF-8 Support Enabled
+DEBUG - 2012-02-02 15:31:19 --> URI Class Initialized
+DEBUG - 2012-02-02 15:31:19 --> Router Class Initialized
+DEBUG - 2012-02-02 15:31:19 --> Output Class Initialized
+DEBUG - 2012-02-02 15:31:19 --> Security Class Initialized
+DEBUG - 2012-02-02 15:31:19 --> Input Class Initialized
+DEBUG - 2012-02-02 15:31:19 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-02-02 15:31:19 --> Language Class Initialized
+DEBUG - 2012-02-02 15:31:19 --> Loader Class Initialized
+DEBUG - 2012-02-02 15:31:19 --> Helper loaded: form_helper
+DEBUG - 2012-02-02 15:31:19 --> Helper loaded: url_helper
+DEBUG - 2012-02-02 15:31:19 --> Helper loaded: login_helper
+DEBUG - 2012-02-02 15:31:19 --> Database Driver Class Initialized
+DEBUG - 2012-02-02 15:31:19 --> Session Class Initialized
+DEBUG - 2012-02-02 15:31:19 --> Helper loaded: string_helper
+DEBUG - 2012-02-02 15:31:19 --> Encrypt Class Initialized
+DEBUG - 2012-02-02 15:31:20 --> Session routines successfully run
+DEBUG - 2012-02-02 15:31:20 --> Controller Class Initialized
+DEBUG - 2012-02-02 15:31:20 --> Config Class Initialized
+DEBUG - 2012-02-02 15:31:20 --> Hooks Class Initialized
+DEBUG - 2012-02-02 15:31:20 --> Utf8 Class Initialized
+DEBUG - 2012-02-02 15:31:20 --> UTF-8 Support Enabled
+DEBUG - 2012-02-02 15:31:20 --> URI Class Initialized
+DEBUG - 2012-02-02 15:31:20 --> Router Class Initialized
+DEBUG - 2012-02-02 15:31:20 --> Output Class Initialized
+DEBUG - 2012-02-02 15:31:20 --> Security Class Initialized
+DEBUG - 2012-02-02 15:31:20 --> Input Class Initialized
+DEBUG - 2012-02-02 15:31:20 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-02-02 15:31:20 --> Language Class Initialized
+DEBUG - 2012-02-02 15:31:20 --> Loader Class Initialized
+DEBUG - 2012-02-02 15:31:20 --> Helper loaded: form_helper
+DEBUG - 2012-02-02 15:31:20 --> Helper loaded: url_helper
+DEBUG - 2012-02-02 15:31:20 --> Helper loaded: login_helper
+DEBUG - 2012-02-02 15:31:20 --> Database Driver Class Initialized
+DEBUG - 2012-02-02 15:31:20 --> Session Class Initialized
+DEBUG - 2012-02-02 15:31:20 --> Helper loaded: string_helper
+DEBUG - 2012-02-02 15:31:20 --> Encrypt Class Initialized
+DEBUG - 2012-02-02 15:31:20 --> Session routines successfully run
+DEBUG - 2012-02-02 15:31:20 --> Controller Class Initialized
+DEBUG - 2012-02-02 15:31:20 --> File loaded: app/views/include/header.php
+DEBUG - 2012-02-02 15:31:20 --> File loaded: app/views/include/footer.php
+DEBUG - 2012-02-02 15:31:20 --> File loaded: app/views/login.php
+DEBUG - 2012-02-02 15:31:20 --> Final output sent to browser
+DEBUG - 2012-02-02 15:31:20 --> Total execution time: 0.0344
+DEBUG - 2012-02-02 15:31:51 --> Config Class Initialized
+DEBUG - 2012-02-02 15:31:51 --> Hooks Class Initialized
+DEBUG - 2012-02-02 15:31:51 --> Utf8 Class Initialized
+DEBUG - 2012-02-02 15:31:51 --> UTF-8 Support Enabled
+DEBUG - 2012-02-02 15:31:51 --> URI Class Initialized
+DEBUG - 2012-02-02 15:31:51 --> Router Class Initialized
+DEBUG - 2012-02-02 15:31:51 --> Output Class Initialized
+DEBUG - 2012-02-02 15:31:51 --> Security Class Initialized
+DEBUG - 2012-02-02 15:31:51 --> Input Class Initialized
+DEBUG - 2012-02-02 15:31:51 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-02-02 15:31:51 --> Language Class Initialized
+DEBUG - 2012-02-02 15:31:51 --> Loader Class Initialized
+DEBUG - 2012-02-02 15:31:51 --> Helper loaded: form_helper
+DEBUG - 2012-02-02 15:31:51 --> Helper loaded: url_helper
+DEBUG - 2012-02-02 15:31:51 --> Helper loaded: login_helper
+DEBUG - 2012-02-02 15:31:51 --> Database Driver Class Initialized
+DEBUG - 2012-02-02 15:31:51 --> Session Class Initialized
+DEBUG - 2012-02-02 15:31:51 --> Helper loaded: string_helper
+DEBUG - 2012-02-02 15:31:51 --> Encrypt Class Initialized
+DEBUG - 2012-02-02 15:31:51 --> Session routines successfully run
+DEBUG - 2012-02-02 15:31:51 --> Controller Class Initialized
+DEBUG - 2012-02-02 15:31:51 --> Config Class Initialized
+DEBUG - 2012-02-02 15:31:51 --> Hooks Class Initialized
+DEBUG - 2012-02-02 15:31:51 --> Utf8 Class Initialized
+DEBUG - 2012-02-02 15:31:51 --> UTF-8 Support Enabled
+DEBUG - 2012-02-02 15:31:51 --> URI Class Initialized
+DEBUG - 2012-02-02 15:31:51 --> Router Class Initialized
+DEBUG - 2012-02-02 15:31:51 --> Output Class Initialized
+DEBUG - 2012-02-02 15:31:51 --> Security Class Initialized
+DEBUG - 2012-02-02 15:31:51 --> Input Class Initialized
+DEBUG - 2012-02-02 15:31:51 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-02-02 15:31:51 --> Language Class Initialized
+DEBUG - 2012-02-02 15:31:51 --> Loader Class Initialized
+DEBUG - 2012-02-02 15:31:51 --> Helper loaded: form_helper
+DEBUG - 2012-02-02 15:31:51 --> Helper loaded: url_helper
+DEBUG - 2012-02-02 15:31:51 --> Helper loaded: login_helper
+DEBUG - 2012-02-02 15:31:52 --> Database Driver Class Initialized
+DEBUG - 2012-02-02 15:31:52 --> Session Class Initialized
+DEBUG - 2012-02-02 15:31:52 --> Helper loaded: string_helper
+DEBUG - 2012-02-02 15:31:52 --> Encrypt Class Initialized
+DEBUG - 2012-02-02 15:31:52 --> Session routines successfully run
+DEBUG - 2012-02-02 15:31:52 --> Controller Class Initialized
+DEBUG - 2012-02-02 15:31:52 --> Final output sent to browser
+DEBUG - 2012-02-02 15:31:52 --> Total execution time: 0.0697
+DEBUG - 2012-02-02 15:32:01 --> Config Class Initialized
+DEBUG - 2012-02-02 15:32:01 --> Hooks Class Initialized
+DEBUG - 2012-02-02 15:32:01 --> Utf8 Class Initialized
+DEBUG - 2012-02-02 15:32:01 --> UTF-8 Support Enabled
+DEBUG - 2012-02-02 15:32:01 --> URI Class Initialized
+DEBUG - 2012-02-02 15:32:01 --> Router Class Initialized
+DEBUG - 2012-02-02 15:32:01 --> Output Class Initialized
+DEBUG - 2012-02-02 15:32:01 --> Security Class Initialized
+DEBUG - 2012-02-02 15:32:01 --> Input Class Initialized
+DEBUG - 2012-02-02 15:32:01 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-02-02 15:32:01 --> Language Class Initialized
+DEBUG - 2012-02-02 15:32:01 --> Loader Class Initialized
+DEBUG - 2012-02-02 15:32:01 --> Helper loaded: form_helper
+DEBUG - 2012-02-02 15:32:01 --> Helper loaded: url_helper
+DEBUG - 2012-02-02 15:32:01 --> Helper loaded: login_helper
+DEBUG - 2012-02-02 15:32:01 --> Database Driver Class Initialized
+DEBUG - 2012-02-02 15:32:01 --> Session Class Initialized
+DEBUG - 2012-02-02 15:32:01 --> Helper loaded: string_helper
+DEBUG - 2012-02-02 15:32:01 --> Encrypt Class Initialized
+DEBUG - 2012-02-02 15:32:01 --> Session routines successfully run
+DEBUG - 2012-02-02 15:32:01 --> Controller Class Initialized
+DEBUG - 2012-02-02 15:32:01 --> File loaded: app/views/include/header.php
+DEBUG - 2012-02-02 15:32:01 --> File loaded: app/views/include/footer.php
+DEBUG - 2012-02-02 15:32:01 --> File loaded: app/views/round1.php
+DEBUG - 2012-02-02 15:32:01 --> Final output sent to browser
+DEBUG - 2012-02-02 15:32:01 --> Total execution time: 0.0856
+DEBUG - 2012-02-02 15:32:23 --> Config Class Initialized
+DEBUG - 2012-02-02 15:32:23 --> Hooks Class Initialized
+DEBUG - 2012-02-02 15:32:23 --> Utf8 Class Initialized
+DEBUG - 2012-02-02 15:32:23 --> UTF-8 Support Enabled
+DEBUG - 2012-02-02 15:32:23 --> URI Class Initialized
+DEBUG - 2012-02-02 15:32:23 --> Router Class Initialized
+DEBUG - 2012-02-02 15:32:23 --> Output Class Initialized
+DEBUG - 2012-02-02 15:32:23 --> Security Class Initialized
+DEBUG - 2012-02-02 15:32:23 --> Input Class Initialized
+DEBUG - 2012-02-02 15:32:23 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-02-02 15:32:23 --> Language Class Initialized
+DEBUG - 2012-02-02 15:32:23 --> Loader Class Initialized
+DEBUG - 2012-02-02 15:32:23 --> Helper loaded: form_helper
+DEBUG - 2012-02-02 15:32:23 --> Helper loaded: url_helper
+DEBUG - 2012-02-02 15:32:23 --> Helper loaded: login_helper
+DEBUG - 2012-02-02 15:32:23 --> Database Driver Class Initialized
+DEBUG - 2012-02-02 15:32:23 --> Session Class Initialized
+DEBUG - 2012-02-02 15:32:23 --> Helper loaded: string_helper
+DEBUG - 2012-02-02 15:32:23 --> Encrypt Class Initialized
+DEBUG - 2012-02-02 15:32:23 --> Session routines successfully run
+DEBUG - 2012-02-02 15:32:23 --> Controller Class Initialized
+DEBUG - 2012-02-02 15:32:23 --> Config Class Initialized
+DEBUG - 2012-02-02 15:32:23 --> Hooks Class Initialized
+DEBUG - 2012-02-02 15:32:23 --> Utf8 Class Initialized
+DEBUG - 2012-02-02 15:32:23 --> UTF-8 Support Enabled
+DEBUG - 2012-02-02 15:32:23 --> URI Class Initialized
+DEBUG - 2012-02-02 15:32:23 --> Router Class Initialized
+DEBUG - 2012-02-02 15:32:23 --> Output Class Initialized
+DEBUG - 2012-02-02 15:32:23 --> Security Class Initialized
+DEBUG - 2012-02-02 15:32:23 --> Input Class Initialized
+DEBUG - 2012-02-02 15:32:23 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-02-02 15:32:23 --> Language Class Initialized
+DEBUG - 2012-02-02 15:32:23 --> Loader Class Initialized
+DEBUG - 2012-02-02 15:32:23 --> Helper loaded: form_helper
+DEBUG - 2012-02-02 15:32:23 --> Helper loaded: url_helper
+DEBUG - 2012-02-02 15:32:23 --> Helper loaded: login_helper
+DEBUG - 2012-02-02 15:32:23 --> Database Driver Class Initialized
+DEBUG - 2012-02-02 15:32:23 --> Session Class Initialized
+DEBUG - 2012-02-02 15:32:23 --> Helper loaded: string_helper
+DEBUG - 2012-02-02 15:32:23 --> Encrypt Class Initialized
+DEBUG - 2012-02-02 15:32:23 --> Session routines successfully run
+DEBUG - 2012-02-02 15:32:23 --> Controller Class Initialized
+DEBUG - 2012-02-02 15:32:23 --> File loaded: app/views/include/header.php
+DEBUG - 2012-02-02 15:32:23 --> File loaded: app/views/include/footer.php
+DEBUG - 2012-02-02 15:32:23 --> File loaded: app/views/round1.php
+DEBUG - 2012-02-02 15:32:23 --> Final output sent to browser
+DEBUG - 2012-02-02 15:32:23 --> Total execution time: 0.0406
+DEBUG - 2012-02-02 15:32:59 --> Config Class Initialized
+DEBUG - 2012-02-02 15:32:59 --> Hooks Class Initialized
+DEBUG - 2012-02-02 15:32:59 --> Utf8 Class Initialized
+DEBUG - 2012-02-02 15:32:59 --> UTF-8 Support Enabled
+DEBUG - 2012-02-02 15:32:59 --> URI Class Initialized
+DEBUG - 2012-02-02 15:32:59 --> Router Class Initialized
+DEBUG - 2012-02-02 15:32:59 --> Output Class Initialized
+DEBUG - 2012-02-02 15:32:59 --> Security Class Initialized
+DEBUG - 2012-02-02 15:32:59 --> Input Class Initialized
+DEBUG - 2012-02-02 15:32:59 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-02-02 15:32:59 --> Language Class Initialized
+DEBUG - 2012-02-02 15:32:59 --> Loader Class Initialized
+DEBUG - 2012-02-02 15:32:59 --> Helper loaded: form_helper
+DEBUG - 2012-02-02 15:32:59 --> Helper loaded: url_helper
+DEBUG - 2012-02-02 15:32:59 --> Helper loaded: login_helper
+DEBUG - 2012-02-02 15:32:59 --> Database Driver Class Initialized
+DEBUG - 2012-02-02 15:32:59 --> Session Class Initialized
+DEBUG - 2012-02-02 15:32:59 --> Helper loaded: string_helper
+DEBUG - 2012-02-02 15:32:59 --> Encrypt Class Initialized
+DEBUG - 2012-02-02 15:32:59 --> Session routines successfully run
+DEBUG - 2012-02-02 15:32:59 --> Controller Class Initialized
+DEBUG - 2012-02-02 15:32:59 --> Config Class Initialized
+DEBUG - 2012-02-02 15:32:59 --> Hooks Class Initialized
+DEBUG - 2012-02-02 15:32:59 --> Utf8 Class Initialized
+DEBUG - 2012-02-02 15:32:59 --> UTF-8 Support Enabled
+DEBUG - 2012-02-02 15:32:59 --> URI Class Initialized
+DEBUG - 2012-02-02 15:32:59 --> Router Class Initialized
+DEBUG - 2012-02-02 15:32:59 --> Output Class Initialized
+DEBUG - 2012-02-02 15:32:59 --> Security Class Initialized
+DEBUG - 2012-02-02 15:32:59 --> Input Class Initialized
+DEBUG - 2012-02-02 15:32:59 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-02-02 15:32:59 --> Language Class Initialized
+DEBUG - 2012-02-02 15:32:59 --> Loader Class Initialized
+DEBUG - 2012-02-02 15:32:59 --> Helper loaded: form_helper
+DEBUG - 2012-02-02 15:32:59 --> Helper loaded: url_helper
+DEBUG - 2012-02-02 15:32:59 --> Helper loaded: login_helper
+DEBUG - 2012-02-02 15:32:59 --> Database Driver Class Initialized
+DEBUG - 2012-02-02 15:32:59 --> Session Class Initialized
+DEBUG - 2012-02-02 15:32:59 --> Helper loaded: string_helper
+DEBUG - 2012-02-02 15:32:59 --> Encrypt Class Initialized
+DEBUG - 2012-02-02 15:32:59 --> Session routines successfully run
+DEBUG - 2012-02-02 15:32:59 --> Controller Class Initialized
+DEBUG - 2012-02-02 15:32:59 --> File loaded: app/views/include/header.php
+DEBUG - 2012-02-02 15:32:59 --> File loaded: app/views/include/footer.php
+DEBUG - 2012-02-02 15:32:59 --> File loaded: app/views/login.php
+DEBUG - 2012-02-02 15:32:59 --> Final output sent to browser
+DEBUG - 2012-02-02 15:32:59 --> Total execution time: 0.0342
+DEBUG - 2012-02-02 15:33:12 --> Config Class Initialized
+DEBUG - 2012-02-02 15:33:12 --> Hooks Class Initialized
+DEBUG - 2012-02-02 15:33:12 --> Utf8 Class Initialized
+DEBUG - 2012-02-02 15:33:12 --> UTF-8 Support Enabled
+DEBUG - 2012-02-02 15:33:12 --> URI Class Initialized
+DEBUG - 2012-02-02 15:33:12 --> Router Class Initialized
+DEBUG - 2012-02-02 15:33:12 --> Output Class Initialized
+DEBUG - 2012-02-02 15:33:12 --> Security Class Initialized
+DEBUG - 2012-02-02 15:33:12 --> Input Class Initialized
+DEBUG - 2012-02-02 15:33:12 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-02-02 15:33:12 --> Language Class Initialized
+DEBUG - 2012-02-02 15:33:12 --> Loader Class Initialized
+DEBUG - 2012-02-02 15:33:12 --> Helper loaded: form_helper
+DEBUG - 2012-02-02 15:33:12 --> Helper loaded: url_helper
+DEBUG - 2012-02-02 15:33:12 --> Helper loaded: login_helper
+DEBUG - 2012-02-02 15:33:12 --> Database Driver Class Initialized
+DEBUG - 2012-02-02 15:33:12 --> Session Class Initialized
+DEBUG - 2012-02-02 15:33:12 --> Helper loaded: string_helper
+DEBUG - 2012-02-02 15:33:12 --> Encrypt Class Initialized
+DEBUG - 2012-02-02 15:33:12 --> Session routines successfully run
+DEBUG - 2012-02-02 15:33:12 --> Controller Class Initialized
+DEBUG - 2012-02-02 15:33:12 --> Config Class Initialized
+DEBUG - 2012-02-02 15:33:12 --> Hooks Class Initialized
+DEBUG - 2012-02-02 15:33:12 --> Utf8 Class Initialized
+DEBUG - 2012-02-02 15:33:12 --> UTF-8 Support Enabled
+DEBUG - 2012-02-02 15:33:12 --> URI Class Initialized
+DEBUG - 2012-02-02 15:33:12 --> Router Class Initialized
+DEBUG - 2012-02-02 15:33:12 --> Output Class Initialized
+DEBUG - 2012-02-02 15:33:12 --> Security Class Initialized
+DEBUG - 2012-02-02 15:33:12 --> Input Class Initialized
+DEBUG - 2012-02-02 15:33:12 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-02-02 15:33:12 --> Language Class Initialized
+DEBUG - 2012-02-02 15:33:12 --> Loader Class Initialized
+DEBUG - 2012-02-02 15:33:12 --> Helper loaded: form_helper
+DEBUG - 2012-02-02 15:33:12 --> Helper loaded: url_helper
+DEBUG - 2012-02-02 15:33:12 --> Helper loaded: login_helper
+DEBUG - 2012-02-02 15:33:12 --> Database Driver Class Initialized
+DEBUG - 2012-02-02 15:33:12 --> Session Class Initialized
+DEBUG - 2012-02-02 15:33:12 --> Helper loaded: string_helper
+DEBUG - 2012-02-02 15:33:12 --> Encrypt Class Initialized
+DEBUG - 2012-02-02 15:33:12 --> Session routines successfully run
+DEBUG - 2012-02-02 15:33:12 --> Controller Class Initialized
+DEBUG - 2012-02-02 15:33:12 --> Final output sent to browser
+DEBUG - 2012-02-02 15:33:12 --> Total execution time: 0.0444
+DEBUG - 2012-02-02 15:33:20 --> Config Class Initialized
+DEBUG - 2012-02-02 15:33:20 --> Hooks Class Initialized
+DEBUG - 2012-02-02 15:33:20 --> Utf8 Class Initialized
+DEBUG - 2012-02-02 15:33:20 --> UTF-8 Support Enabled
+DEBUG - 2012-02-02 15:33:20 --> URI Class Initialized
+DEBUG - 2012-02-02 15:33:20 --> Router Class Initialized
+ERROR - 2012-02-02 15:33:20 --> 404 Page Not Found --> roun1
+DEBUG - 2012-02-02 15:33:26 --> Config Class Initialized
+DEBUG - 2012-02-02 15:33:26 --> Hooks Class Initialized
+DEBUG - 2012-02-02 15:33:26 --> Utf8 Class Initialized
+DEBUG - 2012-02-02 15:33:26 --> UTF-8 Support Enabled
+DEBUG - 2012-02-02 15:33:26 --> URI Class Initialized
+DEBUG - 2012-02-02 15:33:26 --> Router Class Initialized
+DEBUG - 2012-02-02 15:33:26 --> Output Class Initialized
+DEBUG - 2012-02-02 15:33:26 --> Security Class Initialized
+DEBUG - 2012-02-02 15:33:26 --> Input Class Initialized
+DEBUG - 2012-02-02 15:33:26 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-02-02 15:33:26 --> Language Class Initialized
+DEBUG - 2012-02-02 15:33:26 --> Loader Class Initialized
+DEBUG - 2012-02-02 15:33:26 --> Helper loaded: form_helper
+DEBUG - 2012-02-02 15:33:26 --> Helper loaded: url_helper
+DEBUG - 2012-02-02 15:33:26 --> Helper loaded: login_helper
+DEBUG - 2012-02-02 15:33:26 --> Database Driver Class Initialized
+DEBUG - 2012-02-02 15:33:26 --> Session Class Initialized
+DEBUG - 2012-02-02 15:33:26 --> Helper loaded: string_helper
+DEBUG - 2012-02-02 15:33:26 --> Encrypt Class Initialized
+DEBUG - 2012-02-02 15:33:26 --> Session routines successfully run
+DEBUG - 2012-02-02 15:33:26 --> Controller Class Initialized
+DEBUG - 2012-02-02 15:33:26 --> File loaded: app/views/include/header.php
+DEBUG - 2012-02-02 15:33:26 --> File loaded: app/views/include/footer.php
+DEBUG - 2012-02-02 15:33:26 --> File loaded: app/views/round1.php
+DEBUG - 2012-02-02 15:33:26 --> Final output sent to browser
+DEBUG - 2012-02-02 15:33:26 --> Total execution time: 0.0423
+DEBUG - 2012-02-02 15:33:56 --> Config Class Initialized
+DEBUG - 2012-02-02 15:33:56 --> Hooks Class Initialized
+DEBUG - 2012-02-02 15:33:56 --> Utf8 Class Initialized
+DEBUG - 2012-02-02 15:33:56 --> UTF-8 Support Enabled
+DEBUG - 2012-02-02 15:33:56 --> URI Class Initialized
+DEBUG - 2012-02-02 15:33:56 --> Router Class Initialized
+DEBUG - 2012-02-02 15:33:56 --> Output Class Initialized
+DEBUG - 2012-02-02 15:33:56 --> Security Class Initialized
+DEBUG - 2012-02-02 15:33:56 --> Input Class Initialized
+DEBUG - 2012-02-02 15:33:56 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-02-02 15:33:56 --> Language Class Initialized
+DEBUG - 2012-02-02 15:33:56 --> Loader Class Initialized
+DEBUG - 2012-02-02 15:33:56 --> Helper loaded: form_helper
+DEBUG - 2012-02-02 15:33:56 --> Helper loaded: url_helper
+DEBUG - 2012-02-02 15:33:56 --> Helper loaded: login_helper
+DEBUG - 2012-02-02 15:33:56 --> Database Driver Class Initialized
+DEBUG - 2012-02-02 15:33:56 --> Session Class Initialized
+DEBUG - 2012-02-02 15:33:56 --> Helper loaded: string_helper
+DEBUG - 2012-02-02 15:33:56 --> Encrypt Class Initialized
+DEBUG - 2012-02-02 15:33:56 --> Session routines successfully run
+DEBUG - 2012-02-02 15:33:56 --> Controller Class Initialized
+DEBUG - 2012-02-02 15:33:56 --> Config Class Initialized
+DEBUG - 2012-02-02 15:33:56 --> Hooks Class Initialized
+DEBUG - 2012-02-02 15:33:56 --> Utf8 Class Initialized
+DEBUG - 2012-02-02 15:33:56 --> UTF-8 Support Enabled
+DEBUG - 2012-02-02 15:33:56 --> URI Class Initialized
+DEBUG - 2012-02-02 15:33:56 --> Router Class Initialized
+DEBUG - 2012-02-02 15:33:56 --> Output Class Initialized
+DEBUG - 2012-02-02 15:33:56 --> Security Class Initialized
+DEBUG - 2012-02-02 15:33:56 --> Input Class Initialized
+DEBUG - 2012-02-02 15:33:56 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-02-02 15:33:56 --> Language Class Initialized
+DEBUG - 2012-02-02 15:33:56 --> Loader Class Initialized
+DEBUG - 2012-02-02 15:33:56 --> Helper loaded: form_helper
+DEBUG - 2012-02-02 15:33:56 --> Helper loaded: url_helper
+DEBUG - 2012-02-02 15:33:56 --> Helper loaded: login_helper
+DEBUG - 2012-02-02 15:33:56 --> Database Driver Class Initialized
+DEBUG - 2012-02-02 15:33:56 --> Session Class Initialized
+DEBUG - 2012-02-02 15:33:56 --> Helper loaded: string_helper
+DEBUG - 2012-02-02 15:33:56 --> Encrypt Class Initialized
+DEBUG - 2012-02-02 15:33:56 --> Session routines successfully run
+DEBUG - 2012-02-02 15:33:56 --> Controller Class Initialized
+DEBUG - 2012-02-02 15:33:56 --> File loaded: app/views/include/header.php
+DEBUG - 2012-02-02 15:33:56 --> File loaded: app/views/include/footer.php
+DEBUG - 2012-02-02 15:33:56 --> File loaded: app/views/round1.php
+DEBUG - 2012-02-02 15:33:56 --> Final output sent to browser
+DEBUG - 2012-02-02 15:33:56 --> Total execution time: 0.0486
+DEBUG - 2012-02-02 15:34:04 --> Config Class Initialized
+DEBUG - 2012-02-02 15:34:04 --> Hooks Class Initialized
+DEBUG - 2012-02-02 15:34:04 --> Utf8 Class Initialized
+DEBUG - 2012-02-02 15:34:04 --> UTF-8 Support Enabled
+DEBUG - 2012-02-02 15:34:04 --> URI Class Initialized
+DEBUG - 2012-02-02 15:34:04 --> Router Class Initialized
+DEBUG - 2012-02-02 15:34:04 --> Output Class Initialized
+DEBUG - 2012-02-02 15:34:04 --> Security Class Initialized
+DEBUG - 2012-02-02 15:34:04 --> Input Class Initialized
+DEBUG - 2012-02-02 15:34:04 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-02-02 15:34:04 --> Language Class Initialized
+DEBUG - 2012-02-02 15:34:04 --> Loader Class Initialized
+DEBUG - 2012-02-02 15:34:04 --> Helper loaded: form_helper
+DEBUG - 2012-02-02 15:34:04 --> Helper loaded: url_helper
+DEBUG - 2012-02-02 15:34:04 --> Helper loaded: login_helper
+DEBUG - 2012-02-02 15:34:04 --> Database Driver Class Initialized
+DEBUG - 2012-02-02 15:34:04 --> Session Class Initialized
+DEBUG - 2012-02-02 15:34:04 --> Helper loaded: string_helper
+DEBUG - 2012-02-02 15:34:04 --> Encrypt Class Initialized
+DEBUG - 2012-02-02 15:34:04 --> Session routines successfully run
+DEBUG - 2012-02-02 15:34:04 --> Controller Class Initialized
+DEBUG - 2012-02-02 15:34:04 --> DB Transaction Failure
+ERROR - 2012-02-02 15:34:04 --> Query error: Duplicate entry 'vivekj2013' for key 'PRIMARY'
+DEBUG - 2012-02-02 15:34:04 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2012-02-02 15:34:09 --> Config Class Initialized
+DEBUG - 2012-02-02 15:34:09 --> Hooks Class Initialized
+DEBUG - 2012-02-02 15:34:09 --> Utf8 Class Initialized
+DEBUG - 2012-02-02 15:34:09 --> UTF-8 Support Enabled
+DEBUG - 2012-02-02 15:34:09 --> URI Class Initialized
+DEBUG - 2012-02-02 15:34:09 --> Router Class Initialized
+DEBUG - 2012-02-02 15:34:09 --> Output Class Initialized
+DEBUG - 2012-02-02 15:34:09 --> Security Class Initialized
+DEBUG - 2012-02-02 15:34:09 --> Input Class Initialized
+DEBUG - 2012-02-02 15:34:09 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-02-02 15:34:09 --> Language Class Initialized
+DEBUG - 2012-02-02 15:34:09 --> Loader Class Initialized
+DEBUG - 2012-02-02 15:34:09 --> Helper loaded: form_helper
+DEBUG - 2012-02-02 15:34:09 --> Helper loaded: url_helper
+DEBUG - 2012-02-02 15:34:09 --> Helper loaded: login_helper
+DEBUG - 2012-02-02 15:34:09 --> Database Driver Class Initialized
+DEBUG - 2012-02-02 15:34:09 --> Session Class Initialized
+DEBUG - 2012-02-02 15:34:09 --> Helper loaded: string_helper
+DEBUG - 2012-02-02 15:34:09 --> Encrypt Class Initialized
+DEBUG - 2012-02-02 15:34:09 --> Session routines successfully run
+DEBUG - 2012-02-02 15:34:09 --> Controller Class Initialized
+DEBUG - 2012-02-02 15:34:09 --> File loaded: app/views/include/header.php
+DEBUG - 2012-02-02 15:34:09 --> File loaded: app/views/include/footer.php
+DEBUG - 2012-02-02 15:34:09 --> File loaded: app/views/round2.php
+DEBUG - 2012-02-02 15:34:09 --> Final output sent to browser
+DEBUG - 2012-02-02 15:34:09 --> Total execution time: 0.0416
+DEBUG - 2012-02-02 15:34:34 --> Config Class Initialized
+DEBUG - 2012-02-02 15:34:34 --> Hooks Class Initialized
+DEBUG - 2012-02-02 15:34:34 --> Utf8 Class Initialized
+DEBUG - 2012-02-02 15:34:34 --> UTF-8 Support Enabled
+DEBUG - 2012-02-02 15:34:34 --> URI Class Initialized
+DEBUG - 2012-02-02 15:34:34 --> Router Class Initialized
+DEBUG - 2012-02-02 15:34:34 --> Output Class Initialized
+DEBUG - 2012-02-02 15:34:34 --> Security Class Initialized
+DEBUG - 2012-02-02 15:34:34 --> Input Class Initialized
+DEBUG - 2012-02-02 15:34:34 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-02-02 15:34:34 --> Language Class Initialized
+DEBUG - 2012-02-02 15:34:34 --> Loader Class Initialized
+DEBUG - 2012-02-02 15:34:34 --> Helper loaded: form_helper
+DEBUG - 2012-02-02 15:34:34 --> Helper loaded: url_helper
+DEBUG - 2012-02-02 15:34:34 --> Helper loaded: login_helper
+DEBUG - 2012-02-02 15:34:34 --> Database Driver Class Initialized
+DEBUG - 2012-02-02 15:34:34 --> Session Class Initialized
+DEBUG - 2012-02-02 15:34:34 --> Helper loaded: string_helper
+DEBUG - 2012-02-02 15:34:34 --> Encrypt Class Initialized
+DEBUG - 2012-02-02 15:34:34 --> Session garbage collection performed.
+DEBUG - 2012-02-02 15:34:34 --> Session routines successfully run
+DEBUG - 2012-02-02 15:34:34 --> Controller Class Initialized
+DEBUG - 2012-02-02 15:34:34 --> Config Class Initialized
+DEBUG - 2012-02-02 15:34:34 --> Hooks Class Initialized
+DEBUG - 2012-02-02 15:34:34 --> Utf8 Class Initialized
+DEBUG - 2012-02-02 15:34:34 --> UTF-8 Support Enabled
+DEBUG - 2012-02-02 15:34:34 --> URI Class Initialized
+DEBUG - 2012-02-02 15:34:34 --> Router Class Initialized
+DEBUG - 2012-02-02 15:34:34 --> Output Class Initialized
+DEBUG - 2012-02-02 15:34:34 --> Security Class Initialized
+DEBUG - 2012-02-02 15:34:34 --> Input Class Initialized
+DEBUG - 2012-02-02 15:34:34 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-02-02 15:34:34 --> Language Class Initialized
+DEBUG - 2012-02-02 15:34:34 --> Loader Class Initialized
+DEBUG - 2012-02-02 15:34:34 --> Helper loaded: form_helper
+DEBUG - 2012-02-02 15:34:34 --> Helper loaded: url_helper
+DEBUG - 2012-02-02 15:34:34 --> Helper loaded: login_helper
+DEBUG - 2012-02-02 15:34:34 --> Database Driver Class Initialized
+DEBUG - 2012-02-02 15:34:34 --> Session Class Initialized
+DEBUG - 2012-02-02 15:34:34 --> Helper loaded: string_helper
+DEBUG - 2012-02-02 15:34:34 --> Encrypt Class Initialized
+DEBUG - 2012-02-02 15:34:34 --> Session garbage collection performed.
+DEBUG - 2012-02-02 15:34:34 --> Session routines successfully run
+DEBUG - 2012-02-02 15:34:34 --> Controller Class Initialized
+DEBUG - 2012-02-02 15:34:34 --> File loaded: app/views/include/header.php
+DEBUG - 2012-02-02 15:34:34 --> File loaded: app/views/include/footer.php
+DEBUG - 2012-02-02 15:34:34 --> File loaded: app/views/round2.php
+DEBUG - 2012-02-02 15:34:34 --> Final output sent to browser
+DEBUG - 2012-02-02 15:34:34 --> Total execution time: 0.0388
+DEBUG - 2012-02-02 15:34:45 --> Config Class Initialized
+DEBUG - 2012-02-02 15:34:45 --> Hooks Class Initialized
+DEBUG - 2012-02-02 15:34:45 --> Utf8 Class Initialized
+DEBUG - 2012-02-02 15:34:45 --> UTF-8 Support Enabled
+DEBUG - 2012-02-02 15:34:45 --> URI Class Initialized
+DEBUG - 2012-02-02 15:34:45 --> Router Class Initialized
+DEBUG - 2012-02-02 15:34:45 --> Output Class Initialized
+DEBUG - 2012-02-02 15:34:45 --> Security Class Initialized
+DEBUG - 2012-02-02 15:34:45 --> Input Class Initialized
+DEBUG - 2012-02-02 15:34:45 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-02-02 15:34:45 --> Language Class Initialized
+DEBUG - 2012-02-02 15:34:45 --> Loader Class Initialized
+DEBUG - 2012-02-02 15:34:45 --> Helper loaded: form_helper
+DEBUG - 2012-02-02 15:34:45 --> Helper loaded: url_helper
+DEBUG - 2012-02-02 15:34:45 --> Helper loaded: login_helper
+DEBUG - 2012-02-02 15:34:45 --> Database Driver Class Initialized
+DEBUG - 2012-02-02 15:34:45 --> Session Class Initialized
+DEBUG - 2012-02-02 15:34:45 --> Helper loaded: string_helper
+DEBUG - 2012-02-02 15:34:45 --> Encrypt Class Initialized
+DEBUG - 2012-02-02 15:34:45 --> Session routines successfully run
+DEBUG - 2012-02-02 15:34:45 --> Controller Class Initialized
+DEBUG - 2012-02-02 15:34:45 --> File loaded: app/views/include/header.php
+DEBUG - 2012-02-02 15:34:45 --> File loaded: app/views/include/footer.php
+DEBUG - 2012-02-02 15:34:45 --> File loaded: app/views/round3.php
+DEBUG - 2012-02-02 15:34:45 --> Final output sent to browser
+DEBUG - 2012-02-02 15:34:45 --> Total execution time: 0.1055
+DEBUG - 2012-02-02 15:35:27 --> Config Class Initialized
+DEBUG - 2012-02-02 15:35:27 --> Hooks Class Initialized
+DEBUG - 2012-02-02 15:35:27 --> Utf8 Class Initialized
+DEBUG - 2012-02-02 15:35:27 --> UTF-8 Support Enabled
+DEBUG - 2012-02-02 15:35:27 --> URI Class Initialized
+DEBUG - 2012-02-02 15:35:27 --> Router Class Initialized
+DEBUG - 2012-02-02 15:35:27 --> Output Class Initialized
+DEBUG - 2012-02-02 15:35:27 --> Security Class Initialized
+DEBUG - 2012-02-02 15:35:27 --> Input Class Initialized
+DEBUG - 2012-02-02 15:35:27 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-02-02 15:35:27 --> Language Class Initialized
+DEBUG - 2012-02-02 15:35:27 --> Loader Class Initialized
+DEBUG - 2012-02-02 15:35:27 --> Helper loaded: form_helper
+DEBUG - 2012-02-02 15:35:27 --> Helper loaded: url_helper
+DEBUG - 2012-02-02 15:35:27 --> Helper loaded: login_helper
+DEBUG - 2012-02-02 15:35:27 --> Database Driver Class Initialized
+DEBUG - 2012-02-02 15:35:27 --> Session Class Initialized
+DEBUG - 2012-02-02 15:35:27 --> Helper loaded: string_helper
+DEBUG - 2012-02-02 15:35:27 --> Encrypt Class Initialized
+DEBUG - 2012-02-02 15:35:27 --> Session routines successfully run
+DEBUG - 2012-02-02 15:35:27 --> Controller Class Initialized
+DEBUG - 2012-02-02 15:35:27 --> Config Class Initialized
+DEBUG - 2012-02-02 15:35:27 --> Hooks Class Initialized
+DEBUG - 2012-02-02 15:35:27 --> Utf8 Class Initialized
+DEBUG - 2012-02-02 15:35:27 --> UTF-8 Support Enabled
+DEBUG - 2012-02-02 15:35:27 --> URI Class Initialized
+DEBUG - 2012-02-02 15:35:27 --> Router Class Initialized
+DEBUG - 2012-02-02 15:35:27 --> Output Class Initialized
+DEBUG - 2012-02-02 15:35:27 --> Security Class Initialized
+DEBUG - 2012-02-02 15:35:27 --> Input Class Initialized
+DEBUG - 2012-02-02 15:35:27 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-02-02 15:35:27 --> Language Class Initialized
+DEBUG - 2012-02-02 15:35:27 --> Loader Class Initialized
+DEBUG - 2012-02-02 15:35:27 --> Helper loaded: form_helper
+DEBUG - 2012-02-02 15:35:27 --> Helper loaded: url_helper
+DEBUG - 2012-02-02 15:35:27 --> Helper loaded: login_helper
+DEBUG - 2012-02-02 15:35:27 --> Database Driver Class Initialized
+DEBUG - 2012-02-02 15:35:27 --> Session Class Initialized
+DEBUG - 2012-02-02 15:35:27 --> Helper loaded: string_helper
+DEBUG - 2012-02-02 15:35:27 --> Encrypt Class Initialized
+DEBUG - 2012-02-02 15:35:27 --> Session routines successfully run
+DEBUG - 2012-02-02 15:35:27 --> Controller Class Initialized
+DEBUG - 2012-02-02 15:35:27 --> File loaded: app/views/include/header.php
+DEBUG - 2012-02-02 15:35:27 --> File loaded: app/views/include/footer.php
+DEBUG - 2012-02-02 15:35:27 --> File loaded: app/views/round3.php
+DEBUG - 2012-02-02 15:35:27 --> Final output sent to browser
+DEBUG - 2012-02-02 15:35:27 --> Total execution time: 0.0393
+DEBUG - 2012-02-02 15:43:06 --> Config Class Initialized
+DEBUG - 2012-02-02 15:43:06 --> Hooks Class Initialized
+DEBUG - 2012-02-02 15:43:06 --> Utf8 Class Initialized
+DEBUG - 2012-02-02 15:43:06 --> UTF-8 Support Enabled
+DEBUG - 2012-02-02 15:43:06 --> URI Class Initialized
+DEBUG - 2012-02-02 15:43:06 --> Router Class Initialized
+DEBUG - 2012-02-02 15:43:06 --> Output Class Initialized
+DEBUG - 2012-02-02 15:43:06 --> Security Class Initialized
+DEBUG - 2012-02-02 15:43:06 --> Input Class Initialized
+DEBUG - 2012-02-02 15:43:06 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-02-02 15:43:06 --> Language Class Initialized
+DEBUG - 2012-02-02 15:43:06 --> Loader Class Initialized
+DEBUG - 2012-02-02 15:43:06 --> Helper loaded: form_helper
+DEBUG - 2012-02-02 15:43:06 --> Helper loaded: url_helper
+DEBUG - 2012-02-02 15:43:06 --> Helper loaded: login_helper
+DEBUG - 2012-02-02 15:43:06 --> Database Driver Class Initialized
+DEBUG - 2012-02-02 15:43:06 --> Session Class Initialized
+DEBUG - 2012-02-02 15:43:06 --> Helper loaded: string_helper
+DEBUG - 2012-02-02 15:43:06 --> Encrypt Class Initialized
+DEBUG - 2012-02-02 15:43:06 --> Session routines successfully run
+DEBUG - 2012-02-02 15:43:06 --> Controller Class Initialized
+DEBUG - 2012-02-02 15:43:06 --> Config Class Initialized
+DEBUG - 2012-02-02 15:43:06 --> Hooks Class Initialized
+DEBUG - 2012-02-02 15:43:06 --> Utf8 Class Initialized
+DEBUG - 2012-02-02 15:43:06 --> UTF-8 Support Enabled
+DEBUG - 2012-02-02 15:43:06 --> URI Class Initialized
+DEBUG - 2012-02-02 15:43:06 --> Router Class Initialized
+DEBUG - 2012-02-02 15:43:06 --> Output Class Initialized
+DEBUG - 2012-02-02 15:43:06 --> Security Class Initialized
+DEBUG - 2012-02-02 15:43:06 --> Input Class Initialized
+DEBUG - 2012-02-02 15:43:06 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-02-02 15:43:06 --> Language Class Initialized
+DEBUG - 2012-02-02 15:43:06 --> Loader Class Initialized
+DEBUG - 2012-02-02 15:43:06 --> Helper loaded: form_helper
+DEBUG - 2012-02-02 15:43:06 --> Helper loaded: url_helper
+DEBUG - 2012-02-02 15:43:06 --> Helper loaded: login_helper
+DEBUG - 2012-02-02 15:43:06 --> Database Driver Class Initialized
+DEBUG - 2012-02-02 15:43:06 --> Session Class Initialized
+DEBUG - 2012-02-02 15:43:06 --> Helper loaded: string_helper
+DEBUG - 2012-02-02 15:43:06 --> Encrypt Class Initialized
+DEBUG - 2012-02-02 15:43:06 --> Session routines successfully run
+DEBUG - 2012-02-02 15:43:06 --> Controller Class Initialized
+DEBUG - 2012-02-02 15:43:06 --> File loaded: app/views/include/header.php
+DEBUG - 2012-02-02 15:43:06 --> File loaded: app/views/include/footer.php
+DEBUG - 2012-02-02 15:43:06 --> File loaded: app/views/login.php
+DEBUG - 2012-02-02 15:43:06 --> Final output sent to browser
+DEBUG - 2012-02-02 15:43:06 --> Total execution time: 0.0352
+DEBUG - 2012-02-02 15:43:15 --> Config Class Initialized
+DEBUG - 2012-02-02 15:43:15 --> Hooks Class Initialized
+DEBUG - 2012-02-02 15:43:15 --> Utf8 Class Initialized
+DEBUG - 2012-02-02 15:43:15 --> UTF-8 Support Enabled
+DEBUG - 2012-02-02 15:43:15 --> URI Class Initialized
+DEBUG - 2012-02-02 15:43:15 --> Router Class Initialized
+DEBUG - 2012-02-02 15:43:15 --> Output Class Initialized
+DEBUG - 2012-02-02 15:43:15 --> Security Class Initialized
+DEBUG - 2012-02-02 15:43:15 --> Input Class Initialized
+DEBUG - 2012-02-02 15:43:15 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-02-02 15:43:15 --> Language Class Initialized
+DEBUG - 2012-02-02 15:43:15 --> Loader Class Initialized
+DEBUG - 2012-02-02 15:43:15 --> Helper loaded: form_helper
+DEBUG - 2012-02-02 15:43:15 --> Helper loaded: url_helper
+DEBUG - 2012-02-02 15:43:15 --> Helper loaded: login_helper
+DEBUG - 2012-02-02 15:43:15 --> Database Driver Class Initialized
+DEBUG - 2012-02-02 15:43:15 --> Session Class Initialized
+DEBUG - 2012-02-02 15:43:15 --> Helper loaded: string_helper
+DEBUG - 2012-02-02 15:43:15 --> Encrypt Class Initialized
+DEBUG - 2012-02-02 15:43:15 --> Session routines successfully run
+DEBUG - 2012-02-02 15:43:15 --> Controller Class Initialized
+DEBUG - 2012-02-02 15:43:15 --> Config Class Initialized
+DEBUG - 2012-02-02 15:43:15 --> Hooks Class Initialized
+DEBUG - 2012-02-02 15:43:15 --> Utf8 Class Initialized
+DEBUG - 2012-02-02 15:43:15 --> UTF-8 Support Enabled
+DEBUG - 2012-02-02 15:43:15 --> URI Class Initialized
+DEBUG - 2012-02-02 15:43:15 --> Router Class Initialized
+DEBUG - 2012-02-02 15:43:15 --> Output Class Initialized
+DEBUG - 2012-02-02 15:43:15 --> Security Class Initialized
+DEBUG - 2012-02-02 15:43:15 --> Input Class Initialized
+DEBUG - 2012-02-02 15:43:15 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-02-02 15:43:15 --> Language Class Initialized
+DEBUG - 2012-02-02 15:43:15 --> Loader Class Initialized
+DEBUG - 2012-02-02 15:43:15 --> Helper loaded: form_helper
+DEBUG - 2012-02-02 15:43:15 --> Helper loaded: url_helper
+DEBUG - 2012-02-02 15:43:15 --> Helper loaded: login_helper
+DEBUG - 2012-02-02 15:43:15 --> Database Driver Class Initialized
+DEBUG - 2012-02-02 15:43:15 --> Session Class Initialized
+DEBUG - 2012-02-02 15:43:15 --> Helper loaded: string_helper
+DEBUG - 2012-02-02 15:43:15 --> Encrypt Class Initialized
+DEBUG - 2012-02-02 15:43:15 --> Session routines successfully run
+DEBUG - 2012-02-02 15:43:15 --> Controller Class Initialized
+DEBUG - 2012-02-02 15:43:15 --> Final output sent to browser
+DEBUG - 2012-02-02 15:43:15 --> Total execution time: 0.0374
+DEBUG - 2012-02-02 15:43:18 --> Config Class Initialized
+DEBUG - 2012-02-02 15:43:18 --> Hooks Class Initialized
+DEBUG - 2012-02-02 15:43:18 --> Utf8 Class Initialized
+DEBUG - 2012-02-02 15:43:18 --> UTF-8 Support Enabled
+DEBUG - 2012-02-02 15:43:18 --> URI Class Initialized
+DEBUG - 2012-02-02 15:43:18 --> Router Class Initialized
+ERROR - 2012-02-02 15:43:18 --> 404 Page Not Found --> roun1
+DEBUG - 2012-02-02 15:43:22 --> Config Class Initialized
+DEBUG - 2012-02-02 15:43:22 --> Hooks Class Initialized
+DEBUG - 2012-02-02 15:43:22 --> Utf8 Class Initialized
+DEBUG - 2012-02-02 15:43:22 --> UTF-8 Support Enabled
+DEBUG - 2012-02-02 15:43:22 --> URI Class Initialized
+DEBUG - 2012-02-02 15:43:22 --> Router Class Initialized
+ERROR - 2012-02-02 15:43:22 --> 404 Page Not Found --> roudn1
+DEBUG - 2012-02-02 15:43:26 --> Config Class Initialized
+DEBUG - 2012-02-02 15:43:26 --> Hooks Class Initialized
+DEBUG - 2012-02-02 15:43:26 --> Utf8 Class Initialized
+DEBUG - 2012-02-02 15:43:26 --> UTF-8 Support Enabled
+DEBUG - 2012-02-02 15:43:26 --> URI Class Initialized
+DEBUG - 2012-02-02 15:43:26 --> Router Class Initialized
+DEBUG - 2012-02-02 15:43:26 --> Output Class Initialized
+DEBUG - 2012-02-02 15:43:26 --> Security Class Initialized
+DEBUG - 2012-02-02 15:43:26 --> Input Class Initialized
+DEBUG - 2012-02-02 15:43:26 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-02-02 15:43:26 --> Language Class Initialized
+DEBUG - 2012-02-02 15:43:26 --> Loader Class Initialized
+DEBUG - 2012-02-02 15:43:26 --> Helper loaded: form_helper
+DEBUG - 2012-02-02 15:43:26 --> Helper loaded: url_helper
+DEBUG - 2012-02-02 15:43:26 --> Helper loaded: login_helper
+DEBUG - 2012-02-02 15:43:26 --> Database Driver Class Initialized
+DEBUG - 2012-02-02 15:43:26 --> Session Class Initialized
+DEBUG - 2012-02-02 15:43:26 --> Helper loaded: string_helper
+DEBUG - 2012-02-02 15:43:26 --> Encrypt Class Initialized
+DEBUG - 2012-02-02 15:43:26 --> Session routines successfully run
+DEBUG - 2012-02-02 15:43:26 --> Controller Class Initialized
+DEBUG - 2012-02-02 15:43:26 --> File loaded: app/views/include/header.php
+DEBUG - 2012-02-02 15:43:26 --> File loaded: app/views/include/footer.php
+DEBUG - 2012-02-02 15:43:26 --> File loaded: app/views/round1.php
+DEBUG - 2012-02-02 15:43:26 --> Final output sent to browser
+DEBUG - 2012-02-02 15:43:26 --> Total execution time: 0.0499
+DEBUG - 2012-02-02 15:45:28 --> Config Class Initialized
+DEBUG - 2012-02-02 15:45:28 --> Hooks Class Initialized
+DEBUG - 2012-02-02 15:45:28 --> Utf8 Class Initialized
+DEBUG - 2012-02-02 15:45:28 --> UTF-8 Support Enabled
+DEBUG - 2012-02-02 15:45:28 --> URI Class Initialized
+DEBUG - 2012-02-02 15:45:28 --> Router Class Initialized
+DEBUG - 2012-02-02 15:45:28 --> Output Class Initialized
+DEBUG - 2012-02-02 15:45:28 --> Security Class Initialized
+DEBUG - 2012-02-02 15:45:28 --> Input Class Initialized
+DEBUG - 2012-02-02 15:45:28 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-02-02 15:45:28 --> Language Class Initialized
+DEBUG - 2012-02-02 15:45:28 --> Loader Class Initialized
+DEBUG - 2012-02-02 15:45:28 --> Helper loaded: form_helper
+DEBUG - 2012-02-02 15:45:28 --> Helper loaded: url_helper
+DEBUG - 2012-02-02 15:45:28 --> Helper loaded: login_helper
+DEBUG - 2012-02-02 15:45:28 --> Database Driver Class Initialized
+DEBUG - 2012-02-02 15:45:28 --> Session Class Initialized
+DEBUG - 2012-02-02 15:45:28 --> Helper loaded: string_helper
+DEBUG - 2012-02-02 15:45:28 --> Encrypt Class Initialized
+DEBUG - 2012-02-02 15:45:28 --> Session routines successfully run
+DEBUG - 2012-02-02 15:45:28 --> Controller Class Initialized
+DEBUG - 2012-02-02 15:45:28 --> File loaded: app/views/include/header.php
+DEBUG - 2012-02-02 15:45:28 --> File loaded: app/views/include/footer.php
+DEBUG - 2012-02-02 15:45:28 --> File loaded: app/views/round1.php
+DEBUG - 2012-02-02 15:45:28 --> Final output sent to browser
+DEBUG - 2012-02-02 15:45:28 --> Total execution time: 0.0476
+DEBUG - 2012-02-02 15:45:31 --> Config Class Initialized
+DEBUG - 2012-02-02 15:45:31 --> Hooks Class Initialized
+DEBUG - 2012-02-02 15:45:31 --> Utf8 Class Initialized
+DEBUG - 2012-02-02 15:45:31 --> UTF-8 Support Enabled
+DEBUG - 2012-02-02 15:45:31 --> URI Class Initialized
+DEBUG - 2012-02-02 15:45:31 --> Router Class Initialized
+DEBUG - 2012-02-02 15:45:31 --> Output Class Initialized
+DEBUG - 2012-02-02 15:45:31 --> Security Class Initialized
+DEBUG - 2012-02-02 15:45:31 --> Input Class Initialized
+DEBUG - 2012-02-02 15:45:31 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-02-02 15:45:31 --> Language Class Initialized
+DEBUG - 2012-02-02 15:45:31 --> Loader Class Initialized
+DEBUG - 2012-02-02 15:45:31 --> Helper loaded: form_helper
+DEBUG - 2012-02-02 15:45:31 --> Helper loaded: url_helper
+DEBUG - 2012-02-02 15:45:31 --> Helper loaded: login_helper
+DEBUG - 2012-02-02 15:45:31 --> Database Driver Class Initialized
+DEBUG - 2012-02-02 15:45:31 --> Session Class Initialized
+DEBUG - 2012-02-02 15:45:31 --> Helper loaded: string_helper
+DEBUG - 2012-02-02 15:45:31 --> Encrypt Class Initialized
+DEBUG - 2012-02-02 15:45:31 --> Session routines successfully run
+DEBUG - 2012-02-02 15:45:31 --> Controller Class Initialized
+DEBUG - 2012-02-02 15:45:31 --> Config Class Initialized
+DEBUG - 2012-02-02 15:45:31 --> Hooks Class Initialized
+DEBUG - 2012-02-02 15:45:31 --> Utf8 Class Initialized
+DEBUG - 2012-02-02 15:45:31 --> UTF-8 Support Enabled
+DEBUG - 2012-02-02 15:45:31 --> URI Class Initialized
+DEBUG - 2012-02-02 15:45:31 --> Router Class Initialized
+DEBUG - 2012-02-02 15:45:31 --> Output Class Initialized
+DEBUG - 2012-02-02 15:45:31 --> Security Class Initialized
+DEBUG - 2012-02-02 15:45:31 --> Input Class Initialized
+DEBUG - 2012-02-02 15:45:31 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-02-02 15:45:31 --> Language Class Initialized
+DEBUG - 2012-02-02 15:45:31 --> Loader Class Initialized
+DEBUG - 2012-02-02 15:45:31 --> Helper loaded: form_helper
+DEBUG - 2012-02-02 15:45:31 --> Helper loaded: url_helper
+DEBUG - 2012-02-02 15:45:31 --> Helper loaded: login_helper
+DEBUG - 2012-02-02 15:45:31 --> Database Driver Class Initialized
+DEBUG - 2012-02-02 15:45:31 --> Session Class Initialized
+DEBUG - 2012-02-02 15:45:31 --> Helper loaded: string_helper
+DEBUG - 2012-02-02 15:45:31 --> Encrypt Class Initialized
+DEBUG - 2012-02-02 15:45:31 --> Session routines successfully run
+DEBUG - 2012-02-02 15:45:31 --> Controller Class Initialized
+DEBUG - 2012-02-02 15:45:31 --> File loaded: app/views/include/header.php
+DEBUG - 2012-02-02 15:45:31 --> File loaded: app/views/include/footer.php
+DEBUG - 2012-02-02 15:45:31 --> File loaded: app/views/round1.php
+DEBUG - 2012-02-02 15:45:31 --> Final output sent to browser
+DEBUG - 2012-02-02 15:45:31 --> Total execution time: 0.0401
+DEBUG - 2012-02-02 15:45:43 --> Config Class Initialized
+DEBUG - 2012-02-02 15:45:43 --> Hooks Class Initialized
+DEBUG - 2012-02-02 15:45:43 --> Utf8 Class Initialized
+DEBUG - 2012-02-02 15:45:43 --> UTF-8 Support Enabled
+DEBUG - 2012-02-02 15:45:43 --> URI Class Initialized
+DEBUG - 2012-02-02 15:45:43 --> Router Class Initialized
+DEBUG - 2012-02-02 15:45:43 --> Output Class Initialized
+DEBUG - 2012-02-02 15:45:43 --> Security Class Initialized
+DEBUG - 2012-02-02 15:45:43 --> Input Class Initialized
+DEBUG - 2012-02-02 15:45:43 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-02-02 15:45:43 --> Language Class Initialized
+DEBUG - 2012-02-02 15:45:43 --> Loader Class Initialized
+DEBUG - 2012-02-02 15:45:43 --> Helper loaded: form_helper
+DEBUG - 2012-02-02 15:45:43 --> Helper loaded: url_helper
+DEBUG - 2012-02-02 15:45:43 --> Helper loaded: login_helper
+DEBUG - 2012-02-02 15:45:43 --> Database Driver Class Initialized
+DEBUG - 2012-02-02 15:45:43 --> Session Class Initialized
+DEBUG - 2012-02-02 15:45:43 --> Helper loaded: string_helper
+DEBUG - 2012-02-02 15:45:43 --> Encrypt Class Initialized
+DEBUG - 2012-02-02 15:45:43 --> Session routines successfully run
+DEBUG - 2012-02-02 15:45:43 --> Controller Class Initialized
+DEBUG - 2012-02-02 15:45:43 --> File loaded: app/views/include/header.php
+DEBUG - 2012-02-02 15:45:43 --> File loaded: app/views/include/footer.php
+DEBUG - 2012-02-02 15:45:43 --> File loaded: app/views/round1.php
+DEBUG - 2012-02-02 15:45:43 --> Final output sent to browser
+DEBUG - 2012-02-02 15:45:43 --> Total execution time: 0.0376
+DEBUG - 2012-02-02 15:53:16 --> Config Class Initialized
+DEBUG - 2012-02-02 15:53:16 --> Hooks Class Initialized
+DEBUG - 2012-02-02 15:53:16 --> Utf8 Class Initialized
+DEBUG - 2012-02-02 15:53:16 --> UTF-8 Support Enabled
+DEBUG - 2012-02-02 15:53:16 --> URI Class Initialized
+DEBUG - 2012-02-02 15:53:16 --> Router Class Initialized
+DEBUG - 2012-02-02 15:53:16 --> Output Class Initialized
+DEBUG - 2012-02-02 15:53:16 --> Security Class Initialized
+DEBUG - 2012-02-02 15:53:16 --> Input Class Initialized
+DEBUG - 2012-02-02 15:53:16 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-02-02 15:53:16 --> Language Class Initialized
+DEBUG - 2012-02-02 15:53:16 --> Loader Class Initialized
+DEBUG - 2012-02-02 15:53:16 --> Helper loaded: form_helper
+DEBUG - 2012-02-02 15:53:16 --> Helper loaded: url_helper
+DEBUG - 2012-02-02 15:53:16 --> Helper loaded: login_helper
+DEBUG - 2012-02-02 15:53:16 --> Database Driver Class Initialized
+DEBUG - 2012-02-02 15:53:16 --> Session Class Initialized
+DEBUG - 2012-02-02 15:53:16 --> Helper loaded: string_helper
+DEBUG - 2012-02-02 15:53:16 --> Encrypt Class Initialized
+DEBUG - 2012-02-02 15:53:17 --> Session routines successfully run
+DEBUG - 2012-02-02 15:53:17 --> Controller Class Initialized
+DEBUG - 2012-02-02 15:53:17 --> Config Class Initialized
+DEBUG - 2012-02-02 15:53:17 --> Hooks Class Initialized
+DEBUG - 2012-02-02 15:53:17 --> Utf8 Class Initialized
+DEBUG - 2012-02-02 15:53:17 --> UTF-8 Support Enabled
+DEBUG - 2012-02-02 15:53:17 --> URI Class Initialized
+DEBUG - 2012-02-02 15:53:17 --> Router Class Initialized
+DEBUG - 2012-02-02 15:53:17 --> Output Class Initialized
+DEBUG - 2012-02-02 15:53:17 --> Security Class Initialized
+DEBUG - 2012-02-02 15:53:17 --> Input Class Initialized
+DEBUG - 2012-02-02 15:53:17 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-02-02 15:53:17 --> Language Class Initialized
+DEBUG - 2012-02-02 15:53:17 --> Loader Class Initialized
+DEBUG - 2012-02-02 15:53:17 --> Helper loaded: form_helper
+DEBUG - 2012-02-02 15:53:17 --> Helper loaded: url_helper
+DEBUG - 2012-02-02 15:53:17 --> Helper loaded: login_helper
+DEBUG - 2012-02-02 15:53:17 --> Database Driver Class Initialized
+DEBUG - 2012-02-02 15:53:17 --> Session Class Initialized
+DEBUG - 2012-02-02 15:53:17 --> Helper loaded: string_helper
+DEBUG - 2012-02-02 15:53:17 --> Encrypt Class Initialized
+DEBUG - 2012-02-02 15:53:17 --> Session routines successfully run
+DEBUG - 2012-02-02 15:53:17 --> Controller Class Initialized
+DEBUG - 2012-02-02 15:53:17 --> File loaded: app/views/include/header.php
+DEBUG - 2012-02-02 15:53:17 --> File loaded: app/views/include/footer.php
+DEBUG - 2012-02-02 15:53:17 --> File loaded: app/views/round1.php
+DEBUG - 2012-02-02 15:53:17 --> Final output sent to browser
+DEBUG - 2012-02-02 15:53:17 --> Total execution time: 0.0918
+DEBUG - 2012-02-02 15:53:31 --> Config Class Initialized
+DEBUG - 2012-02-02 15:53:31 --> Hooks Class Initialized
+DEBUG - 2012-02-02 15:53:31 --> Utf8 Class Initialized
+DEBUG - 2012-02-02 15:53:31 --> UTF-8 Support Enabled
+DEBUG - 2012-02-02 15:53:31 --> URI Class Initialized
+DEBUG - 2012-02-02 15:53:31 --> Router Class Initialized
+DEBUG - 2012-02-02 15:53:31 --> Output Class Initialized
+DEBUG - 2012-02-02 15:53:31 --> Security Class Initialized
+DEBUG - 2012-02-02 15:53:31 --> Input Class Initialized
+DEBUG - 2012-02-02 15:53:31 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-02-02 15:53:31 --> Language Class Initialized
+DEBUG - 2012-02-02 15:53:31 --> Loader Class Initialized
+DEBUG - 2012-02-02 15:53:31 --> Helper loaded: form_helper
+DEBUG - 2012-02-02 15:53:31 --> Helper loaded: url_helper
+DEBUG - 2012-02-02 15:53:31 --> Helper loaded: login_helper
+DEBUG - 2012-02-02 15:53:31 --> Database Driver Class Initialized
+DEBUG - 2012-02-02 15:53:31 --> Session Class Initialized
+DEBUG - 2012-02-02 15:53:31 --> Helper loaded: string_helper
+DEBUG - 2012-02-02 15:53:31 --> Encrypt Class Initialized
+DEBUG - 2012-02-02 15:53:31 --> Session routines successfully run
+DEBUG - 2012-02-02 15:53:31 --> Controller Class Initialized
+DEBUG - 2012-02-02 15:53:31 --> File loaded: app/views/include/header.php
+DEBUG - 2012-02-02 15:53:31 --> File loaded: app/views/include/footer.php
+DEBUG - 2012-02-02 15:53:31 --> File loaded: app/views/round1.php
+DEBUG - 2012-02-02 15:53:31 --> Final output sent to browser
+DEBUG - 2012-02-02 15:53:31 --> Total execution time: 0.0457
+DEBUG - 2012-02-02 15:55:08 --> Config Class Initialized
+DEBUG - 2012-02-02 15:55:08 --> Hooks Class Initialized
+DEBUG - 2012-02-02 15:55:08 --> Utf8 Class Initialized
+DEBUG - 2012-02-02 15:55:08 --> UTF-8 Support Enabled
+DEBUG - 2012-02-02 15:55:08 --> URI Class Initialized
+DEBUG - 2012-02-02 15:55:08 --> Router Class Initialized
+DEBUG - 2012-02-02 15:55:08 --> Output Class Initialized
+DEBUG - 2012-02-02 15:55:08 --> Security Class Initialized
+DEBUG - 2012-02-02 15:55:08 --> Input Class Initialized
+DEBUG - 2012-02-02 15:55:08 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-02-02 15:55:08 --> Language Class Initialized
+DEBUG - 2012-02-02 15:55:08 --> Loader Class Initialized
+DEBUG - 2012-02-02 15:55:08 --> Helper loaded: form_helper
+DEBUG - 2012-02-02 15:55:08 --> Helper loaded: url_helper
+DEBUG - 2012-02-02 15:55:08 --> Helper loaded: login_helper
+DEBUG - 2012-02-02 15:55:08 --> Database Driver Class Initialized
+DEBUG - 2012-02-02 15:55:08 --> Session Class Initialized
+DEBUG - 2012-02-02 15:55:08 --> Helper loaded: string_helper
+DEBUG - 2012-02-02 15:55:08 --> Encrypt Class Initialized
+DEBUG - 2012-02-02 15:55:08 --> Session routines successfully run
+DEBUG - 2012-02-02 15:55:08 --> Controller Class Initialized
+DEBUG - 2012-02-02 15:55:08 --> File loaded: app/views/include/header.php
+DEBUG - 2012-02-02 15:55:08 --> File loaded: app/views/include/footer.php
+DEBUG - 2012-02-02 15:55:08 --> File loaded: app/views/round1.php
+DEBUG - 2012-02-02 15:55:08 --> Final output sent to browser
+DEBUG - 2012-02-02 15:55:08 --> Total execution time: 0.0448
+DEBUG - 2012-02-02 15:55:11 --> Config Class Initialized
+DEBUG - 2012-02-02 15:55:11 --> Hooks Class Initialized
+DEBUG - 2012-02-02 15:55:11 --> Utf8 Class Initialized
+DEBUG - 2012-02-02 15:55:11 --> UTF-8 Support Enabled
+DEBUG - 2012-02-02 15:55:11 --> URI Class Initialized
+DEBUG - 2012-02-02 15:55:11 --> Router Class Initialized
+DEBUG - 2012-02-02 15:55:11 --> Output Class Initialized
+DEBUG - 2012-02-02 15:55:11 --> Security Class Initialized
+DEBUG - 2012-02-02 15:55:11 --> Input Class Initialized
+DEBUG - 2012-02-02 15:55:11 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-02-02 15:55:11 --> Language Class Initialized
+DEBUG - 2012-02-02 15:55:11 --> Loader Class Initialized
+DEBUG - 2012-02-02 15:55:11 --> Helper loaded: form_helper
+DEBUG - 2012-02-02 15:55:11 --> Helper loaded: url_helper
+DEBUG - 2012-02-02 15:55:11 --> Helper loaded: login_helper
+DEBUG - 2012-02-02 15:55:11 --> Database Driver Class Initialized
+DEBUG - 2012-02-02 15:55:11 --> Session Class Initialized
+DEBUG - 2012-02-02 15:55:11 --> Helper loaded: string_helper
+DEBUG - 2012-02-02 15:55:11 --> Encrypt Class Initialized
+DEBUG - 2012-02-02 15:55:11 --> Session routines successfully run
+DEBUG - 2012-02-02 15:55:11 --> Controller Class Initialized
+DEBUG - 2012-02-02 15:55:11 --> Config Class Initialized
+DEBUG - 2012-02-02 15:55:11 --> Hooks Class Initialized
+DEBUG - 2012-02-02 15:55:11 --> Utf8 Class Initialized
+DEBUG - 2012-02-02 15:55:11 --> UTF-8 Support Enabled
+DEBUG - 2012-02-02 15:55:11 --> URI Class Initialized
+DEBUG - 2012-02-02 15:55:11 --> Router Class Initialized
+DEBUG - 2012-02-02 15:55:11 --> Output Class Initialized
+DEBUG - 2012-02-02 15:55:11 --> Security Class Initialized
+DEBUG - 2012-02-02 15:55:11 --> Input Class Initialized
+DEBUG - 2012-02-02 15:55:11 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-02-02 15:55:11 --> Language Class Initialized
+DEBUG - 2012-02-02 15:55:11 --> Loader Class Initialized
+DEBUG - 2012-02-02 15:55:11 --> Helper loaded: form_helper
+DEBUG - 2012-02-02 15:55:11 --> Helper loaded: url_helper
+DEBUG - 2012-02-02 15:55:11 --> Helper loaded: login_helper
+DEBUG - 2012-02-02 15:55:11 --> Database Driver Class Initialized
+DEBUG - 2012-02-02 15:55:11 --> Session Class Initialized
+DEBUG - 2012-02-02 15:55:11 --> Helper loaded: string_helper
+DEBUG - 2012-02-02 15:55:11 --> Encrypt Class Initialized
+DEBUG - 2012-02-02 15:55:11 --> Session routines successfully run
+DEBUG - 2012-02-02 15:55:11 --> Controller Class Initialized
+DEBUG - 2012-02-02 15:55:11 --> File loaded: app/views/include/header.php
+DEBUG - 2012-02-02 15:55:11 --> File loaded: app/views/include/footer.php
+DEBUG - 2012-02-02 15:55:11 --> File loaded: app/views/round1.php
+DEBUG - 2012-02-02 15:55:11 --> Final output sent to browser
+DEBUG - 2012-02-02 15:55:11 --> Total execution time: 0.0363
+DEBUG - 2012-02-02 15:55:17 --> Config Class Initialized
+DEBUG - 2012-02-02 15:55:17 --> Hooks Class Initialized
+DEBUG - 2012-02-02 15:55:17 --> Utf8 Class Initialized
+DEBUG - 2012-02-02 15:55:17 --> UTF-8 Support Enabled
+DEBUG - 2012-02-02 15:55:17 --> URI Class Initialized
+DEBUG - 2012-02-02 15:55:17 --> Router Class Initialized
+DEBUG - 2012-02-02 15:55:17 --> Output Class Initialized
+DEBUG - 2012-02-02 15:55:17 --> Security Class Initialized
+DEBUG - 2012-02-02 15:55:17 --> Input Class Initialized
+DEBUG - 2012-02-02 15:55:17 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-02-02 15:55:17 --> Language Class Initialized
+DEBUG - 2012-02-02 15:55:17 --> Loader Class Initialized
+DEBUG - 2012-02-02 15:55:17 --> Helper loaded: form_helper
+DEBUG - 2012-02-02 15:55:17 --> Helper loaded: url_helper
+DEBUG - 2012-02-02 15:55:17 --> Helper loaded: login_helper
+DEBUG - 2012-02-02 15:55:17 --> Database Driver Class Initialized
+DEBUG - 2012-02-02 15:55:17 --> Session Class Initialized
+DEBUG - 2012-02-02 15:55:18 --> Helper loaded: string_helper
+DEBUG - 2012-02-02 15:55:18 --> Encrypt Class Initialized
+DEBUG - 2012-02-02 15:55:18 --> Session routines successfully run
+DEBUG - 2012-02-02 15:55:18 --> Controller Class Initialized
+DEBUG - 2012-02-02 15:55:18 --> File loaded: app/views/include/header.php
+DEBUG - 2012-02-02 15:55:18 --> File loaded: app/views/include/footer.php
+DEBUG - 2012-02-02 15:55:18 --> File loaded: app/views/round1.php
+DEBUG - 2012-02-02 15:55:18 --> Final output sent to browser
+DEBUG - 2012-02-02 15:55:18 --> Total execution time: 0.0417
+DEBUG - 2012-02-02 15:55:49 --> Config Class Initialized
+DEBUG - 2012-02-02 15:55:49 --> Hooks Class Initialized
+DEBUG - 2012-02-02 15:55:49 --> Utf8 Class Initialized
+DEBUG - 2012-02-02 15:55:49 --> UTF-8 Support Enabled
+DEBUG - 2012-02-02 15:55:49 --> URI Class Initialized
+DEBUG - 2012-02-02 15:55:49 --> Router Class Initialized
+DEBUG - 2012-02-02 15:55:49 --> Output Class Initialized
+DEBUG - 2012-02-02 15:55:49 --> Security Class Initialized
+DEBUG - 2012-02-02 15:55:49 --> Input Class Initialized
+DEBUG - 2012-02-02 15:55:49 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-02-02 15:55:49 --> Language Class Initialized
+DEBUG - 2012-02-02 15:55:49 --> Loader Class Initialized
+DEBUG - 2012-02-02 15:55:49 --> Helper loaded: form_helper
+DEBUG - 2012-02-02 15:55:49 --> Helper loaded: url_helper
+DEBUG - 2012-02-02 15:55:49 --> Helper loaded: login_helper
+DEBUG - 2012-02-02 15:55:49 --> Database Driver Class Initialized
+DEBUG - 2012-02-02 15:55:49 --> Session Class Initialized
+DEBUG - 2012-02-02 15:55:49 --> Helper loaded: string_helper
+DEBUG - 2012-02-02 15:55:49 --> Encrypt Class Initialized
+DEBUG - 2012-02-02 15:55:49 --> Session garbage collection performed.
+DEBUG - 2012-02-02 15:55:49 --> Session routines successfully run
+DEBUG - 2012-02-02 15:55:49 --> Controller Class Initialized
+DEBUG - 2012-02-02 15:55:49 --> File loaded: app/views/include/header.php
+DEBUG - 2012-02-02 15:55:49 --> File loaded: app/views/include/footer.php
+DEBUG - 2012-02-02 15:55:49 --> File loaded: app/views/round1.php
+DEBUG - 2012-02-02 15:55:49 --> Final output sent to browser
+DEBUG - 2012-02-02 15:55:49 --> Total execution time: 0.0384
+DEBUG - 2012-02-02 15:58:23 --> Config Class Initialized
+DEBUG - 2012-02-02 15:58:23 --> Hooks Class Initialized
+DEBUG - 2012-02-02 15:58:23 --> Utf8 Class Initialized
+DEBUG - 2012-02-02 15:58:23 --> UTF-8 Support Enabled
+DEBUG - 2012-02-02 15:58:23 --> URI Class Initialized
+DEBUG - 2012-02-02 15:58:23 --> Router Class Initialized
+DEBUG - 2012-02-02 15:58:23 --> Output Class Initialized
+DEBUG - 2012-02-02 15:58:23 --> Security Class Initialized
+DEBUG - 2012-02-02 15:58:23 --> Input Class Initialized
+DEBUG - 2012-02-02 15:58:23 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-02-02 15:58:23 --> Language Class Initialized
+DEBUG - 2012-02-02 15:58:23 --> Loader Class Initialized
+DEBUG - 2012-02-02 15:58:23 --> Helper loaded: form_helper
+DEBUG - 2012-02-02 15:58:23 --> Helper loaded: url_helper
+DEBUG - 2012-02-02 15:58:23 --> Helper loaded: login_helper
+DEBUG - 2012-02-02 15:58:23 --> Database Driver Class Initialized
+DEBUG - 2012-02-02 15:58:23 --> Session Class Initialized
+DEBUG - 2012-02-02 15:58:23 --> Helper loaded: string_helper
+DEBUG - 2012-02-02 15:58:23 --> Encrypt Class Initialized
+DEBUG - 2012-02-02 15:58:23 --> Session routines successfully run
+DEBUG - 2012-02-02 15:58:23 --> Controller Class Initialized
+DEBUG - 2012-02-02 15:58:23 --> Config Class Initialized
+DEBUG - 2012-02-02 15:58:23 --> Hooks Class Initialized
+DEBUG - 2012-02-02 15:58:23 --> Utf8 Class Initialized
+DEBUG - 2012-02-02 15:58:23 --> UTF-8 Support Enabled
+DEBUG - 2012-02-02 15:58:23 --> URI Class Initialized
+DEBUG - 2012-02-02 15:58:23 --> Router Class Initialized
+DEBUG - 2012-02-02 15:58:23 --> Output Class Initialized
+DEBUG - 2012-02-02 15:58:23 --> Security Class Initialized
+DEBUG - 2012-02-02 15:58:23 --> Input Class Initialized
+DEBUG - 2012-02-02 15:58:23 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-02-02 15:58:23 --> Language Class Initialized
+DEBUG - 2012-02-02 15:58:23 --> Loader Class Initialized
+DEBUG - 2012-02-02 15:58:23 --> Helper loaded: form_helper
+DEBUG - 2012-02-02 15:58:23 --> Helper loaded: url_helper
+DEBUG - 2012-02-02 15:58:23 --> Helper loaded: login_helper
+DEBUG - 2012-02-02 15:58:23 --> Database Driver Class Initialized
+DEBUG - 2012-02-02 15:58:23 --> Session Class Initialized
+DEBUG - 2012-02-02 15:58:23 --> Helper loaded: string_helper
+DEBUG - 2012-02-02 15:58:23 --> Encrypt Class Initialized
+DEBUG - 2012-02-02 15:58:23 --> Session routines successfully run
+DEBUG - 2012-02-02 15:58:23 --> Controller Class Initialized
+DEBUG - 2012-02-02 15:58:23 --> File loaded: app/views/include/header.php
+DEBUG - 2012-02-02 15:58:23 --> File loaded: app/views/include/footer.php
+DEBUG - 2012-02-02 15:58:23 --> File loaded: app/views/round1.php
+DEBUG - 2012-02-02 15:58:23 --> Final output sent to browser
+DEBUG - 2012-02-02 15:58:23 --> Total execution time: 0.0368
+DEBUG - 2012-02-02 15:58:37 --> Config Class Initialized
+DEBUG - 2012-02-02 15:58:37 --> Hooks Class Initialized
+DEBUG - 2012-02-02 15:58:37 --> Utf8 Class Initialized
+DEBUG - 2012-02-02 15:58:37 --> UTF-8 Support Enabled
+DEBUG - 2012-02-02 15:58:37 --> URI Class Initialized
+DEBUG - 2012-02-02 15:58:37 --> Router Class Initialized
+DEBUG - 2012-02-02 15:58:37 --> Output Class Initialized
+DEBUG - 2012-02-02 15:58:37 --> Security Class Initialized
+DEBUG - 2012-02-02 15:58:37 --> Input Class Initialized
+DEBUG - 2012-02-02 15:58:37 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-02-02 15:58:37 --> Language Class Initialized
+DEBUG - 2012-02-02 15:58:37 --> Loader Class Initialized
+DEBUG - 2012-02-02 15:58:37 --> Helper loaded: form_helper
+DEBUG - 2012-02-02 15:58:37 --> Helper loaded: url_helper
+DEBUG - 2012-02-02 15:58:37 --> Helper loaded: login_helper
+DEBUG - 2012-02-02 15:58:37 --> Database Driver Class Initialized
+DEBUG - 2012-02-02 15:58:37 --> Session Class Initialized
+DEBUG - 2012-02-02 15:58:37 --> Helper loaded: string_helper
+DEBUG - 2012-02-02 15:58:37 --> Encrypt Class Initialized
+DEBUG - 2012-02-02 15:58:37 --> Session garbage collection performed.
+DEBUG - 2012-02-02 15:58:37 --> Session routines successfully run
+DEBUG - 2012-02-02 15:58:37 --> Controller Class Initialized
+DEBUG - 2012-02-02 15:58:37 --> Config Class Initialized
+DEBUG - 2012-02-02 15:58:37 --> Hooks Class Initialized
+DEBUG - 2012-02-02 15:58:37 --> Utf8 Class Initialized
+DEBUG - 2012-02-02 15:58:37 --> UTF-8 Support Enabled
+DEBUG - 2012-02-02 15:58:37 --> URI Class Initialized
+DEBUG - 2012-02-02 15:58:37 --> Router Class Initialized
+DEBUG - 2012-02-02 15:58:37 --> Output Class Initialized
+DEBUG - 2012-02-02 15:58:37 --> Security Class Initialized
+DEBUG - 2012-02-02 15:58:37 --> Input Class Initialized
+DEBUG - 2012-02-02 15:58:37 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-02-02 15:58:37 --> Language Class Initialized
+DEBUG - 2012-02-02 15:58:37 --> Loader Class Initialized
+DEBUG - 2012-02-02 15:58:37 --> Helper loaded: form_helper
+DEBUG - 2012-02-02 15:58:37 --> Helper loaded: url_helper
+DEBUG - 2012-02-02 15:58:37 --> Helper loaded: login_helper
+DEBUG - 2012-02-02 15:58:37 --> Database Driver Class Initialized
+DEBUG - 2012-02-02 15:58:37 --> Session Class Initialized
+DEBUG - 2012-02-02 15:58:37 --> Helper loaded: string_helper
+DEBUG - 2012-02-02 15:58:37 --> Encrypt Class Initialized
+DEBUG - 2012-02-02 15:58:37 --> Session garbage collection performed.
+DEBUG - 2012-02-02 15:58:37 --> Session routines successfully run
+DEBUG - 2012-02-02 15:58:37 --> Controller Class Initialized
+DEBUG - 2012-02-02 15:58:37 --> File loaded: app/views/include/header.php
+DEBUG - 2012-02-02 15:58:37 --> File loaded: app/views/include/footer.php
+DEBUG - 2012-02-02 15:58:37 --> File loaded: app/views/login.php
+DEBUG - 2012-02-02 15:58:37 --> Final output sent to browser
+DEBUG - 2012-02-02 15:58:37 --> Total execution time: 0.0440
+DEBUG - 2012-02-02 15:58:52 --> Config Class Initialized
+DEBUG - 2012-02-02 15:58:52 --> Hooks Class Initialized
+DEBUG - 2012-02-02 15:58:52 --> Utf8 Class Initialized
+DEBUG - 2012-02-02 15:58:52 --> UTF-8 Support Enabled
+DEBUG - 2012-02-02 15:58:52 --> URI Class Initialized
+DEBUG - 2012-02-02 15:58:52 --> Router Class Initialized
+DEBUG - 2012-02-02 15:58:52 --> Output Class Initialized
+DEBUG - 2012-02-02 15:58:52 --> Security Class Initialized
+DEBUG - 2012-02-02 15:58:52 --> Input Class Initialized
+DEBUG - 2012-02-02 15:58:52 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-02-02 15:58:52 --> Language Class Initialized
+DEBUG - 2012-02-02 15:58:52 --> Loader Class Initialized
+DEBUG - 2012-02-02 15:58:52 --> Helper loaded: form_helper
+DEBUG - 2012-02-02 15:58:52 --> Helper loaded: url_helper
+DEBUG - 2012-02-02 15:58:52 --> Helper loaded: login_helper
+DEBUG - 2012-02-02 15:58:52 --> Database Driver Class Initialized
+DEBUG - 2012-02-02 15:58:52 --> Session Class Initialized
+DEBUG - 2012-02-02 15:58:52 --> Helper loaded: string_helper
+DEBUG - 2012-02-02 15:58:52 --> Encrypt Class Initialized
+DEBUG - 2012-02-02 15:58:52 --> Session routines successfully run
+DEBUG - 2012-02-02 15:58:52 --> Controller Class Initialized
+DEBUG - 2012-02-02 15:58:52 --> Config Class Initialized
+DEBUG - 2012-02-02 15:58:52 --> Hooks Class Initialized
+DEBUG - 2012-02-02 15:58:52 --> Utf8 Class Initialized
+DEBUG - 2012-02-02 15:58:52 --> UTF-8 Support Enabled
+DEBUG - 2012-02-02 15:58:52 --> URI Class Initialized
+DEBUG - 2012-02-02 15:58:52 --> Router Class Initialized
+DEBUG - 2012-02-02 15:58:52 --> Output Class Initialized
+DEBUG - 2012-02-02 15:58:52 --> Security Class Initialized
+DEBUG - 2012-02-02 15:58:52 --> Input Class Initialized
+DEBUG - 2012-02-02 15:58:52 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-02-02 15:58:52 --> Language Class Initialized
+DEBUG - 2012-02-02 15:58:52 --> Loader Class Initialized
+DEBUG - 2012-02-02 15:58:52 --> Helper loaded: form_helper
+DEBUG - 2012-02-02 15:58:52 --> Helper loaded: url_helper
+DEBUG - 2012-02-02 15:58:52 --> Helper loaded: login_helper
+DEBUG - 2012-02-02 15:58:52 --> Database Driver Class Initialized
+DEBUG - 2012-02-02 15:58:52 --> Session Class Initialized
+DEBUG - 2012-02-02 15:58:52 --> Helper loaded: string_helper
+DEBUG - 2012-02-02 15:58:52 --> Encrypt Class Initialized
+DEBUG - 2012-02-02 15:58:52 --> Session routines successfully run
+DEBUG - 2012-02-02 15:58:52 --> Controller Class Initialized
+DEBUG - 2012-02-02 15:58:52 --> Final output sent to browser
+DEBUG - 2012-02-02 15:58:52 --> Total execution time: 0.0393
+DEBUG - 2012-02-02 15:58:57 --> Config Class Initialized
+DEBUG - 2012-02-02 15:58:57 --> Hooks Class Initialized
+DEBUG - 2012-02-02 15:58:57 --> Utf8 Class Initialized
+DEBUG - 2012-02-02 15:58:57 --> UTF-8 Support Enabled
+DEBUG - 2012-02-02 15:58:57 --> URI Class Initialized
+DEBUG - 2012-02-02 15:58:57 --> Router Class Initialized
+DEBUG - 2012-02-02 15:58:57 --> Output Class Initialized
+DEBUG - 2012-02-02 15:58:57 --> Security Class Initialized
+DEBUG - 2012-02-02 15:58:57 --> Input Class Initialized
+DEBUG - 2012-02-02 15:58:57 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-02-02 15:58:57 --> Language Class Initialized
+DEBUG - 2012-02-02 15:58:57 --> Loader Class Initialized
+DEBUG - 2012-02-02 15:58:57 --> Helper loaded: form_helper
+DEBUG - 2012-02-02 15:58:57 --> Helper loaded: url_helper
+DEBUG - 2012-02-02 15:58:57 --> Helper loaded: login_helper
+DEBUG - 2012-02-02 15:58:57 --> Database Driver Class Initialized
+DEBUG - 2012-02-02 15:58:57 --> Session Class Initialized
+DEBUG - 2012-02-02 15:58:57 --> Helper loaded: string_helper
+DEBUG - 2012-02-02 15:58:57 --> Encrypt Class Initialized
+DEBUG - 2012-02-02 15:58:57 --> Session routines successfully run
+DEBUG - 2012-02-02 15:58:57 --> Controller Class Initialized
+DEBUG - 2012-02-02 15:58:57 --> File loaded: app/views/include/header.php
+DEBUG - 2012-02-02 15:58:57 --> File loaded: app/views/include/footer.php
+DEBUG - 2012-02-02 15:58:57 --> File loaded: app/views/round1.php
+DEBUG - 2012-02-02 15:58:57 --> Final output sent to browser
+DEBUG - 2012-02-02 15:58:57 --> Total execution time: 0.0406
+DEBUG - 2012-02-02 15:59:31 --> Config Class Initialized
+DEBUG - 2012-02-02 15:59:31 --> Hooks Class Initialized
+DEBUG - 2012-02-02 15:59:31 --> Utf8 Class Initialized
+DEBUG - 2012-02-02 15:59:31 --> UTF-8 Support Enabled
+DEBUG - 2012-02-02 15:59:31 --> URI Class Initialized
+DEBUG - 2012-02-02 15:59:31 --> Router Class Initialized
+DEBUG - 2012-02-02 15:59:31 --> Output Class Initialized
+DEBUG - 2012-02-02 15:59:31 --> Security Class Initialized
+DEBUG - 2012-02-02 15:59:31 --> Input Class Initialized
+DEBUG - 2012-02-02 15:59:31 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-02-02 15:59:31 --> Language Class Initialized
+DEBUG - 2012-02-02 15:59:31 --> Loader Class Initialized
+DEBUG - 2012-02-02 15:59:31 --> Helper loaded: form_helper
+DEBUG - 2012-02-02 15:59:31 --> Helper loaded: url_helper
+DEBUG - 2012-02-02 15:59:31 --> Helper loaded: login_helper
+DEBUG - 2012-02-02 15:59:31 --> Database Driver Class Initialized
+DEBUG - 2012-02-02 15:59:31 --> Session Class Initialized
+DEBUG - 2012-02-02 15:59:31 --> Helper loaded: string_helper
+DEBUG - 2012-02-02 15:59:31 --> Encrypt Class Initialized
+DEBUG - 2012-02-02 15:59:31 --> Session routines successfully run
+DEBUG - 2012-02-02 15:59:31 --> Controller Class Initialized
+DEBUG - 2012-02-02 15:59:31 --> File loaded: app/views/include/header.php
+DEBUG - 2012-02-02 15:59:31 --> File loaded: app/views/include/footer.php
+DEBUG - 2012-02-02 15:59:31 --> File loaded: app/views/round1.php
+DEBUG - 2012-02-02 15:59:31 --> Final output sent to browser
+DEBUG - 2012-02-02 15:59:31 --> Total execution time: 0.0410
+DEBUG - 2012-02-02 15:59:44 --> Config Class Initialized
+DEBUG - 2012-02-02 15:59:44 --> Hooks Class Initialized
+DEBUG - 2012-02-02 15:59:44 --> Utf8 Class Initialized
+DEBUG - 2012-02-02 15:59:44 --> UTF-8 Support Enabled
+DEBUG - 2012-02-02 15:59:44 --> URI Class Initialized
+DEBUG - 2012-02-02 15:59:44 --> Router Class Initialized
+DEBUG - 2012-02-02 15:59:44 --> Output Class Initialized
+DEBUG - 2012-02-02 15:59:44 --> Security Class Initialized
+DEBUG - 2012-02-02 15:59:44 --> Input Class Initialized
+DEBUG - 2012-02-02 15:59:44 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-02-02 15:59:44 --> Language Class Initialized
+DEBUG - 2012-02-02 15:59:44 --> Loader Class Initialized
+DEBUG - 2012-02-02 15:59:44 --> Helper loaded: form_helper
+DEBUG - 2012-02-02 15:59:44 --> Helper loaded: url_helper
+DEBUG - 2012-02-02 15:59:44 --> Helper loaded: login_helper
+DEBUG - 2012-02-02 15:59:44 --> Database Driver Class Initialized
+DEBUG - 2012-02-02 15:59:44 --> Session Class Initialized
+DEBUG - 2012-02-02 15:59:44 --> Helper loaded: string_helper
+DEBUG - 2012-02-02 15:59:44 --> Encrypt Class Initialized
+DEBUG - 2012-02-02 15:59:44 --> Session routines successfully run
+DEBUG - 2012-02-02 15:59:44 --> Controller Class Initialized
+DEBUG - 2012-02-02 15:59:44 --> Config Class Initialized
+DEBUG - 2012-02-02 15:59:44 --> Hooks Class Initialized
+DEBUG - 2012-02-02 15:59:44 --> Utf8 Class Initialized
+DEBUG - 2012-02-02 15:59:44 --> UTF-8 Support Enabled
+DEBUG - 2012-02-02 15:59:44 --> URI Class Initialized
+DEBUG - 2012-02-02 15:59:44 --> Router Class Initialized
+DEBUG - 2012-02-02 15:59:44 --> Output Class Initialized
+DEBUG - 2012-02-02 15:59:44 --> Security Class Initialized
+DEBUG - 2012-02-02 15:59:44 --> Input Class Initialized
+DEBUG - 2012-02-02 15:59:44 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-02-02 15:59:44 --> Language Class Initialized
+DEBUG - 2012-02-02 15:59:44 --> Loader Class Initialized
+DEBUG - 2012-02-02 15:59:44 --> Helper loaded: form_helper
+DEBUG - 2012-02-02 15:59:44 --> Helper loaded: url_helper
+DEBUG - 2012-02-02 15:59:44 --> Helper loaded: login_helper
+DEBUG - 2012-02-02 15:59:44 --> Database Driver Class Initialized
+DEBUG - 2012-02-02 15:59:44 --> Session Class Initialized
+DEBUG - 2012-02-02 15:59:44 --> Helper loaded: string_helper
+DEBUG - 2012-02-02 15:59:44 --> Encrypt Class Initialized
+DEBUG - 2012-02-02 15:59:44 --> Session routines successfully run
+DEBUG - 2012-02-02 15:59:44 --> Controller Class Initialized
+DEBUG - 2012-02-02 15:59:44 --> File loaded: app/views/include/header.php
+DEBUG - 2012-02-02 15:59:44 --> File loaded: app/views/include/footer.php
+DEBUG - 2012-02-02 15:59:44 --> File loaded: app/views/round1.php
+DEBUG - 2012-02-02 15:59:44 --> Final output sent to browser
+DEBUG - 2012-02-02 15:59:44 --> Total execution time: 0.0466
+DEBUG - 2012-02-02 16:20:14 --> Config Class Initialized
+DEBUG - 2012-02-02 16:20:14 --> Hooks Class Initialized
+DEBUG - 2012-02-02 16:20:14 --> Utf8 Class Initialized
+DEBUG - 2012-02-02 16:20:14 --> UTF-8 Support Enabled
+DEBUG - 2012-02-02 16:20:14 --> URI Class Initialized
+DEBUG - 2012-02-02 16:20:14 --> Router Class Initialized
+DEBUG - 2012-02-02 16:20:14 --> Output Class Initialized
+DEBUG - 2012-02-02 16:20:14 --> Security Class Initialized
+DEBUG - 2012-02-02 16:20:14 --> Input Class Initialized
+DEBUG - 2012-02-02 16:20:14 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-02-02 16:20:14 --> Language Class Initialized
+DEBUG - 2012-02-02 16:20:14 --> Loader Class Initialized
+DEBUG - 2012-02-02 16:20:14 --> Helper loaded: form_helper
+DEBUG - 2012-02-02 16:20:14 --> Helper loaded: url_helper
+DEBUG - 2012-02-02 16:20:14 --> Helper loaded: login_helper
+DEBUG - 2012-02-02 16:20:14 --> Database Driver Class Initialized
+DEBUG - 2012-02-02 16:20:14 --> Session Class Initialized
+DEBUG - 2012-02-02 16:20:14 --> Helper loaded: string_helper
+DEBUG - 2012-02-02 16:20:14 --> Encrypt Class Initialized
+DEBUG - 2012-02-02 16:20:14 --> Session routines successfully run
+DEBUG - 2012-02-02 16:20:14 --> Controller Class Initialized
+DEBUG - 2012-02-02 16:20:14 --> File loaded: app/views/include/header.php
+DEBUG - 2012-02-02 16:20:14 --> File loaded: app/views/include/footer.php
+DEBUG - 2012-02-02 16:20:14 --> File loaded: app/views/round1.php
+DEBUG - 2012-02-02 16:20:14 --> Final output sent to browser
+DEBUG - 2012-02-02 16:20:14 --> Total execution time: 0.0876
+DEBUG - 2012-02-02 16:20:41 --> Config Class Initialized
+DEBUG - 2012-02-02 16:20:41 --> Hooks Class Initialized
+DEBUG - 2012-02-02 16:20:41 --> Utf8 Class Initialized
+DEBUG - 2012-02-02 16:20:41 --> UTF-8 Support Enabled
+DEBUG - 2012-02-02 16:20:41 --> URI Class Initialized
+DEBUG - 2012-02-02 16:20:41 --> Router Class Initialized
+DEBUG - 2012-02-02 16:20:41 --> Output Class Initialized
+DEBUG - 2012-02-02 16:20:41 --> Security Class Initialized
+DEBUG - 2012-02-02 16:20:41 --> Input Class Initialized
+DEBUG - 2012-02-02 16:20:41 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-02-02 16:20:41 --> Language Class Initialized
+DEBUG - 2012-02-02 16:20:41 --> Loader Class Initialized
+DEBUG - 2012-02-02 16:20:41 --> Helper loaded: form_helper
+DEBUG - 2012-02-02 16:20:41 --> Helper loaded: url_helper
+DEBUG - 2012-02-02 16:20:41 --> Helper loaded: login_helper
+DEBUG - 2012-02-02 16:20:41 --> Database Driver Class Initialized
+DEBUG - 2012-02-02 16:20:41 --> Session Class Initialized
+DEBUG - 2012-02-02 16:20:41 --> Helper loaded: string_helper
+DEBUG - 2012-02-02 16:20:41 --> Encrypt Class Initialized
+DEBUG - 2012-02-02 16:20:41 --> Session routines successfully run
+DEBUG - 2012-02-02 16:20:41 --> Controller Class Initialized
+DEBUG - 2012-02-02 16:20:41 --> Config Class Initialized
+DEBUG - 2012-02-02 16:20:41 --> Hooks Class Initialized
+DEBUG - 2012-02-02 16:20:41 --> Utf8 Class Initialized
+DEBUG - 2012-02-02 16:20:41 --> UTF-8 Support Enabled
+DEBUG - 2012-02-02 16:20:41 --> URI Class Initialized
+DEBUG - 2012-02-02 16:20:41 --> Router Class Initialized
+DEBUG - 2012-02-02 16:20:41 --> Output Class Initialized
+DEBUG - 2012-02-02 16:20:41 --> Security Class Initialized
+DEBUG - 2012-02-02 16:20:41 --> Input Class Initialized
+DEBUG - 2012-02-02 16:20:41 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-02-02 16:20:41 --> Language Class Initialized
+DEBUG - 2012-02-02 16:20:41 --> Loader Class Initialized
+DEBUG - 2012-02-02 16:20:41 --> Helper loaded: form_helper
+DEBUG - 2012-02-02 16:20:41 --> Helper loaded: url_helper
+DEBUG - 2012-02-02 16:20:41 --> Helper loaded: login_helper
+DEBUG - 2012-02-02 16:20:41 --> Database Driver Class Initialized
+DEBUG - 2012-02-02 16:20:41 --> Session Class Initialized
+DEBUG - 2012-02-02 16:20:41 --> Helper loaded: string_helper
+DEBUG - 2012-02-02 16:20:41 --> Encrypt Class Initialized
+DEBUG - 2012-02-02 16:20:41 --> Session routines successfully run
+DEBUG - 2012-02-02 16:20:41 --> Controller Class Initialized
+DEBUG - 2012-02-02 16:20:41 --> File loaded: app/views/include/header.php
+DEBUG - 2012-02-02 16:20:41 --> File loaded: app/views/include/footer.php
+DEBUG - 2012-02-02 16:20:41 --> File loaded: app/views/round1.php
+DEBUG - 2012-02-02 16:20:41 --> Final output sent to browser
+DEBUG - 2012-02-02 16:20:41 --> Total execution time: 0.0457
+DEBUG - 2012-02-02 16:20:50 --> Config Class Initialized
+DEBUG - 2012-02-02 16:20:50 --> Hooks Class Initialized
+DEBUG - 2012-02-02 16:20:50 --> Utf8 Class Initialized
+DEBUG - 2012-02-02 16:20:50 --> UTF-8 Support Enabled
+DEBUG - 2012-02-02 16:20:50 --> URI Class Initialized
+DEBUG - 2012-02-02 16:20:50 --> Router Class Initialized
+DEBUG - 2012-02-02 16:20:50 --> Output Class Initialized
+DEBUG - 2012-02-02 16:20:50 --> Security Class Initialized
+DEBUG - 2012-02-02 16:20:50 --> Input Class Initialized
+DEBUG - 2012-02-02 16:20:50 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-02-02 16:20:50 --> Language Class Initialized
+DEBUG - 2012-02-02 16:20:50 --> Loader Class Initialized
+DEBUG - 2012-02-02 16:20:50 --> Helper loaded: form_helper
+DEBUG - 2012-02-02 16:20:50 --> Helper loaded: url_helper
+DEBUG - 2012-02-02 16:20:50 --> Helper loaded: login_helper
+DEBUG - 2012-02-02 16:20:50 --> Database Driver Class Initialized
+DEBUG - 2012-02-02 16:20:50 --> Session Class Initialized
+DEBUG - 2012-02-02 16:20:50 --> Helper loaded: string_helper
+DEBUG - 2012-02-02 16:20:50 --> Encrypt Class Initialized
+DEBUG - 2012-02-02 16:20:50 --> Session routines successfully run
+DEBUG - 2012-02-02 16:20:50 --> Controller Class Initialized
+DEBUG - 2012-02-02 16:20:50 --> File loaded: app/views/include/header.php
+DEBUG - 2012-02-02 16:20:50 --> File loaded: app/views/include/footer.php
+DEBUG - 2012-02-02 16:20:50 --> File loaded: app/views/round2.php
+DEBUG - 2012-02-02 16:20:50 --> Final output sent to browser
+DEBUG - 2012-02-02 16:20:50 --> Total execution time: 0.0456
+DEBUG - 2012-02-02 16:22:50 --> Config Class Initialized
+DEBUG - 2012-02-02 16:22:50 --> Hooks Class Initialized
+DEBUG - 2012-02-02 16:22:50 --> Utf8 Class Initialized
+DEBUG - 2012-02-02 16:22:50 --> UTF-8 Support Enabled
+DEBUG - 2012-02-02 16:22:50 --> URI Class Initialized
+DEBUG - 2012-02-02 16:22:50 --> Router Class Initialized
+DEBUG - 2012-02-02 16:22:50 --> Output Class Initialized
+DEBUG - 2012-02-02 16:22:50 --> Security Class Initialized
+DEBUG - 2012-02-02 16:22:50 --> Input Class Initialized
+DEBUG - 2012-02-02 16:22:50 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-02-02 16:22:50 --> Language Class Initialized
+DEBUG - 2012-02-02 16:22:50 --> Loader Class Initialized
+DEBUG - 2012-02-02 16:22:50 --> Helper loaded: form_helper
+DEBUG - 2012-02-02 16:22:50 --> Helper loaded: url_helper
+DEBUG - 2012-02-02 16:22:50 --> Helper loaded: login_helper
+DEBUG - 2012-02-02 16:22:50 --> Database Driver Class Initialized
+DEBUG - 2012-02-02 16:22:50 --> Session Class Initialized
+DEBUG - 2012-02-02 16:22:50 --> Helper loaded: string_helper
+DEBUG - 2012-02-02 16:22:50 --> Encrypt Class Initialized
+DEBUG - 2012-02-02 16:22:50 --> Session routines successfully run
+DEBUG - 2012-02-02 16:22:50 --> Controller Class Initialized
+DEBUG - 2012-02-02 16:22:50 --> File loaded: app/views/include/header.php
+DEBUG - 2012-02-02 16:22:50 --> File loaded: app/views/include/footer.php
+DEBUG - 2012-02-02 16:22:50 --> File loaded: app/views/round2.php
+DEBUG - 2012-02-02 16:22:50 --> Final output sent to browser
+DEBUG - 2012-02-02 16:22:50 --> Total execution time: 0.0391
+DEBUG - 2012-02-02 16:25:12 --> Config Class Initialized
+DEBUG - 2012-02-02 16:25:12 --> Hooks Class Initialized
+DEBUG - 2012-02-02 16:25:12 --> Utf8 Class Initialized
+DEBUG - 2012-02-02 16:25:12 --> UTF-8 Support Enabled
+DEBUG - 2012-02-02 16:25:12 --> URI Class Initialized
+DEBUG - 2012-02-02 16:25:12 --> Router Class Initialized
+DEBUG - 2012-02-02 16:25:12 --> Output Class Initialized
+DEBUG - 2012-02-02 16:25:12 --> Security Class Initialized
+DEBUG - 2012-02-02 16:25:12 --> Input Class Initialized
+DEBUG - 2012-02-02 16:25:12 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-02-02 16:25:12 --> Language Class Initialized
+DEBUG - 2012-02-02 16:25:12 --> Loader Class Initialized
+DEBUG - 2012-02-02 16:25:12 --> Helper loaded: form_helper
+DEBUG - 2012-02-02 16:25:12 --> Helper loaded: url_helper
+DEBUG - 2012-02-02 16:25:12 --> Helper loaded: login_helper
+DEBUG - 2012-02-02 16:25:12 --> Database Driver Class Initialized
+DEBUG - 2012-02-02 16:25:12 --> Session Class Initialized
+DEBUG - 2012-02-02 16:25:12 --> Helper loaded: string_helper
+DEBUG - 2012-02-02 16:25:12 --> Encrypt Class Initialized
+DEBUG - 2012-02-02 16:25:12 --> Session routines successfully run
+DEBUG - 2012-02-02 16:25:12 --> Controller Class Initialized
+DEBUG - 2012-02-02 16:25:12 --> File loaded: app/views/include/header.php
+DEBUG - 2012-02-02 16:25:12 --> File loaded: app/views/include/footer.php
+DEBUG - 2012-02-02 16:25:12 --> File loaded: app/views/round2.php
+DEBUG - 2012-02-02 16:25:12 --> Final output sent to browser
+DEBUG - 2012-02-02 16:25:12 --> Total execution time: 0.0448
+DEBUG - 2012-02-02 16:25:34 --> Config Class Initialized
+DEBUG - 2012-02-02 16:25:34 --> Hooks Class Initialized
+DEBUG - 2012-02-02 16:25:34 --> Utf8 Class Initialized
+DEBUG - 2012-02-02 16:25:34 --> UTF-8 Support Enabled
+DEBUG - 2012-02-02 16:25:34 --> URI Class Initialized
+DEBUG - 2012-02-02 16:25:34 --> Router Class Initialized
+DEBUG - 2012-02-02 16:25:34 --> Output Class Initialized
+DEBUG - 2012-02-02 16:25:34 --> Security Class Initialized
+DEBUG - 2012-02-02 16:25:34 --> Input Class Initialized
+DEBUG - 2012-02-02 16:25:34 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-02-02 16:25:34 --> Language Class Initialized
+DEBUG - 2012-02-02 16:25:34 --> Loader Class Initialized
+DEBUG - 2012-02-02 16:25:34 --> Helper loaded: form_helper
+DEBUG - 2012-02-02 16:25:34 --> Helper loaded: url_helper
+DEBUG - 2012-02-02 16:25:34 --> Helper loaded: login_helper
+DEBUG - 2012-02-02 16:25:34 --> Database Driver Class Initialized
+DEBUG - 2012-02-02 16:25:34 --> Session Class Initialized
+DEBUG - 2012-02-02 16:25:34 --> Helper loaded: string_helper
+DEBUG - 2012-02-02 16:25:34 --> Encrypt Class Initialized
+DEBUG - 2012-02-02 16:25:34 --> Session routines successfully run
+DEBUG - 2012-02-02 16:25:34 --> Controller Class Initialized
+DEBUG - 2012-02-02 16:25:34 --> File loaded: app/views/include/header.php
+DEBUG - 2012-02-02 16:25:34 --> File loaded: app/views/include/footer.php
+DEBUG - 2012-02-02 16:25:34 --> File loaded: app/views/round2.php
+DEBUG - 2012-02-02 16:25:34 --> Final output sent to browser
+DEBUG - 2012-02-02 16:25:34 --> Total execution time: 0.1011
+DEBUG - 2012-02-02 16:29:29 --> Config Class Initialized
+DEBUG - 2012-02-02 16:29:29 --> Hooks Class Initialized
+DEBUG - 2012-02-02 16:29:29 --> Utf8 Class Initialized
+DEBUG - 2012-02-02 16:29:29 --> UTF-8 Support Enabled
+DEBUG - 2012-02-02 16:29:29 --> URI Class Initialized
+DEBUG - 2012-02-02 16:29:29 --> Router Class Initialized
+DEBUG - 2012-02-02 16:29:29 --> Output Class Initialized
+DEBUG - 2012-02-02 16:29:29 --> Security Class Initialized
+DEBUG - 2012-02-02 16:29:29 --> Input Class Initialized
+DEBUG - 2012-02-02 16:29:29 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-02-02 16:29:29 --> Language Class Initialized
+DEBUG - 2012-02-02 16:29:29 --> Loader Class Initialized
+DEBUG - 2012-02-02 16:29:29 --> Helper loaded: form_helper
+DEBUG - 2012-02-02 16:29:29 --> Helper loaded: url_helper
+DEBUG - 2012-02-02 16:29:29 --> Helper loaded: login_helper
+DEBUG - 2012-02-02 16:29:29 --> Database Driver Class Initialized
+DEBUG - 2012-02-02 16:29:29 --> Session Class Initialized
+DEBUG - 2012-02-02 16:29:29 --> Helper loaded: string_helper
+DEBUG - 2012-02-02 16:29:29 --> Encrypt Class Initialized
+DEBUG - 2012-02-02 16:29:29 --> Session routines successfully run
+DEBUG - 2012-02-02 16:29:29 --> Controller Class Initialized
+DEBUG - 2012-02-02 16:29:29 --> File loaded: app/views/include/header.php
+DEBUG - 2012-02-02 16:29:29 --> File loaded: app/views/include/footer.php
+DEBUG - 2012-02-02 16:29:29 --> File loaded: app/views/round2.php
+DEBUG - 2012-02-02 16:29:29 --> Final output sent to browser
+DEBUG - 2012-02-02 16:29:29 --> Total execution time: 0.0549
+DEBUG - 2012-02-02 16:29:55 --> Config Class Initialized
+DEBUG - 2012-02-02 16:29:55 --> Hooks Class Initialized
+DEBUG - 2012-02-02 16:29:55 --> Utf8 Class Initialized
+DEBUG - 2012-02-02 16:29:55 --> UTF-8 Support Enabled
+DEBUG - 2012-02-02 16:29:55 --> URI Class Initialized
+DEBUG - 2012-02-02 16:29:55 --> Router Class Initialized
+DEBUG - 2012-02-02 16:29:55 --> Output Class Initialized
+DEBUG - 2012-02-02 16:29:55 --> Security Class Initialized
+DEBUG - 2012-02-02 16:29:55 --> Input Class Initialized
+DEBUG - 2012-02-02 16:29:55 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-02-02 16:29:55 --> Language Class Initialized
+DEBUG - 2012-02-02 16:29:55 --> Loader Class Initialized
+DEBUG - 2012-02-02 16:29:55 --> Helper loaded: form_helper
+DEBUG - 2012-02-02 16:29:55 --> Helper loaded: url_helper
+DEBUG - 2012-02-02 16:29:55 --> Helper loaded: login_helper
+DEBUG - 2012-02-02 16:29:55 --> Database Driver Class Initialized
+DEBUG - 2012-02-02 16:29:55 --> Session Class Initialized
+DEBUG - 2012-02-02 16:29:55 --> Helper loaded: string_helper
+DEBUG - 2012-02-02 16:29:55 --> Encrypt Class Initialized
+DEBUG - 2012-02-02 16:29:55 --> Session routines successfully run
+DEBUG - 2012-02-02 16:29:55 --> Controller Class Initialized
+DEBUG - 2012-02-02 16:29:55 --> File loaded: app/views/include/header.php
+DEBUG - 2012-02-02 16:29:55 --> File loaded: app/views/include/footer.php
+DEBUG - 2012-02-02 16:29:55 --> File loaded: app/views/round2.php
+DEBUG - 2012-02-02 16:29:55 --> Final output sent to browser
+DEBUG - 2012-02-02 16:29:55 --> Total execution time: 0.0435
+DEBUG - 2012-02-02 16:34:05 --> Config Class Initialized
+DEBUG - 2012-02-02 16:34:05 --> Hooks Class Initialized
+DEBUG - 2012-02-02 16:34:05 --> Utf8 Class Initialized
+DEBUG - 2012-02-02 16:34:05 --> UTF-8 Support Enabled
+DEBUG - 2012-02-02 16:34:05 --> URI Class Initialized
+DEBUG - 2012-02-02 16:34:05 --> Router Class Initialized
+DEBUG - 2012-02-02 16:34:05 --> Output Class Initialized
+DEBUG - 2012-02-02 16:34:05 --> Security Class Initialized
+DEBUG - 2012-02-02 16:34:05 --> Input Class Initialized
+DEBUG - 2012-02-02 16:34:05 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-02-02 16:34:05 --> Language Class Initialized
+DEBUG - 2012-02-02 16:34:05 --> Loader Class Initialized
+DEBUG - 2012-02-02 16:34:05 --> Helper loaded: form_helper
+DEBUG - 2012-02-02 16:34:05 --> Helper loaded: url_helper
+DEBUG - 2012-02-02 16:34:05 --> Helper loaded: login_helper
+DEBUG - 2012-02-02 16:34:05 --> Database Driver Class Initialized
+DEBUG - 2012-02-02 16:34:05 --> Session Class Initialized
+DEBUG - 2012-02-02 16:34:05 --> Helper loaded: string_helper
+DEBUG - 2012-02-02 16:34:05 --> Encrypt Class Initialized
+DEBUG - 2012-02-02 16:34:05 --> Session routines successfully run
+DEBUG - 2012-02-02 16:34:05 --> Controller Class Initialized
+DEBUG - 2012-02-02 16:34:05 --> File loaded: app/views/include/header.php
+DEBUG - 2012-02-02 16:34:05 --> File loaded: app/views/include/footer.php
+DEBUG - 2012-02-02 16:34:05 --> File loaded: app/views/round2.php
+DEBUG - 2012-02-02 16:34:05 --> Final output sent to browser
+DEBUG - 2012-02-02 16:34:05 --> Total execution time: 0.1072
+DEBUG - 2012-02-02 16:34:52 --> Config Class Initialized
+DEBUG - 2012-02-02 16:34:52 --> Hooks Class Initialized
+DEBUG - 2012-02-02 16:34:52 --> Utf8 Class Initialized
+DEBUG - 2012-02-02 16:34:52 --> UTF-8 Support Enabled
+DEBUG - 2012-02-02 16:34:52 --> URI Class Initialized
+DEBUG - 2012-02-02 16:34:52 --> Router Class Initialized
+DEBUG - 2012-02-02 16:34:52 --> Output Class Initialized
+DEBUG - 2012-02-02 16:34:52 --> Security Class Initialized
+DEBUG - 2012-02-02 16:34:52 --> Input Class Initialized
+DEBUG - 2012-02-02 16:34:52 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-02-02 16:34:52 --> Language Class Initialized
+DEBUG - 2012-02-02 16:34:52 --> Loader Class Initialized
+DEBUG - 2012-02-02 16:34:52 --> Helper loaded: form_helper
+DEBUG - 2012-02-02 16:34:52 --> Helper loaded: url_helper
+DEBUG - 2012-02-02 16:34:52 --> Helper loaded: login_helper
+DEBUG - 2012-02-02 16:34:52 --> Database Driver Class Initialized
+DEBUG - 2012-02-02 16:34:52 --> Session Class Initialized
+DEBUG - 2012-02-02 16:34:52 --> Helper loaded: string_helper
+DEBUG - 2012-02-02 16:34:52 --> Encrypt Class Initialized
+DEBUG - 2012-02-02 16:34:52 --> Session routines successfully run
+DEBUG - 2012-02-02 16:34:52 --> Controller Class Initialized
+DEBUG - 2012-02-02 16:34:52 --> File loaded: app/views/include/header.php
+DEBUG - 2012-02-02 16:34:52 --> File loaded: app/views/include/footer.php
+DEBUG - 2012-02-02 16:34:52 --> File loaded: app/views/round2.php
+DEBUG - 2012-02-02 16:34:52 --> Final output sent to browser
+DEBUG - 2012-02-02 16:34:52 --> Total execution time: 0.0466
+DEBUG - 2012-02-02 16:35:07 --> Config Class Initialized
+DEBUG - 2012-02-02 16:35:07 --> Hooks Class Initialized
+DEBUG - 2012-02-02 16:35:07 --> Utf8 Class Initialized
+DEBUG - 2012-02-02 16:35:07 --> UTF-8 Support Enabled
+DEBUG - 2012-02-02 16:35:07 --> URI Class Initialized
+DEBUG - 2012-02-02 16:35:07 --> Router Class Initialized
+DEBUG - 2012-02-02 16:35:07 --> Output Class Initialized
+DEBUG - 2012-02-02 16:35:07 --> Security Class Initialized
+DEBUG - 2012-02-02 16:35:07 --> Input Class Initialized
+DEBUG - 2012-02-02 16:35:07 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-02-02 16:35:07 --> Language Class Initialized
+DEBUG - 2012-02-02 16:35:07 --> Loader Class Initialized
+DEBUG - 2012-02-02 16:35:07 --> Helper loaded: form_helper
+DEBUG - 2012-02-02 16:35:07 --> Helper loaded: url_helper
+DEBUG - 2012-02-02 16:35:07 --> Helper loaded: login_helper
+DEBUG - 2012-02-02 16:35:07 --> Database Driver Class Initialized
+DEBUG - 2012-02-02 16:35:07 --> Session Class Initialized
+DEBUG - 2012-02-02 16:35:07 --> Helper loaded: string_helper
+DEBUG - 2012-02-02 16:35:07 --> Encrypt Class Initialized
+DEBUG - 2012-02-02 16:35:07 --> Session routines successfully run
+DEBUG - 2012-02-02 16:35:07 --> Controller Class Initialized
+DEBUG - 2012-02-02 16:35:07 --> File loaded: app/views/include/header.php
+DEBUG - 2012-02-02 16:35:07 --> File loaded: app/views/include/footer.php
+DEBUG - 2012-02-02 16:35:07 --> File loaded: app/views/round2.php
+DEBUG - 2012-02-02 16:35:07 --> Final output sent to browser
+DEBUG - 2012-02-02 16:35:07 --> Total execution time: 0.0455
+DEBUG - 2012-02-02 16:35:13 --> Config Class Initialized
+DEBUG - 2012-02-02 16:35:13 --> Hooks Class Initialized
+DEBUG - 2012-02-02 16:35:13 --> Utf8 Class Initialized
+DEBUG - 2012-02-02 16:35:13 --> UTF-8 Support Enabled
+DEBUG - 2012-02-02 16:35:13 --> URI Class Initialized
+DEBUG - 2012-02-02 16:35:13 --> Router Class Initialized
+DEBUG - 2012-02-02 16:35:13 --> Output Class Initialized
+DEBUG - 2012-02-02 16:35:13 --> Security Class Initialized
+DEBUG - 2012-02-02 16:35:13 --> Input Class Initialized
+DEBUG - 2012-02-02 16:35:13 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-02-02 16:35:13 --> Language Class Initialized
+DEBUG - 2012-02-02 16:35:13 --> Loader Class Initialized
+DEBUG - 2012-02-02 16:35:13 --> Helper loaded: form_helper
+DEBUG - 2012-02-02 16:35:13 --> Helper loaded: url_helper
+DEBUG - 2012-02-02 16:35:13 --> Helper loaded: login_helper
+DEBUG - 2012-02-02 16:35:13 --> Database Driver Class Initialized
+DEBUG - 2012-02-02 16:35:13 --> Session Class Initialized
+DEBUG - 2012-02-02 16:35:13 --> Helper loaded: string_helper
+DEBUG - 2012-02-02 16:35:13 --> Encrypt Class Initialized
+DEBUG - 2012-02-02 16:35:13 --> Session routines successfully run
+DEBUG - 2012-02-02 16:35:13 --> Controller Class Initialized
+DEBUG - 2012-02-02 16:35:13 --> File loaded: app/views/include/header.php
+DEBUG - 2012-02-02 16:35:13 --> File loaded: app/views/include/footer.php
+DEBUG - 2012-02-02 16:35:13 --> File loaded: app/views/round2.php
+DEBUG - 2012-02-02 16:35:13 --> Final output sent to browser
+DEBUG - 2012-02-02 16:35:13 --> Total execution time: 0.0465
+DEBUG - 2012-02-02 16:35:23 --> Config Class Initialized
+DEBUG - 2012-02-02 16:35:23 --> Hooks Class Initialized
+DEBUG - 2012-02-02 16:35:23 --> Utf8 Class Initialized
+DEBUG - 2012-02-02 16:35:23 --> UTF-8 Support Enabled
+DEBUG - 2012-02-02 16:35:23 --> URI Class Initialized
+DEBUG - 2012-02-02 16:35:23 --> Router Class Initialized
+DEBUG - 2012-02-02 16:35:23 --> Output Class Initialized
+DEBUG - 2012-02-02 16:35:23 --> Security Class Initialized
+DEBUG - 2012-02-02 16:35:23 --> Input Class Initialized
+DEBUG - 2012-02-02 16:35:23 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-02-02 16:35:23 --> Language Class Initialized
+DEBUG - 2012-02-02 16:35:23 --> Loader Class Initialized
+DEBUG - 2012-02-02 16:35:23 --> Helper loaded: form_helper
+DEBUG - 2012-02-02 16:35:23 --> Helper loaded: url_helper
+DEBUG - 2012-02-02 16:35:23 --> Helper loaded: login_helper
+DEBUG - 2012-02-02 16:35:23 --> Database Driver Class Initialized
+DEBUG - 2012-02-02 16:35:23 --> Session Class Initialized
+DEBUG - 2012-02-02 16:35:23 --> Helper loaded: string_helper
+DEBUG - 2012-02-02 16:35:23 --> Encrypt Class Initialized
+DEBUG - 2012-02-02 16:35:23 --> Session routines successfully run
+DEBUG - 2012-02-02 16:35:23 --> Controller Class Initialized
+DEBUG - 2012-02-02 16:35:23 --> File loaded: app/views/include/header.php
+DEBUG - 2012-02-02 16:35:23 --> File loaded: app/views/include/footer.php
+DEBUG - 2012-02-02 16:35:23 --> File loaded: app/views/round2.php
+DEBUG - 2012-02-02 16:35:23 --> Final output sent to browser
+DEBUG - 2012-02-02 16:35:23 --> Total execution time: 0.0553
+DEBUG - 2012-02-02 16:35:32 --> Config Class Initialized
+DEBUG - 2012-02-02 16:35:32 --> Hooks Class Initialized
+DEBUG - 2012-02-02 16:35:32 --> Utf8 Class Initialized
+DEBUG - 2012-02-02 16:35:32 --> UTF-8 Support Enabled
+DEBUG - 2012-02-02 16:35:32 --> URI Class Initialized
+DEBUG - 2012-02-02 16:35:32 --> Router Class Initialized
+DEBUG - 2012-02-02 16:35:32 --> Output Class Initialized
+DEBUG - 2012-02-02 16:35:32 --> Security Class Initialized
+DEBUG - 2012-02-02 16:35:32 --> Input Class Initialized
+DEBUG - 2012-02-02 16:35:32 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-02-02 16:35:32 --> Language Class Initialized
+DEBUG - 2012-02-02 16:35:32 --> Loader Class Initialized
+DEBUG - 2012-02-02 16:35:32 --> Helper loaded: form_helper
+DEBUG - 2012-02-02 16:35:32 --> Helper loaded: url_helper
+DEBUG - 2012-02-02 16:35:32 --> Helper loaded: login_helper
+DEBUG - 2012-02-02 16:35:32 --> Database Driver Class Initialized
+DEBUG - 2012-02-02 16:35:32 --> Session Class Initialized
+DEBUG - 2012-02-02 16:35:32 --> Helper loaded: string_helper
+DEBUG - 2012-02-02 16:35:32 --> Encrypt Class Initialized
+DEBUG - 2012-02-02 16:35:32 --> Session routines successfully run
+DEBUG - 2012-02-02 16:35:32 --> Controller Class Initialized
+DEBUG - 2012-02-02 16:35:32 --> File loaded: app/views/include/header.php
+DEBUG - 2012-02-02 16:35:32 --> File loaded: app/views/include/footer.php
+DEBUG - 2012-02-02 16:35:32 --> File loaded: app/views/round2.php
+DEBUG - 2012-02-02 16:35:32 --> Final output sent to browser
+DEBUG - 2012-02-02 16:35:32 --> Total execution time: 0.0571
+DEBUG - 2012-02-02 16:35:41 --> Config Class Initialized
+DEBUG - 2012-02-02 16:35:41 --> Hooks Class Initialized
+DEBUG - 2012-02-02 16:35:41 --> Utf8 Class Initialized
+DEBUG - 2012-02-02 16:35:41 --> UTF-8 Support Enabled
+DEBUG - 2012-02-02 16:35:41 --> URI Class Initialized
+DEBUG - 2012-02-02 16:35:41 --> Router Class Initialized
+DEBUG - 2012-02-02 16:35:41 --> Output Class Initialized
+DEBUG - 2012-02-02 16:35:41 --> Security Class Initialized
+DEBUG - 2012-02-02 16:35:41 --> Input Class Initialized
+DEBUG - 2012-02-02 16:35:41 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-02-02 16:35:41 --> Language Class Initialized
+DEBUG - 2012-02-02 16:35:41 --> Loader Class Initialized
+DEBUG - 2012-02-02 16:35:41 --> Helper loaded: form_helper
+DEBUG - 2012-02-02 16:35:41 --> Helper loaded: url_helper
+DEBUG - 2012-02-02 16:35:41 --> Helper loaded: login_helper
+DEBUG - 2012-02-02 16:35:41 --> Database Driver Class Initialized
+DEBUG - 2012-02-02 16:35:41 --> Session Class Initialized
+DEBUG - 2012-02-02 16:35:41 --> Helper loaded: string_helper
+DEBUG - 2012-02-02 16:35:41 --> Encrypt Class Initialized
+DEBUG - 2012-02-02 16:35:41 --> Session routines successfully run
+DEBUG - 2012-02-02 16:35:41 --> Controller Class Initialized
+DEBUG - 2012-02-02 16:35:41 --> File loaded: app/views/include/header.php
+DEBUG - 2012-02-02 16:35:41 --> File loaded: app/views/include/footer.php
+DEBUG - 2012-02-02 16:35:41 --> File loaded: app/views/round2.php
+DEBUG - 2012-02-02 16:35:41 --> Final output sent to browser
+DEBUG - 2012-02-02 16:35:41 --> Total execution time: 0.0490
+DEBUG - 2012-02-02 16:35:50 --> Config Class Initialized
+DEBUG - 2012-02-02 16:35:50 --> Hooks Class Initialized
+DEBUG - 2012-02-02 16:35:50 --> Utf8 Class Initialized
+DEBUG - 2012-02-02 16:35:50 --> UTF-8 Support Enabled
+DEBUG - 2012-02-02 16:35:50 --> URI Class Initialized
+DEBUG - 2012-02-02 16:35:50 --> Router Class Initialized
+DEBUG - 2012-02-02 16:35:51 --> Output Class Initialized
+DEBUG - 2012-02-02 16:35:51 --> Security Class Initialized
+DEBUG - 2012-02-02 16:35:51 --> Input Class Initialized
+DEBUG - 2012-02-02 16:35:51 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-02-02 16:35:51 --> Language Class Initialized
+DEBUG - 2012-02-02 16:35:51 --> Loader Class Initialized
+DEBUG - 2012-02-02 16:35:51 --> Helper loaded: form_helper
+DEBUG - 2012-02-02 16:35:51 --> Helper loaded: url_helper
+DEBUG - 2012-02-02 16:35:51 --> Helper loaded: login_helper
+DEBUG - 2012-02-02 16:35:51 --> Database Driver Class Initialized
+DEBUG - 2012-02-02 16:35:51 --> Session Class Initialized
+DEBUG - 2012-02-02 16:35:51 --> Helper loaded: string_helper
+DEBUG - 2012-02-02 16:35:51 --> Encrypt Class Initialized
+DEBUG - 2012-02-02 16:35:51 --> Session routines successfully run
+DEBUG - 2012-02-02 16:35:51 --> Controller Class Initialized
+DEBUG - 2012-02-02 16:35:51 --> File loaded: app/views/include/header.php
+DEBUG - 2012-02-02 16:35:51 --> File loaded: app/views/include/footer.php
+DEBUG - 2012-02-02 16:35:51 --> File loaded: app/views/round2.php
+DEBUG - 2012-02-02 16:35:51 --> Final output sent to browser
+DEBUG - 2012-02-02 16:35:51 --> Total execution time: 0.0525
+DEBUG - 2012-02-02 16:36:04 --> Config Class Initialized
+DEBUG - 2012-02-02 16:36:04 --> Hooks Class Initialized
+DEBUG - 2012-02-02 16:36:04 --> Utf8 Class Initialized
+DEBUG - 2012-02-02 16:36:04 --> UTF-8 Support Enabled
+DEBUG - 2012-02-02 16:36:04 --> URI Class Initialized
+DEBUG - 2012-02-02 16:36:04 --> Router Class Initialized
+DEBUG - 2012-02-02 16:36:04 --> Output Class Initialized
+DEBUG - 2012-02-02 16:36:04 --> Security Class Initialized
+DEBUG - 2012-02-02 16:36:04 --> Input Class Initialized
+DEBUG - 2012-02-02 16:36:04 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-02-02 16:36:04 --> Language Class Initialized
+DEBUG - 2012-02-02 16:36:04 --> Loader Class Initialized
+DEBUG - 2012-02-02 16:36:04 --> Helper loaded: form_helper
+DEBUG - 2012-02-02 16:36:04 --> Helper loaded: url_helper
+DEBUG - 2012-02-02 16:36:04 --> Helper loaded: login_helper
+DEBUG - 2012-02-02 16:36:04 --> Database Driver Class Initialized
+DEBUG - 2012-02-02 16:36:04 --> Session Class Initialized
+DEBUG - 2012-02-02 16:36:04 --> Helper loaded: string_helper
+DEBUG - 2012-02-02 16:36:04 --> Encrypt Class Initialized
+DEBUG - 2012-02-02 16:36:04 --> Session routines successfully run
+DEBUG - 2012-02-02 16:36:04 --> Controller Class Initialized
+DEBUG - 2012-02-02 16:36:04 --> File loaded: app/views/include/header.php
+DEBUG - 2012-02-02 16:36:04 --> File loaded: app/views/include/footer.php
+DEBUG - 2012-02-02 16:36:04 --> File loaded: app/views/round2.php
+DEBUG - 2012-02-02 16:36:04 --> Final output sent to browser
+DEBUG - 2012-02-02 16:36:04 --> Total execution time: 0.0494
+DEBUG - 2012-02-02 16:40:37 --> Config Class Initialized
+DEBUG - 2012-02-02 16:40:37 --> Hooks Class Initialized
+DEBUG - 2012-02-02 16:40:37 --> Utf8 Class Initialized
+DEBUG - 2012-02-02 16:40:37 --> UTF-8 Support Enabled
+DEBUG - 2012-02-02 16:40:37 --> URI Class Initialized
+DEBUG - 2012-02-02 16:40:37 --> Router Class Initialized
+DEBUG - 2012-02-02 16:40:37 --> Output Class Initialized
+DEBUG - 2012-02-02 16:40:37 --> Security Class Initialized
+DEBUG - 2012-02-02 16:40:37 --> Input Class Initialized
+DEBUG - 2012-02-02 16:40:37 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-02-02 16:40:37 --> Language Class Initialized
+DEBUG - 2012-02-02 16:40:37 --> Loader Class Initialized
+DEBUG - 2012-02-02 16:40:37 --> Helper loaded: form_helper
+DEBUG - 2012-02-02 16:40:37 --> Helper loaded: url_helper
+DEBUG - 2012-02-02 16:40:37 --> Helper loaded: login_helper
+DEBUG - 2012-02-02 16:40:37 --> Database Driver Class Initialized
+DEBUG - 2012-02-02 16:40:37 --> Session Class Initialized
+DEBUG - 2012-02-02 16:40:37 --> Helper loaded: string_helper
+DEBUG - 2012-02-02 16:40:37 --> Encrypt Class Initialized
+DEBUG - 2012-02-02 16:40:37 --> Session routines successfully run
+DEBUG - 2012-02-02 16:40:37 --> Controller Class Initialized
+DEBUG - 2012-02-02 16:40:37 --> File loaded: app/views/include/header.php
+DEBUG - 2012-02-02 16:40:37 --> File loaded: app/views/include/footer.php
+DEBUG - 2012-02-02 16:40:37 --> File loaded: app/views/round2.php
+DEBUG - 2012-02-02 16:40:37 --> Final output sent to browser
+DEBUG - 2012-02-02 16:40:37 --> Total execution time: 0.0933
+DEBUG - 2012-02-02 16:41:46 --> Config Class Initialized
+DEBUG - 2012-02-02 16:41:46 --> Hooks Class Initialized
+DEBUG - 2012-02-02 16:41:46 --> Utf8 Class Initialized
+DEBUG - 2012-02-02 16:41:46 --> UTF-8 Support Enabled
+DEBUG - 2012-02-02 16:41:46 --> URI Class Initialized
+DEBUG - 2012-02-02 16:41:46 --> Router Class Initialized
+DEBUG - 2012-02-02 16:41:46 --> Output Class Initialized
+DEBUG - 2012-02-02 16:41:46 --> Security Class Initialized
+DEBUG - 2012-02-02 16:41:46 --> Input Class Initialized
+DEBUG - 2012-02-02 16:41:46 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-02-02 16:41:46 --> Language Class Initialized
+DEBUG - 2012-02-02 16:41:46 --> Loader Class Initialized
+DEBUG - 2012-02-02 16:41:46 --> Helper loaded: form_helper
+DEBUG - 2012-02-02 16:41:46 --> Helper loaded: url_helper
+DEBUG - 2012-02-02 16:41:46 --> Helper loaded: login_helper
+DEBUG - 2012-02-02 16:41:46 --> Database Driver Class Initialized
+DEBUG - 2012-02-02 16:41:46 --> Session Class Initialized
+DEBUG - 2012-02-02 16:41:46 --> Helper loaded: string_helper
+DEBUG - 2012-02-02 16:41:46 --> Encrypt Class Initialized
+DEBUG - 2012-02-02 16:41:46 --> Session routines successfully run
+DEBUG - 2012-02-02 16:41:46 --> Controller Class Initialized
+DEBUG - 2012-02-02 16:41:46 --> File loaded: app/views/include/header.php
+DEBUG - 2012-02-02 16:41:46 --> File loaded: app/views/include/footer.php
+DEBUG - 2012-02-02 16:41:46 --> File loaded: app/views/round2.php
+DEBUG - 2012-02-02 16:41:46 --> Final output sent to browser
+DEBUG - 2012-02-02 16:41:46 --> Total execution time: 0.0857
+DEBUG - 2012-02-02 17:01:35 --> Config Class Initialized
+DEBUG - 2012-02-02 17:01:35 --> Hooks Class Initialized
+DEBUG - 2012-02-02 17:01:35 --> Utf8 Class Initialized
+DEBUG - 2012-02-02 17:01:35 --> UTF-8 Support Enabled
+DEBUG - 2012-02-02 17:01:35 --> URI Class Initialized
+DEBUG - 2012-02-02 17:01:35 --> Router Class Initialized
+DEBUG - 2012-02-02 17:01:35 --> Output Class Initialized
+DEBUG - 2012-02-02 17:01:35 --> Security Class Initialized
+DEBUG - 2012-02-02 17:01:35 --> Input Class Initialized
+DEBUG - 2012-02-02 17:01:35 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-02-02 17:01:35 --> Language Class Initialized
+DEBUG - 2012-02-02 17:01:35 --> Loader Class Initialized
+DEBUG - 2012-02-02 17:01:35 --> Helper loaded: form_helper
+DEBUG - 2012-02-02 17:01:35 --> Helper loaded: url_helper
+DEBUG - 2012-02-02 17:01:35 --> Helper loaded: login_helper
+DEBUG - 2012-02-02 17:01:35 --> Database Driver Class Initialized
+DEBUG - 2012-02-02 17:01:35 --> Session Class Initialized
+DEBUG - 2012-02-02 17:01:35 --> Helper loaded: string_helper
+DEBUG - 2012-02-02 17:01:35 --> Encrypt Class Initialized
+DEBUG - 2012-02-02 17:01:35 --> Session routines successfully run
+DEBUG - 2012-02-02 17:01:35 --> Controller Class Initialized
+DEBUG - 2012-02-02 17:01:35 --> File loaded: app/views/include/header.php
+DEBUG - 2012-02-02 17:01:35 --> File loaded: app/views/include/footer.php
+DEBUG - 2012-02-02 17:01:35 --> File loaded: app/views/round2.php
+DEBUG - 2012-02-02 17:01:35 --> Final output sent to browser
+DEBUG - 2012-02-02 17:01:35 --> Total execution time: 0.2510
+DEBUG - 2012-02-02 17:04:58 --> Config Class Initialized
+DEBUG - 2012-02-02 17:04:58 --> Hooks Class Initialized
+DEBUG - 2012-02-02 17:04:58 --> Utf8 Class Initialized
+DEBUG - 2012-02-02 17:04:58 --> UTF-8 Support Enabled
+DEBUG - 2012-02-02 17:04:58 --> URI Class Initialized
+DEBUG - 2012-02-02 17:04:58 --> Router Class Initialized
+DEBUG - 2012-02-02 17:04:58 --> Output Class Initialized
+DEBUG - 2012-02-02 17:04:58 --> Security Class Initialized
+DEBUG - 2012-02-02 17:04:58 --> Input Class Initialized
+DEBUG - 2012-02-02 17:04:58 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-02-02 17:04:58 --> Language Class Initialized
+DEBUG - 2012-02-02 17:04:58 --> Loader Class Initialized
+DEBUG - 2012-02-02 17:04:58 --> Helper loaded: form_helper
+DEBUG - 2012-02-02 17:04:58 --> Helper loaded: url_helper
+DEBUG - 2012-02-02 17:04:58 --> Helper loaded: login_helper
+DEBUG - 2012-02-02 17:04:58 --> Database Driver Class Initialized
+DEBUG - 2012-02-02 17:04:58 --> Session Class Initialized
+DEBUG - 2012-02-02 17:04:58 --> Helper loaded: string_helper
+DEBUG - 2012-02-02 17:04:58 --> Encrypt Class Initialized
+DEBUG - 2012-02-02 17:04:58 --> Session routines successfully run
+DEBUG - 2012-02-02 17:04:58 --> Controller Class Initialized
+DEBUG - 2012-02-02 17:04:58 --> File loaded: app/views/include/header.php
+DEBUG - 2012-02-02 17:04:58 --> File loaded: app/views/include/footer.php
+DEBUG - 2012-02-02 17:04:58 --> File loaded: app/views/round2.php
+DEBUG - 2012-02-02 17:04:58 --> Final output sent to browser
+DEBUG - 2012-02-02 17:04:58 --> Total execution time: 0.0540
+DEBUG - 2012-02-02 17:05:22 --> Config Class Initialized
+DEBUG - 2012-02-02 17:05:22 --> Hooks Class Initialized
+DEBUG - 2012-02-02 17:05:22 --> Utf8 Class Initialized
+DEBUG - 2012-02-02 17:05:22 --> UTF-8 Support Enabled
+DEBUG - 2012-02-02 17:05:22 --> URI Class Initialized
+DEBUG - 2012-02-02 17:05:22 --> Router Class Initialized
+DEBUG - 2012-02-02 17:05:22 --> Output Class Initialized
+DEBUG - 2012-02-02 17:05:22 --> Security Class Initialized
+DEBUG - 2012-02-02 17:05:22 --> Input Class Initialized
+DEBUG - 2012-02-02 17:05:22 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-02-02 17:05:22 --> Language Class Initialized
+DEBUG - 2012-02-02 17:05:22 --> Loader Class Initialized
+DEBUG - 2012-02-02 17:05:22 --> Helper loaded: form_helper
+DEBUG - 2012-02-02 17:05:22 --> Helper loaded: url_helper
+DEBUG - 2012-02-02 17:05:22 --> Helper loaded: login_helper
+DEBUG - 2012-02-02 17:05:22 --> Database Driver Class Initialized
+DEBUG - 2012-02-02 17:05:22 --> Session Class Initialized
+DEBUG - 2012-02-02 17:05:22 --> Helper loaded: string_helper
+DEBUG - 2012-02-02 17:05:22 --> Encrypt Class Initialized
+DEBUG - 2012-02-02 17:05:22 --> Session routines successfully run
+DEBUG - 2012-02-02 17:05:22 --> Controller Class Initialized
+DEBUG - 2012-02-02 17:05:22 --> File loaded: app/views/include/header.php
+DEBUG - 2012-02-02 17:05:22 --> File loaded: app/views/include/footer.php
+DEBUG - 2012-02-02 17:05:22 --> File loaded: app/views/round2.php
+DEBUG - 2012-02-02 17:05:22 --> Final output sent to browser
+DEBUG - 2012-02-02 17:05:22 --> Total execution time: 0.0548
+DEBUG - 2012-02-02 17:06:25 --> Config Class Initialized
+DEBUG - 2012-02-02 17:06:25 --> Hooks Class Initialized
+DEBUG - 2012-02-02 17:06:25 --> Utf8 Class Initialized
+DEBUG - 2012-02-02 17:06:25 --> UTF-8 Support Enabled
+DEBUG - 2012-02-02 17:06:25 --> URI Class Initialized
+DEBUG - 2012-02-02 17:06:25 --> Router Class Initialized
+DEBUG - 2012-02-02 17:06:25 --> Output Class Initialized
+DEBUG - 2012-02-02 17:06:25 --> Security Class Initialized
+DEBUG - 2012-02-02 17:06:25 --> Input Class Initialized
+DEBUG - 2012-02-02 17:06:25 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-02-02 17:06:25 --> Language Class Initialized
+DEBUG - 2012-02-02 17:06:25 --> Loader Class Initialized
+DEBUG - 2012-02-02 17:06:25 --> Helper loaded: form_helper
+DEBUG - 2012-02-02 17:06:25 --> Helper loaded: url_helper
+DEBUG - 2012-02-02 17:06:25 --> Helper loaded: login_helper
+DEBUG - 2012-02-02 17:06:25 --> Database Driver Class Initialized
+DEBUG - 2012-02-02 17:06:25 --> Session Class Initialized
+DEBUG - 2012-02-02 17:06:25 --> Helper loaded: string_helper
+DEBUG - 2012-02-02 17:06:25 --> Encrypt Class Initialized
+DEBUG - 2012-02-02 17:06:25 --> Session routines successfully run
+DEBUG - 2012-02-02 17:06:25 --> Controller Class Initialized
+DEBUG - 2012-02-02 17:06:25 --> File loaded: app/views/include/header.php
+DEBUG - 2012-02-02 17:06:25 --> File loaded: app/views/include/footer.php
+DEBUG - 2012-02-02 17:06:25 --> File loaded: app/views/round2.php
+DEBUG - 2012-02-02 17:06:25 --> Final output sent to browser
+DEBUG - 2012-02-02 17:06:25 --> Total execution time: 0.0465
+DEBUG - 2012-02-02 17:07:09 --> Config Class Initialized
+DEBUG - 2012-02-02 17:07:09 --> Hooks Class Initialized
+DEBUG - 2012-02-02 17:07:09 --> Utf8 Class Initialized
+DEBUG - 2012-02-02 17:07:09 --> UTF-8 Support Enabled
+DEBUG - 2012-02-02 17:07:09 --> URI Class Initialized
+DEBUG - 2012-02-02 17:07:09 --> Router Class Initialized
+DEBUG - 2012-02-02 17:07:09 --> Output Class Initialized
+DEBUG - 2012-02-02 17:07:09 --> Security Class Initialized
+DEBUG - 2012-02-02 17:07:09 --> Input Class Initialized
+DEBUG - 2012-02-02 17:07:09 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-02-02 17:07:09 --> Language Class Initialized
+DEBUG - 2012-02-02 17:07:09 --> Loader Class Initialized
+DEBUG - 2012-02-02 17:07:09 --> Helper loaded: form_helper
+DEBUG - 2012-02-02 17:07:09 --> Helper loaded: url_helper
+DEBUG - 2012-02-02 17:07:09 --> Helper loaded: login_helper
+DEBUG - 2012-02-02 17:07:09 --> Database Driver Class Initialized
+DEBUG - 2012-02-02 17:07:09 --> Session Class Initialized
+DEBUG - 2012-02-02 17:07:09 --> Helper loaded: string_helper
+DEBUG - 2012-02-02 17:07:09 --> Encrypt Class Initialized
+DEBUG - 2012-02-02 17:07:09 --> Session routines successfully run
+DEBUG - 2012-02-02 17:07:09 --> Controller Class Initialized
+DEBUG - 2012-02-02 17:07:09 --> File loaded: app/views/include/header.php
+DEBUG - 2012-02-02 17:07:09 --> File loaded: app/views/include/footer.php
+DEBUG - 2012-02-02 17:07:09 --> File loaded: app/views/round2.php
+DEBUG - 2012-02-02 17:07:09 --> Final output sent to browser
+DEBUG - 2012-02-02 17:07:09 --> Total execution time: 0.0889
+DEBUG - 2012-02-02 17:07:29 --> Config Class Initialized
+DEBUG - 2012-02-02 17:07:29 --> Hooks Class Initialized
+DEBUG - 2012-02-02 17:07:29 --> Utf8 Class Initialized
+DEBUG - 2012-02-02 17:07:29 --> UTF-8 Support Enabled
+DEBUG - 2012-02-02 17:07:29 --> URI Class Initialized
+DEBUG - 2012-02-02 17:07:29 --> Router Class Initialized
+DEBUG - 2012-02-02 17:07:29 --> Output Class Initialized
+DEBUG - 2012-02-02 17:07:29 --> Security Class Initialized
+DEBUG - 2012-02-02 17:07:29 --> Input Class Initialized
+DEBUG - 2012-02-02 17:07:29 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-02-02 17:07:29 --> Language Class Initialized
+DEBUG - 2012-02-02 17:07:29 --> Loader Class Initialized
+DEBUG - 2012-02-02 17:07:29 --> Helper loaded: form_helper
+DEBUG - 2012-02-02 17:07:29 --> Helper loaded: url_helper
+DEBUG - 2012-02-02 17:07:29 --> Helper loaded: login_helper
+DEBUG - 2012-02-02 17:07:29 --> Database Driver Class Initialized
+DEBUG - 2012-02-02 17:07:29 --> Session Class Initialized
+DEBUG - 2012-02-02 17:07:29 --> Helper loaded: string_helper
+DEBUG - 2012-02-02 17:07:29 --> Encrypt Class Initialized
+DEBUG - 2012-02-02 17:07:29 --> Session routines successfully run
+DEBUG - 2012-02-02 17:07:29 --> Controller Class Initialized
+DEBUG - 2012-02-02 17:07:29 --> File loaded: app/views/include/header.php
+DEBUG - 2012-02-02 17:07:29 --> File loaded: app/views/include/footer.php
+DEBUG - 2012-02-02 17:07:29 --> File loaded: app/views/round2.php
+DEBUG - 2012-02-02 17:07:29 --> Final output sent to browser
+DEBUG - 2012-02-02 17:07:29 --> Total execution time: 0.0529
+DEBUG - 2012-02-02 17:08:27 --> Config Class Initialized
+DEBUG - 2012-02-02 17:08:27 --> Hooks Class Initialized
+DEBUG - 2012-02-02 17:08:27 --> Utf8 Class Initialized
+DEBUG - 2012-02-02 17:08:27 --> UTF-8 Support Enabled
+DEBUG - 2012-02-02 17:08:27 --> URI Class Initialized
+DEBUG - 2012-02-02 17:08:27 --> Router Class Initialized
+DEBUG - 2012-02-02 17:08:27 --> Output Class Initialized
+DEBUG - 2012-02-02 17:08:27 --> Security Class Initialized
+DEBUG - 2012-02-02 17:08:27 --> Input Class Initialized
+DEBUG - 2012-02-02 17:08:27 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-02-02 17:08:27 --> Language Class Initialized
+DEBUG - 2012-02-02 17:08:27 --> Loader Class Initialized
+DEBUG - 2012-02-02 17:08:27 --> Helper loaded: form_helper
+DEBUG - 2012-02-02 17:08:27 --> Helper loaded: url_helper
+DEBUG - 2012-02-02 17:08:27 --> Helper loaded: login_helper
+DEBUG - 2012-02-02 17:08:27 --> Database Driver Class Initialized
+DEBUG - 2012-02-02 17:08:27 --> Session Class Initialized
+DEBUG - 2012-02-02 17:08:27 --> Helper loaded: string_helper
+DEBUG - 2012-02-02 17:08:27 --> Encrypt Class Initialized
+DEBUG - 2012-02-02 17:08:28 --> Session routines successfully run
+DEBUG - 2012-02-02 17:08:28 --> Controller Class Initialized
+DEBUG - 2012-02-02 17:08:28 --> File loaded: app/views/include/header.php
+DEBUG - 2012-02-02 17:08:28 --> File loaded: app/views/include/footer.php
+DEBUG - 2012-02-02 17:08:28 --> File loaded: app/views/round2.php
+DEBUG - 2012-02-02 17:08:28 --> Final output sent to browser
+DEBUG - 2012-02-02 17:08:28 --> Total execution time: 0.0589
+DEBUG - 2012-02-02 17:08:40 --> Config Class Initialized
+DEBUG - 2012-02-02 17:08:40 --> Hooks Class Initialized
+DEBUG - 2012-02-02 17:08:40 --> Utf8 Class Initialized
+DEBUG - 2012-02-02 17:08:40 --> UTF-8 Support Enabled
+DEBUG - 2012-02-02 17:08:40 --> URI Class Initialized
+DEBUG - 2012-02-02 17:08:40 --> Router Class Initialized
+DEBUG - 2012-02-02 17:08:40 --> Output Class Initialized
+DEBUG - 2012-02-02 17:08:40 --> Security Class Initialized
+DEBUG - 2012-02-02 17:08:40 --> Input Class Initialized
+DEBUG - 2012-02-02 17:08:40 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-02-02 17:08:40 --> Language Class Initialized
+DEBUG - 2012-02-02 17:08:40 --> Loader Class Initialized
+DEBUG - 2012-02-02 17:08:40 --> Helper loaded: form_helper
+DEBUG - 2012-02-02 17:08:40 --> Helper loaded: url_helper
+DEBUG - 2012-02-02 17:08:40 --> Helper loaded: login_helper
+DEBUG - 2012-02-02 17:08:40 --> Database Driver Class Initialized
+DEBUG - 2012-02-02 17:08:40 --> Session Class Initialized
+DEBUG - 2012-02-02 17:08:40 --> Helper loaded: string_helper
+DEBUG - 2012-02-02 17:08:40 --> Encrypt Class Initialized
+DEBUG - 2012-02-02 17:08:40 --> Session routines successfully run
+DEBUG - 2012-02-02 17:08:40 --> Controller Class Initialized
+DEBUG - 2012-02-02 17:08:40 --> File loaded: app/views/include/header.php
+DEBUG - 2012-02-02 17:08:40 --> File loaded: app/views/include/footer.php
+DEBUG - 2012-02-02 17:08:40 --> File loaded: app/views/round2.php
+DEBUG - 2012-02-02 17:08:40 --> Final output sent to browser
+DEBUG - 2012-02-02 17:08:40 --> Total execution time: 0.0445
+DEBUG - 2012-02-02 17:09:56 --> Config Class Initialized
+DEBUG - 2012-02-02 17:09:56 --> Hooks Class Initialized
+DEBUG - 2012-02-02 17:09:56 --> Utf8 Class Initialized
+DEBUG - 2012-02-02 17:09:56 --> UTF-8 Support Enabled
+DEBUG - 2012-02-02 17:09:56 --> URI Class Initialized
+DEBUG - 2012-02-02 17:09:56 --> Router Class Initialized
+DEBUG - 2012-02-02 17:09:56 --> Output Class Initialized
+DEBUG - 2012-02-02 17:09:56 --> Security Class Initialized
+DEBUG - 2012-02-02 17:09:56 --> Input Class Initialized
+DEBUG - 2012-02-02 17:09:56 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-02-02 17:09:56 --> Language Class Initialized
+DEBUG - 2012-02-02 17:09:56 --> Loader Class Initialized
+DEBUG - 2012-02-02 17:09:56 --> Helper loaded: form_helper
+DEBUG - 2012-02-02 17:09:56 --> Helper loaded: url_helper
+DEBUG - 2012-02-02 17:09:56 --> Helper loaded: login_helper
+DEBUG - 2012-02-02 17:09:56 --> Database Driver Class Initialized
+DEBUG - 2012-02-02 17:09:56 --> Session Class Initialized
+DEBUG - 2012-02-02 17:09:56 --> Helper loaded: string_helper
+DEBUG - 2012-02-02 17:09:56 --> Encrypt Class Initialized
+DEBUG - 2012-02-02 17:09:57 --> Session routines successfully run
+DEBUG - 2012-02-02 17:09:57 --> Controller Class Initialized
+DEBUG - 2012-02-02 17:09:57 --> File loaded: app/views/include/header.php
+DEBUG - 2012-02-02 17:09:57 --> File loaded: app/views/include/footer.php
+DEBUG - 2012-02-02 17:09:57 --> File loaded: app/views/round2.php
+DEBUG - 2012-02-02 17:09:57 --> Final output sent to browser
+DEBUG - 2012-02-02 17:09:57 --> Total execution time: 0.0554
+DEBUG - 2012-02-02 17:10:08 --> Config Class Initialized
+DEBUG - 2012-02-02 17:10:08 --> Hooks Class Initialized
+DEBUG - 2012-02-02 17:10:08 --> Utf8 Class Initialized
+DEBUG - 2012-02-02 17:10:08 --> UTF-8 Support Enabled
+DEBUG - 2012-02-02 17:10:08 --> URI Class Initialized
+DEBUG - 2012-02-02 17:10:08 --> Router Class Initialized
+DEBUG - 2012-02-02 17:10:08 --> Output Class Initialized
+DEBUG - 2012-02-02 17:10:08 --> Security Class Initialized
+DEBUG - 2012-02-02 17:10:08 --> Input Class Initialized
+DEBUG - 2012-02-02 17:10:08 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-02-02 17:10:08 --> Language Class Initialized
+DEBUG - 2012-02-02 17:10:08 --> Loader Class Initialized
+DEBUG - 2012-02-02 17:10:08 --> Helper loaded: form_helper
+DEBUG - 2012-02-02 17:10:08 --> Helper loaded: url_helper
+DEBUG - 2012-02-02 17:10:08 --> Helper loaded: login_helper
+DEBUG - 2012-02-02 17:10:08 --> Database Driver Class Initialized
+DEBUG - 2012-02-02 17:10:08 --> Session Class Initialized
+DEBUG - 2012-02-02 17:10:08 --> Helper loaded: string_helper
+DEBUG - 2012-02-02 17:10:08 --> Encrypt Class Initialized
+DEBUG - 2012-02-02 17:10:08 --> Session routines successfully run
+DEBUG - 2012-02-02 17:10:08 --> Controller Class Initialized
+DEBUG - 2012-02-02 17:10:08 --> File loaded: app/views/include/header.php
+DEBUG - 2012-02-02 17:10:08 --> File loaded: app/views/include/footer.php
+DEBUG - 2012-02-02 17:10:08 --> File loaded: app/views/round2.php
+DEBUG - 2012-02-02 17:10:08 --> Final output sent to browser
+DEBUG - 2012-02-02 17:10:08 --> Total execution time: 0.0530
+DEBUG - 2012-02-02 17:10:23 --> Config Class Initialized
+DEBUG - 2012-02-02 17:10:23 --> Hooks Class Initialized
+DEBUG - 2012-02-02 17:10:23 --> Utf8 Class Initialized
+DEBUG - 2012-02-02 17:10:23 --> UTF-8 Support Enabled
+DEBUG - 2012-02-02 17:10:23 --> URI Class Initialized
+DEBUG - 2012-02-02 17:10:23 --> Router Class Initialized
+DEBUG - 2012-02-02 17:10:23 --> Output Class Initialized
+DEBUG - 2012-02-02 17:10:23 --> Security Class Initialized
+DEBUG - 2012-02-02 17:10:23 --> Input Class Initialized
+DEBUG - 2012-02-02 17:10:23 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-02-02 17:10:23 --> Language Class Initialized
+DEBUG - 2012-02-02 17:10:23 --> Loader Class Initialized
+DEBUG - 2012-02-02 17:10:23 --> Helper loaded: form_helper
+DEBUG - 2012-02-02 17:10:23 --> Helper loaded: url_helper
+DEBUG - 2012-02-02 17:10:23 --> Helper loaded: login_helper
+DEBUG - 2012-02-02 17:10:23 --> Database Driver Class Initialized
+DEBUG - 2012-02-02 17:10:23 --> Session Class Initialized
+DEBUG - 2012-02-02 17:10:23 --> Helper loaded: string_helper
+DEBUG - 2012-02-02 17:10:23 --> Encrypt Class Initialized
+DEBUG - 2012-02-02 17:10:23 --> Session routines successfully run
+DEBUG - 2012-02-02 17:10:23 --> Controller Class Initialized
+DEBUG - 2012-02-02 17:10:23 --> File loaded: app/views/include/header.php
+DEBUG - 2012-02-02 17:10:23 --> File loaded: app/views/include/footer.php
+DEBUG - 2012-02-02 17:10:23 --> File loaded: app/views/round2.php
+DEBUG - 2012-02-02 17:10:23 --> Final output sent to browser
+DEBUG - 2012-02-02 17:10:23 --> Total execution time: 0.0511
+DEBUG - 2012-02-02 17:11:53 --> Config Class Initialized
+DEBUG - 2012-02-02 17:11:53 --> Hooks Class Initialized
+DEBUG - 2012-02-02 17:11:53 --> Utf8 Class Initialized
+DEBUG - 2012-02-02 17:11:53 --> UTF-8 Support Enabled
+DEBUG - 2012-02-02 17:11:53 --> URI Class Initialized
+DEBUG - 2012-02-02 17:11:53 --> Router Class Initialized
+DEBUG - 2012-02-02 17:11:53 --> Output Class Initialized
+DEBUG - 2012-02-02 17:11:53 --> Security Class Initialized
+DEBUG - 2012-02-02 17:11:53 --> Input Class Initialized
+DEBUG - 2012-02-02 17:11:53 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-02-02 17:11:53 --> Language Class Initialized
+DEBUG - 2012-02-02 17:11:53 --> Loader Class Initialized
+DEBUG - 2012-02-02 17:11:53 --> Helper loaded: form_helper
+DEBUG - 2012-02-02 17:11:53 --> Helper loaded: url_helper
+DEBUG - 2012-02-02 17:11:53 --> Helper loaded: login_helper
+DEBUG - 2012-02-02 17:11:53 --> Database Driver Class Initialized
+DEBUG - 2012-02-02 17:11:53 --> Session Class Initialized
+DEBUG - 2012-02-02 17:11:53 --> Helper loaded: string_helper
+DEBUG - 2012-02-02 17:11:53 --> Encrypt Class Initialized
+DEBUG - 2012-02-02 17:11:53 --> Session garbage collection performed.
+DEBUG - 2012-02-02 17:11:53 --> Session routines successfully run
+DEBUG - 2012-02-02 17:11:53 --> Controller Class Initialized
+DEBUG - 2012-02-02 17:11:53 --> File loaded: app/views/include/header.php
+DEBUG - 2012-02-02 17:11:53 --> File loaded: app/views/include/footer.php
+DEBUG - 2012-02-02 17:11:53 --> File loaded: app/views/round2.php
+DEBUG - 2012-02-02 17:11:53 --> Final output sent to browser
+DEBUG - 2012-02-02 17:11:53 --> Total execution time: 0.0933
+DEBUG - 2012-02-02 17:18:38 --> Config Class Initialized
+DEBUG - 2012-02-02 17:18:38 --> Hooks Class Initialized
+DEBUG - 2012-02-02 17:18:38 --> Utf8 Class Initialized
+DEBUG - 2012-02-02 17:18:38 --> UTF-8 Support Enabled
+DEBUG - 2012-02-02 17:18:38 --> URI Class Initialized
+DEBUG - 2012-02-02 17:18:38 --> Router Class Initialized
+DEBUG - 2012-02-02 17:18:38 --> Output Class Initialized
+DEBUG - 2012-02-02 17:18:38 --> Security Class Initialized
+DEBUG - 2012-02-02 17:18:38 --> Input Class Initialized
+DEBUG - 2012-02-02 17:18:38 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-02-02 17:18:38 --> Language Class Initialized
+DEBUG - 2012-02-02 17:18:38 --> Loader Class Initialized
+DEBUG - 2012-02-02 17:18:38 --> Helper loaded: form_helper
+DEBUG - 2012-02-02 17:18:38 --> Helper loaded: url_helper
+DEBUG - 2012-02-02 17:18:38 --> Helper loaded: login_helper
+DEBUG - 2012-02-02 17:18:38 --> Database Driver Class Initialized
+DEBUG - 2012-02-02 17:18:38 --> Session Class Initialized
+DEBUG - 2012-02-02 17:18:38 --> Helper loaded: string_helper
+DEBUG - 2012-02-02 17:18:38 --> Encrypt Class Initialized
+DEBUG - 2012-02-02 17:18:38 --> Session routines successfully run
+DEBUG - 2012-02-02 17:18:38 --> Controller Class Initialized
+DEBUG - 2012-02-02 17:18:38 --> File loaded: app/views/include/header.php
+DEBUG - 2012-02-02 17:18:38 --> File loaded: app/views/include/footer.php
+DEBUG - 2012-02-02 17:18:38 --> File loaded: app/views/round2.php
+DEBUG - 2012-02-02 17:18:38 --> Final output sent to browser
+DEBUG - 2012-02-02 17:18:38 --> Total execution time: 0.0919
+DEBUG - 2012-02-02 17:27:52 --> Config Class Initialized
+DEBUG - 2012-02-02 17:27:52 --> Hooks Class Initialized
+DEBUG - 2012-02-02 17:27:52 --> Utf8 Class Initialized
+DEBUG - 2012-02-02 17:27:52 --> UTF-8 Support Enabled
+DEBUG - 2012-02-02 17:27:52 --> URI Class Initialized
+DEBUG - 2012-02-02 17:27:52 --> Router Class Initialized
+DEBUG - 2012-02-02 17:27:52 --> Output Class Initialized
+DEBUG - 2012-02-02 17:27:52 --> Security Class Initialized
+DEBUG - 2012-02-02 17:27:52 --> Input Class Initialized
+DEBUG - 2012-02-02 17:27:52 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-02-02 17:27:52 --> Language Class Initialized
+DEBUG - 2012-02-02 17:27:52 --> Loader Class Initialized
+DEBUG - 2012-02-02 17:27:52 --> Helper loaded: form_helper
+DEBUG - 2012-02-02 17:27:52 --> Helper loaded: url_helper
+DEBUG - 2012-02-02 17:27:52 --> Helper loaded: login_helper
+DEBUG - 2012-02-02 17:27:52 --> Database Driver Class Initialized
+DEBUG - 2012-02-02 17:27:52 --> Session Class Initialized
+DEBUG - 2012-02-02 17:27:52 --> Helper loaded: string_helper
+DEBUG - 2012-02-02 17:27:52 --> Encrypt Class Initialized
+DEBUG - 2012-02-02 17:27:52 --> Session routines successfully run
+DEBUG - 2012-02-02 17:27:52 --> Controller Class Initialized
+DEBUG - 2012-02-02 17:27:52 --> File loaded: app/views/include/header.php
+DEBUG - 2012-02-02 17:27:52 --> File loaded: app/views/include/footer.php
+DEBUG - 2012-02-02 17:27:52 --> File loaded: app/views/round2.php
+DEBUG - 2012-02-02 17:27:52 --> Final output sent to browser
+DEBUG - 2012-02-02 17:27:52 --> Total execution time: 0.1043
+DEBUG - 2012-02-02 17:40:20 --> Config Class Initialized
+DEBUG - 2012-02-02 17:40:20 --> Hooks Class Initialized
+DEBUG - 2012-02-02 17:40:20 --> Utf8 Class Initialized
+DEBUG - 2012-02-02 17:40:20 --> UTF-8 Support Enabled
+DEBUG - 2012-02-02 17:40:20 --> URI Class Initialized
+DEBUG - 2012-02-02 17:40:20 --> Router Class Initialized
+DEBUG - 2012-02-02 17:40:20 --> Output Class Initialized
+DEBUG - 2012-02-02 17:40:20 --> Security Class Initialized
+DEBUG - 2012-02-02 17:40:20 --> Input Class Initialized
+DEBUG - 2012-02-02 17:40:20 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-02-02 17:40:20 --> Language Class Initialized
+DEBUG - 2012-02-02 17:40:20 --> Loader Class Initialized
+DEBUG - 2012-02-02 17:40:20 --> Helper loaded: form_helper
+DEBUG - 2012-02-02 17:40:20 --> Helper loaded: url_helper
+DEBUG - 2012-02-02 17:40:20 --> Helper loaded: login_helper
+DEBUG - 2012-02-02 17:40:20 --> Database Driver Class Initialized
+DEBUG - 2012-02-02 17:40:20 --> Session Class Initialized
+DEBUG - 2012-02-02 17:40:20 --> Helper loaded: string_helper
+DEBUG - 2012-02-02 17:40:20 --> Encrypt Class Initialized
+DEBUG - 2012-02-02 17:40:20 --> Session routines successfully run
+DEBUG - 2012-02-02 17:40:20 --> Controller Class Initialized
+DEBUG - 2012-02-02 17:40:20 --> File loaded: app/views/include/header.php
+DEBUG - 2012-02-02 17:40:20 --> File loaded: app/views/include/footer.php
+DEBUG - 2012-02-02 17:40:20 --> File loaded: app/views/round2.php
+DEBUG - 2012-02-02 17:40:20 --> Final output sent to browser
+DEBUG - 2012-02-02 17:40:20 --> Total execution time: 0.0513
+DEBUG - 2012-02-02 17:43:57 --> Config Class Initialized
+DEBUG - 2012-02-02 17:43:57 --> Hooks Class Initialized
+DEBUG - 2012-02-02 17:43:57 --> Utf8 Class Initialized
+DEBUG - 2012-02-02 17:43:57 --> UTF-8 Support Enabled
+DEBUG - 2012-02-02 17:43:57 --> URI Class Initialized
+DEBUG - 2012-02-02 17:43:57 --> Router Class Initialized
+DEBUG - 2012-02-02 17:43:57 --> Output Class Initialized
+DEBUG - 2012-02-02 17:43:57 --> Security Class Initialized
+DEBUG - 2012-02-02 17:43:57 --> Input Class Initialized
+DEBUG - 2012-02-02 17:43:57 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-02-02 17:43:57 --> Language Class Initialized
+DEBUG - 2012-02-02 17:43:57 --> Loader Class Initialized
+DEBUG - 2012-02-02 17:43:57 --> Helper loaded: form_helper
+DEBUG - 2012-02-02 17:43:57 --> Helper loaded: url_helper
+DEBUG - 2012-02-02 17:43:57 --> Helper loaded: login_helper
+DEBUG - 2012-02-02 17:43:57 --> Database Driver Class Initialized
+DEBUG - 2012-02-02 17:43:57 --> Session Class Initialized
+DEBUG - 2012-02-02 17:43:57 --> Helper loaded: string_helper
+DEBUG - 2012-02-02 17:43:57 --> Encrypt Class Initialized
+DEBUG - 2012-02-02 17:43:57 --> Session routines successfully run
+DEBUG - 2012-02-02 17:43:57 --> Controller Class Initialized
+DEBUG - 2012-02-02 17:43:57 --> File loaded: app/views/include/header.php
+DEBUG - 2012-02-02 17:43:57 --> File loaded: app/views/include/footer.php
+DEBUG - 2012-02-02 17:43:57 --> File loaded: app/views/round2.php
+DEBUG - 2012-02-02 17:43:57 --> Final output sent to browser
+DEBUG - 2012-02-02 17:43:57 --> Total execution time: 0.0413
+DEBUG - 2012-02-02 17:46:14 --> Config Class Initialized
+DEBUG - 2012-02-02 17:46:14 --> Hooks Class Initialized
+DEBUG - 2012-02-02 17:46:14 --> Utf8 Class Initialized
+DEBUG - 2012-02-02 17:46:14 --> UTF-8 Support Enabled
+DEBUG - 2012-02-02 17:46:14 --> URI Class Initialized
+DEBUG - 2012-02-02 17:46:14 --> Router Class Initialized
+DEBUG - 2012-02-02 17:46:14 --> Output Class Initialized
+DEBUG - 2012-02-02 17:46:14 --> Security Class Initialized
+DEBUG - 2012-02-02 17:46:14 --> Input Class Initialized
+DEBUG - 2012-02-02 17:46:14 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-02-02 17:46:14 --> Language Class Initialized
+DEBUG - 2012-02-02 17:46:14 --> Loader Class Initialized
+DEBUG - 2012-02-02 17:46:14 --> Helper loaded: form_helper
+DEBUG - 2012-02-02 17:46:14 --> Helper loaded: url_helper
+DEBUG - 2012-02-02 17:46:14 --> Helper loaded: login_helper
+DEBUG - 2012-02-02 17:46:14 --> Database Driver Class Initialized
+DEBUG - 2012-02-02 17:46:14 --> Session Class Initialized
+DEBUG - 2012-02-02 17:46:14 --> Helper loaded: string_helper
+DEBUG - 2012-02-02 17:46:14 --> Encrypt Class Initialized
+DEBUG - 2012-02-02 17:46:14 --> Session routines successfully run
+DEBUG - 2012-02-02 17:46:14 --> Controller Class Initialized
+DEBUG - 2012-02-02 17:46:14 --> File loaded: app/views/include/header.php
+DEBUG - 2012-02-02 17:46:14 --> File loaded: app/views/include/footer.php
+DEBUG - 2012-02-02 17:46:14 --> File loaded: app/views/round2.php
+DEBUG - 2012-02-02 17:46:14 --> Final output sent to browser
+DEBUG - 2012-02-02 17:46:14 --> Total execution time: 0.0960
+DEBUG - 2012-02-02 17:46:20 --> Config Class Initialized
+DEBUG - 2012-02-02 17:46:20 --> Hooks Class Initialized
+DEBUG - 2012-02-02 17:46:20 --> Utf8 Class Initialized
+DEBUG - 2012-02-02 17:46:20 --> UTF-8 Support Enabled
+DEBUG - 2012-02-02 17:46:20 --> URI Class Initialized
+DEBUG - 2012-02-02 17:46:20 --> Router Class Initialized
+DEBUG - 2012-02-02 17:46:20 --> Output Class Initialized
+DEBUG - 2012-02-02 17:46:20 --> Security Class Initialized
+DEBUG - 2012-02-02 17:46:20 --> Input Class Initialized
+DEBUG - 2012-02-02 17:46:20 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-02-02 17:46:20 --> Language Class Initialized
+DEBUG - 2012-02-02 17:46:20 --> Loader Class Initialized
+DEBUG - 2012-02-02 17:46:20 --> Helper loaded: form_helper
+DEBUG - 2012-02-02 17:46:20 --> Helper loaded: url_helper
+DEBUG - 2012-02-02 17:46:20 --> Helper loaded: login_helper
+DEBUG - 2012-02-02 17:46:20 --> Database Driver Class Initialized
+DEBUG - 2012-02-02 17:46:20 --> Session Class Initialized
+DEBUG - 2012-02-02 17:46:20 --> Helper loaded: string_helper
+DEBUG - 2012-02-02 17:46:20 --> Encrypt Class Initialized
+DEBUG - 2012-02-02 17:46:20 --> Session routines successfully run
+DEBUG - 2012-02-02 17:46:20 --> Controller Class Initialized
+DEBUG - 2012-02-02 17:46:20 --> File loaded: app/views/include/header.php
+DEBUG - 2012-02-02 17:46:20 --> File loaded: app/views/include/footer.php
+DEBUG - 2012-02-02 17:46:20 --> File loaded: app/views/round2.php
+DEBUG - 2012-02-02 17:46:20 --> Final output sent to browser
+DEBUG - 2012-02-02 17:46:20 --> Total execution time: 0.0515
+DEBUG - 2012-02-02 17:47:30 --> Config Class Initialized
+DEBUG - 2012-02-02 17:47:30 --> Hooks Class Initialized
+DEBUG - 2012-02-02 17:47:30 --> Utf8 Class Initialized
+DEBUG - 2012-02-02 17:47:30 --> UTF-8 Support Enabled
+DEBUG - 2012-02-02 17:47:30 --> URI Class Initialized
+DEBUG - 2012-02-02 17:47:30 --> Router Class Initialized
+DEBUG - 2012-02-02 17:47:30 --> Output Class Initialized
+DEBUG - 2012-02-02 17:47:30 --> Security Class Initialized
+DEBUG - 2012-02-02 17:47:30 --> Input Class Initialized
+DEBUG - 2012-02-02 17:47:30 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-02-02 17:47:30 --> Language Class Initialized
+DEBUG - 2012-02-02 17:47:30 --> Loader Class Initialized
+DEBUG - 2012-02-02 17:47:30 --> Helper loaded: form_helper
+DEBUG - 2012-02-02 17:47:30 --> Helper loaded: url_helper
+DEBUG - 2012-02-02 17:47:30 --> Helper loaded: login_helper
+DEBUG - 2012-02-02 17:47:30 --> Database Driver Class Initialized
+DEBUG - 2012-02-02 17:47:30 --> Session Class Initialized
+DEBUG - 2012-02-02 17:47:30 --> Helper loaded: string_helper
+DEBUG - 2012-02-02 17:47:30 --> Encrypt Class Initialized
+DEBUG - 2012-02-02 17:47:30 --> Session routines successfully run
+DEBUG - 2012-02-02 17:47:30 --> Controller Class Initialized
+DEBUG - 2012-02-02 17:47:30 --> File loaded: app/views/include/header.php
+DEBUG - 2012-02-02 17:47:30 --> File loaded: app/views/include/footer.php
+DEBUG - 2012-02-02 17:47:30 --> File loaded: app/views/round2.php
+DEBUG - 2012-02-02 17:47:30 --> Final output sent to browser
+DEBUG - 2012-02-02 17:47:30 --> Total execution time: 0.0567
+DEBUG - 2012-02-02 17:48:28 --> Config Class Initialized
+DEBUG - 2012-02-02 17:48:28 --> Hooks Class Initialized
+DEBUG - 2012-02-02 17:48:28 --> Utf8 Class Initialized
+DEBUG - 2012-02-02 17:48:28 --> UTF-8 Support Enabled
+DEBUG - 2012-02-02 17:48:28 --> URI Class Initialized
+DEBUG - 2012-02-02 17:48:28 --> Router Class Initialized
+DEBUG - 2012-02-02 17:48:28 --> Output Class Initialized
+DEBUG - 2012-02-02 17:48:28 --> Security Class Initialized
+DEBUG - 2012-02-02 17:48:28 --> Input Class Initialized
+DEBUG - 2012-02-02 17:48:28 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-02-02 17:48:28 --> Language Class Initialized
+DEBUG - 2012-02-02 17:48:28 --> Loader Class Initialized
+DEBUG - 2012-02-02 17:48:28 --> Helper loaded: form_helper
+DEBUG - 2012-02-02 17:48:28 --> Helper loaded: url_helper
+DEBUG - 2012-02-02 17:48:28 --> Helper loaded: login_helper
+DEBUG - 2012-02-02 17:48:28 --> Database Driver Class Initialized
+DEBUG - 2012-02-02 17:48:28 --> Session Class Initialized
+DEBUG - 2012-02-02 17:48:28 --> Helper loaded: string_helper
+DEBUG - 2012-02-02 17:48:28 --> Encrypt Class Initialized
+DEBUG - 2012-02-02 17:48:28 --> Session routines successfully run
+DEBUG - 2012-02-02 17:48:28 --> Controller Class Initialized
+DEBUG - 2012-02-02 17:48:28 --> File loaded: app/views/include/header.php
+DEBUG - 2012-02-02 17:48:28 --> File loaded: app/views/include/footer.php
+DEBUG - 2012-02-02 17:48:28 --> File loaded: app/views/round2.php
+DEBUG - 2012-02-02 17:48:28 --> Final output sent to browser
+DEBUG - 2012-02-02 17:48:28 --> Total execution time: 0.0415
+DEBUG - 2012-02-02 17:51:45 --> Config Class Initialized
+DEBUG - 2012-02-02 17:51:45 --> Hooks Class Initialized
+DEBUG - 2012-02-02 17:51:45 --> Utf8 Class Initialized
+DEBUG - 2012-02-02 17:51:45 --> UTF-8 Support Enabled
+DEBUG - 2012-02-02 17:51:45 --> URI Class Initialized
+DEBUG - 2012-02-02 17:51:45 --> Router Class Initialized
+DEBUG - 2012-02-02 17:51:45 --> Output Class Initialized
+DEBUG - 2012-02-02 17:51:45 --> Security Class Initialized
+DEBUG - 2012-02-02 17:51:45 --> Input Class Initialized
+DEBUG - 2012-02-02 17:51:45 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-02-02 17:51:45 --> Language Class Initialized
+DEBUG - 2012-02-02 17:51:45 --> Loader Class Initialized
+DEBUG - 2012-02-02 17:51:45 --> Helper loaded: form_helper
+DEBUG - 2012-02-02 17:51:45 --> Helper loaded: url_helper
+DEBUG - 2012-02-02 17:51:45 --> Helper loaded: login_helper
+DEBUG - 2012-02-02 17:51:45 --> Database Driver Class Initialized
+DEBUG - 2012-02-02 17:51:45 --> Session Class Initialized
+DEBUG - 2012-02-02 17:51:45 --> Helper loaded: string_helper
+DEBUG - 2012-02-02 17:51:45 --> Encrypt Class Initialized
+DEBUG - 2012-02-02 17:51:45 --> Session routines successfully run
+DEBUG - 2012-02-02 17:51:45 --> Controller Class Initialized
+DEBUG - 2012-02-02 17:51:45 --> File loaded: app/views/include/header.php
+DEBUG - 2012-02-02 17:51:45 --> File loaded: app/views/include/footer.php
+DEBUG - 2012-02-02 17:51:45 --> File loaded: app/views/round2.php
+DEBUG - 2012-02-02 17:51:45 --> Final output sent to browser
+DEBUG - 2012-02-02 17:51:45 --> Total execution time: 0.0893
+DEBUG - 2012-02-02 17:54:37 --> Config Class Initialized
+DEBUG - 2012-02-02 17:54:37 --> Hooks Class Initialized
+DEBUG - 2012-02-02 17:54:37 --> Utf8 Class Initialized
+DEBUG - 2012-02-02 17:54:37 --> UTF-8 Support Enabled
+DEBUG - 2012-02-02 17:54:37 --> URI Class Initialized
+DEBUG - 2012-02-02 17:54:37 --> Router Class Initialized
+DEBUG - 2012-02-02 17:54:37 --> Output Class Initialized
+DEBUG - 2012-02-02 17:54:37 --> Security Class Initialized
+DEBUG - 2012-02-02 17:54:37 --> Input Class Initialized
+DEBUG - 2012-02-02 17:54:37 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-02-02 17:54:37 --> Language Class Initialized
+DEBUG - 2012-02-02 17:54:37 --> Loader Class Initialized
+DEBUG - 2012-02-02 17:54:37 --> Helper loaded: form_helper
+DEBUG - 2012-02-02 17:54:37 --> Helper loaded: url_helper
+DEBUG - 2012-02-02 17:54:37 --> Helper loaded: login_helper
+DEBUG - 2012-02-02 17:54:37 --> Database Driver Class Initialized
+DEBUG - 2012-02-02 17:54:37 --> Session Class Initialized
+DEBUG - 2012-02-02 17:54:37 --> Helper loaded: string_helper
+DEBUG - 2012-02-02 17:54:37 --> Encrypt Class Initialized
+DEBUG - 2012-02-02 17:54:37 --> Session garbage collection performed.
+DEBUG - 2012-02-02 17:54:37 --> Session routines successfully run
+DEBUG - 2012-02-02 17:54:37 --> Controller Class Initialized
+DEBUG - 2012-02-02 17:54:37 --> File loaded: app/views/include/header.php
+DEBUG - 2012-02-02 17:54:37 --> File loaded: app/views/include/footer.php
+DEBUG - 2012-02-02 17:54:37 --> File loaded: app/views/round2.php
+DEBUG - 2012-02-02 17:54:37 --> Final output sent to browser
+DEBUG - 2012-02-02 17:54:37 --> Total execution time: 0.0565
+DEBUG - 2012-02-02 17:55:06 --> Config Class Initialized
+DEBUG - 2012-02-02 17:55:06 --> Hooks Class Initialized
+DEBUG - 2012-02-02 17:55:06 --> Utf8 Class Initialized
+DEBUG - 2012-02-02 17:55:06 --> UTF-8 Support Enabled
+DEBUG - 2012-02-02 17:55:06 --> URI Class Initialized
+DEBUG - 2012-02-02 17:55:06 --> Router Class Initialized
+DEBUG - 2012-02-02 17:55:06 --> Output Class Initialized
+DEBUG - 2012-02-02 17:55:06 --> Security Class Initialized
+DEBUG - 2012-02-02 17:55:06 --> Input Class Initialized
+DEBUG - 2012-02-02 17:55:06 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-02-02 17:55:06 --> Language Class Initialized
+DEBUG - 2012-02-02 17:55:06 --> Loader Class Initialized
+DEBUG - 2012-02-02 17:55:06 --> Helper loaded: form_helper
+DEBUG - 2012-02-02 17:55:06 --> Helper loaded: url_helper
+DEBUG - 2012-02-02 17:55:06 --> Helper loaded: login_helper
+DEBUG - 2012-02-02 17:55:06 --> Database Driver Class Initialized
+DEBUG - 2012-02-02 17:55:06 --> Session Class Initialized
+DEBUG - 2012-02-02 17:55:06 --> Helper loaded: string_helper
+DEBUG - 2012-02-02 17:55:06 --> Encrypt Class Initialized
+DEBUG - 2012-02-02 17:55:06 --> Session routines successfully run
+DEBUG - 2012-02-02 17:55:06 --> Controller Class Initialized
+DEBUG - 2012-02-02 17:55:06 --> File loaded: app/views/include/header.php
+DEBUG - 2012-02-02 17:55:06 --> File loaded: app/views/include/footer.php
+DEBUG - 2012-02-02 17:55:06 --> File loaded: app/views/round2.php
+DEBUG - 2012-02-02 17:55:06 --> Final output sent to browser
+DEBUG - 2012-02-02 17:55:06 --> Total execution time: 0.0627
+DEBUG - 2012-02-02 17:55:43 --> Config Class Initialized
+DEBUG - 2012-02-02 17:55:43 --> Hooks Class Initialized
+DEBUG - 2012-02-02 17:55:43 --> Utf8 Class Initialized
+DEBUG - 2012-02-02 17:55:43 --> UTF-8 Support Enabled
+DEBUG - 2012-02-02 17:55:43 --> URI Class Initialized
+DEBUG - 2012-02-02 17:55:43 --> Router Class Initialized
+DEBUG - 2012-02-02 17:55:43 --> Output Class Initialized
+DEBUG - 2012-02-02 17:55:43 --> Security Class Initialized
+DEBUG - 2012-02-02 17:55:43 --> Input Class Initialized
+DEBUG - 2012-02-02 17:55:43 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-02-02 17:55:43 --> Language Class Initialized
+DEBUG - 2012-02-02 17:55:43 --> Loader Class Initialized
+DEBUG - 2012-02-02 17:55:43 --> Helper loaded: form_helper
+DEBUG - 2012-02-02 17:55:43 --> Helper loaded: url_helper
+DEBUG - 2012-02-02 17:55:43 --> Helper loaded: login_helper
+DEBUG - 2012-02-02 17:55:43 --> Database Driver Class Initialized
+DEBUG - 2012-02-02 17:55:43 --> Session Class Initialized
+DEBUG - 2012-02-02 17:55:43 --> Helper loaded: string_helper
+DEBUG - 2012-02-02 17:55:43 --> Encrypt Class Initialized
+DEBUG - 2012-02-02 17:55:43 --> Session routines successfully run
+DEBUG - 2012-02-02 17:55:43 --> Controller Class Initialized
+DEBUG - 2012-02-02 17:55:43 --> File loaded: app/views/include/header.php
+DEBUG - 2012-02-02 17:55:43 --> File loaded: app/views/include/footer.php
+DEBUG - 2012-02-02 17:55:43 --> File loaded: app/views/round2.php
+DEBUG - 2012-02-02 17:55:43 --> Final output sent to browser
+DEBUG - 2012-02-02 17:55:43 --> Total execution time: 0.0519
+DEBUG - 2012-02-02 17:55:48 --> Config Class Initialized
+DEBUG - 2012-02-02 17:55:48 --> Hooks Class Initialized
+DEBUG - 2012-02-02 17:55:48 --> Utf8 Class Initialized
+DEBUG - 2012-02-02 17:55:48 --> UTF-8 Support Enabled
+DEBUG - 2012-02-02 17:55:48 --> URI Class Initialized
+DEBUG - 2012-02-02 17:55:48 --> Router Class Initialized
+DEBUG - 2012-02-02 17:55:48 --> Output Class Initialized
+DEBUG - 2012-02-02 17:55:48 --> Security Class Initialized
+DEBUG - 2012-02-02 17:55:48 --> Input Class Initialized
+DEBUG - 2012-02-02 17:55:48 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-02-02 17:55:48 --> Language Class Initialized
+DEBUG - 2012-02-02 17:55:48 --> Loader Class Initialized
+DEBUG - 2012-02-02 17:55:48 --> Helper loaded: form_helper
+DEBUG - 2012-02-02 17:55:48 --> Helper loaded: url_helper
+DEBUG - 2012-02-02 17:55:48 --> Helper loaded: login_helper
+DEBUG - 2012-02-02 17:55:48 --> Database Driver Class Initialized
+DEBUG - 2012-02-02 17:55:48 --> Session Class Initialized
+DEBUG - 2012-02-02 17:55:48 --> Helper loaded: string_helper
+DEBUG - 2012-02-02 17:55:48 --> Encrypt Class Initialized
+DEBUG - 2012-02-02 17:55:48 --> Session routines successfully run
+DEBUG - 2012-02-02 17:55:48 --> Controller Class Initialized
+DEBUG - 2012-02-02 17:55:48 --> Config Class Initialized
+DEBUG - 2012-02-02 17:55:48 --> Hooks Class Initialized
+DEBUG - 2012-02-02 17:55:48 --> Utf8 Class Initialized
+DEBUG - 2012-02-02 17:55:48 --> UTF-8 Support Enabled
+DEBUG - 2012-02-02 17:55:48 --> URI Class Initialized
+DEBUG - 2012-02-02 17:55:48 --> Router Class Initialized
+DEBUG - 2012-02-02 17:55:48 --> Output Class Initialized
+DEBUG - 2012-02-02 17:55:48 --> Security Class Initialized
+DEBUG - 2012-02-02 17:55:48 --> Input Class Initialized
+DEBUG - 2012-02-02 17:55:48 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-02-02 17:55:48 --> Language Class Initialized
+DEBUG - 2012-02-02 17:55:48 --> Loader Class Initialized
+DEBUG - 2012-02-02 17:55:48 --> Helper loaded: form_helper
+DEBUG - 2012-02-02 17:55:48 --> Helper loaded: url_helper
+DEBUG - 2012-02-02 17:55:48 --> Helper loaded: login_helper
+DEBUG - 2012-02-02 17:55:48 --> Database Driver Class Initialized
+DEBUG - 2012-02-02 17:55:48 --> Session Class Initialized
+DEBUG - 2012-02-02 17:55:48 --> Helper loaded: string_helper
+DEBUG - 2012-02-02 17:55:48 --> Encrypt Class Initialized
+DEBUG - 2012-02-02 17:55:48 --> Session routines successfully run
+DEBUG - 2012-02-02 17:55:48 --> Controller Class Initialized
+DEBUG - 2012-02-02 17:55:48 --> File loaded: app/views/include/header.php
+DEBUG - 2012-02-02 17:55:48 --> File loaded: app/views/include/footer.php
+DEBUG - 2012-02-02 17:55:48 --> File loaded: app/views/round2.php
+DEBUG - 2012-02-02 17:55:48 --> Final output sent to browser
+DEBUG - 2012-02-02 17:55:48 --> Total execution time: 0.0418
+DEBUG - 2012-02-02 17:56:08 --> Config Class Initialized
+DEBUG - 2012-02-02 17:56:08 --> Hooks Class Initialized
+DEBUG - 2012-02-02 17:56:08 --> Utf8 Class Initialized
+DEBUG - 2012-02-02 17:56:08 --> UTF-8 Support Enabled
+DEBUG - 2012-02-02 17:56:08 --> URI Class Initialized
+DEBUG - 2012-02-02 17:56:08 --> Router Class Initialized
+DEBUG - 2012-02-02 17:56:08 --> Output Class Initialized
+DEBUG - 2012-02-02 17:56:08 --> Security Class Initialized
+DEBUG - 2012-02-02 17:56:08 --> Input Class Initialized
+DEBUG - 2012-02-02 17:56:08 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-02-02 17:56:08 --> Language Class Initialized
+DEBUG - 2012-02-02 17:56:08 --> Loader Class Initialized
+DEBUG - 2012-02-02 17:56:08 --> Helper loaded: form_helper
+DEBUG - 2012-02-02 17:56:08 --> Helper loaded: url_helper
+DEBUG - 2012-02-02 17:56:08 --> Helper loaded: login_helper
+DEBUG - 2012-02-02 17:56:08 --> Database Driver Class Initialized
+DEBUG - 2012-02-02 17:56:08 --> Session Class Initialized
+DEBUG - 2012-02-02 17:56:08 --> Helper loaded: string_helper
+DEBUG - 2012-02-02 17:56:08 --> Encrypt Class Initialized
+DEBUG - 2012-02-02 17:56:08 --> Session garbage collection performed.
+DEBUG - 2012-02-02 17:56:08 --> Session routines successfully run
+DEBUG - 2012-02-02 17:56:08 --> Controller Class Initialized
+DEBUG - 2012-02-02 17:56:08 --> Config Class Initialized
+DEBUG - 2012-02-02 17:56:08 --> Hooks Class Initialized
+DEBUG - 2012-02-02 17:56:08 --> Utf8 Class Initialized
+DEBUG - 2012-02-02 17:56:08 --> UTF-8 Support Enabled
+DEBUG - 2012-02-02 17:56:08 --> URI Class Initialized
+DEBUG - 2012-02-02 17:56:08 --> Router Class Initialized
+DEBUG - 2012-02-02 17:56:08 --> Output Class Initialized
+DEBUG - 2012-02-02 17:56:08 --> Security Class Initialized
+DEBUG - 2012-02-02 17:56:08 --> Input Class Initialized
+DEBUG - 2012-02-02 17:56:08 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-02-02 17:56:08 --> Language Class Initialized
+DEBUG - 2012-02-02 17:56:08 --> Loader Class Initialized
+DEBUG - 2012-02-02 17:56:08 --> Helper loaded: form_helper
+DEBUG - 2012-02-02 17:56:08 --> Helper loaded: url_helper
+DEBUG - 2012-02-02 17:56:08 --> Helper loaded: login_helper
+DEBUG - 2012-02-02 17:56:08 --> Database Driver Class Initialized
+DEBUG - 2012-02-02 17:56:08 --> Session Class Initialized
+DEBUG - 2012-02-02 17:56:08 --> Helper loaded: string_helper
+DEBUG - 2012-02-02 17:56:08 --> Encrypt Class Initialized
+DEBUG - 2012-02-02 17:56:08 --> Session garbage collection performed.
+DEBUG - 2012-02-02 17:56:08 --> Session routines successfully run
+DEBUG - 2012-02-02 17:56:08 --> Controller Class Initialized
+DEBUG - 2012-02-02 17:56:08 --> File loaded: app/views/include/header.php
+DEBUG - 2012-02-02 17:56:08 --> File loaded: app/views/include/footer.php
+DEBUG - 2012-02-02 17:56:08 --> File loaded: app/views/login.php
+DEBUG - 2012-02-02 17:56:08 --> Final output sent to browser
+DEBUG - 2012-02-02 17:56:08 --> Total execution time: 0.0416
+DEBUG - 2012-02-02 17:57:43 --> Config Class Initialized
+DEBUG - 2012-02-02 17:57:43 --> Hooks Class Initialized
+DEBUG - 2012-02-02 17:57:43 --> Utf8 Class Initialized
+DEBUG - 2012-02-02 17:57:43 --> UTF-8 Support Enabled
+DEBUG - 2012-02-02 17:57:43 --> URI Class Initialized
+DEBUG - 2012-02-02 17:57:43 --> Router Class Initialized
+DEBUG - 2012-02-02 17:57:43 --> Output Class Initialized
+DEBUG - 2012-02-02 17:57:43 --> Security Class Initialized
+DEBUG - 2012-02-02 17:57:43 --> Input Class Initialized
+DEBUG - 2012-02-02 17:57:43 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-02-02 17:57:43 --> Language Class Initialized
+DEBUG - 2012-02-02 17:57:43 --> Loader Class Initialized
+DEBUG - 2012-02-02 17:57:43 --> Helper loaded: form_helper
+DEBUG - 2012-02-02 17:57:43 --> Helper loaded: url_helper
+DEBUG - 2012-02-02 17:57:43 --> Helper loaded: login_helper
+DEBUG - 2012-02-02 17:57:43 --> Database Driver Class Initialized
+DEBUG - 2012-02-02 17:57:43 --> Session Class Initialized
+DEBUG - 2012-02-02 17:57:43 --> Helper loaded: string_helper
+DEBUG - 2012-02-02 17:57:43 --> Encrypt Class Initialized
+DEBUG - 2012-02-02 17:57:43 --> Session routines successfully run
+DEBUG - 2012-02-02 17:57:43 --> Controller Class Initialized
+DEBUG - 2012-02-02 17:57:43 --> File loaded: app/views/include/header.php
+DEBUG - 2012-02-02 17:57:43 --> File loaded: app/views/include/footer.php
+DEBUG - 2012-02-02 17:57:43 --> File loaded: app/views/login.php
+DEBUG - 2012-02-02 17:57:43 --> Final output sent to browser
+DEBUG - 2012-02-02 17:57:43 --> Total execution time: 0.1036
+DEBUG - 2012-02-02 17:57:51 --> Config Class Initialized
+DEBUG - 2012-02-02 17:57:51 --> Hooks Class Initialized
+DEBUG - 2012-02-02 17:57:51 --> Utf8 Class Initialized
+DEBUG - 2012-02-02 17:57:51 --> UTF-8 Support Enabled
+DEBUG - 2012-02-02 17:57:51 --> URI Class Initialized
+DEBUG - 2012-02-02 17:57:51 --> Router Class Initialized
+DEBUG - 2012-02-02 17:57:51 --> Output Class Initialized
+DEBUG - 2012-02-02 17:57:51 --> Security Class Initialized
+DEBUG - 2012-02-02 17:57:51 --> Input Class Initialized
+DEBUG - 2012-02-02 17:57:51 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-02-02 17:57:51 --> Language Class Initialized
+DEBUG - 2012-02-02 17:57:51 --> Loader Class Initialized
+DEBUG - 2012-02-02 17:57:51 --> Helper loaded: form_helper
+DEBUG - 2012-02-02 17:57:51 --> Helper loaded: url_helper
+DEBUG - 2012-02-02 17:57:51 --> Helper loaded: login_helper
+DEBUG - 2012-02-02 17:57:51 --> Database Driver Class Initialized
+DEBUG - 2012-02-02 17:57:51 --> Session Class Initialized
+DEBUG - 2012-02-02 17:57:51 --> Helper loaded: string_helper
+DEBUG - 2012-02-02 17:57:51 --> Encrypt Class Initialized
+DEBUG - 2012-02-02 17:57:51 --> Session routines successfully run
+DEBUG - 2012-02-02 17:57:51 --> Controller Class Initialized
+DEBUG - 2012-02-02 17:57:51 --> Config Class Initialized
+DEBUG - 2012-02-02 17:57:51 --> Hooks Class Initialized
+DEBUG - 2012-02-02 17:57:51 --> Utf8 Class Initialized
+DEBUG - 2012-02-02 17:57:51 --> UTF-8 Support Enabled
+DEBUG - 2012-02-02 17:57:51 --> URI Class Initialized
+DEBUG - 2012-02-02 17:57:51 --> Router Class Initialized
+DEBUG - 2012-02-02 17:57:51 --> Output Class Initialized
+DEBUG - 2012-02-02 17:57:51 --> Security Class Initialized
+DEBUG - 2012-02-02 17:57:51 --> Input Class Initialized
+DEBUG - 2012-02-02 17:57:51 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-02-02 17:57:51 --> Language Class Initialized
+DEBUG - 2012-02-02 17:57:51 --> Loader Class Initialized
+DEBUG - 2012-02-02 17:57:51 --> Helper loaded: form_helper
+DEBUG - 2012-02-02 17:57:51 --> Helper loaded: url_helper
+DEBUG - 2012-02-02 17:57:51 --> Helper loaded: login_helper
+DEBUG - 2012-02-02 17:57:51 --> Database Driver Class Initialized
+DEBUG - 2012-02-02 17:57:51 --> Session Class Initialized
+DEBUG - 2012-02-02 17:57:51 --> Helper loaded: string_helper
+DEBUG - 2012-02-02 17:57:51 --> Encrypt Class Initialized
+DEBUG - 2012-02-02 17:57:51 --> Session routines successfully run
+DEBUG - 2012-02-02 17:57:51 --> Controller Class Initialized
+DEBUG - 2012-02-02 17:57:51 --> Final output sent to browser
+DEBUG - 2012-02-02 17:57:51 --> Total execution time: 0.0508
+DEBUG - 2012-02-02 17:57:55 --> Config Class Initialized
+DEBUG - 2012-02-02 17:57:55 --> Hooks Class Initialized
+DEBUG - 2012-02-02 17:57:55 --> Utf8 Class Initialized
+DEBUG - 2012-02-02 17:57:55 --> UTF-8 Support Enabled
+DEBUG - 2012-02-02 17:57:55 --> URI Class Initialized
+DEBUG - 2012-02-02 17:57:55 --> Router Class Initialized
+DEBUG - 2012-02-02 17:57:55 --> Output Class Initialized
+DEBUG - 2012-02-02 17:57:55 --> Security Class Initialized
+DEBUG - 2012-02-02 17:57:55 --> Input Class Initialized
+DEBUG - 2012-02-02 17:57:55 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-02-02 17:57:55 --> Language Class Initialized
+DEBUG - 2012-02-02 17:57:55 --> Loader Class Initialized
+DEBUG - 2012-02-02 17:57:55 --> Helper loaded: form_helper
+DEBUG - 2012-02-02 17:57:55 --> Helper loaded: url_helper
+DEBUG - 2012-02-02 17:57:55 --> Helper loaded: login_helper
+DEBUG - 2012-02-02 17:57:55 --> Database Driver Class Initialized
+DEBUG - 2012-02-02 17:57:55 --> Session Class Initialized
+DEBUG - 2012-02-02 17:57:55 --> Helper loaded: string_helper
+DEBUG - 2012-02-02 17:57:55 --> Encrypt Class Initialized
+DEBUG - 2012-02-02 17:57:55 --> Session routines successfully run
+DEBUG - 2012-02-02 17:57:55 --> Controller Class Initialized
+DEBUG - 2012-02-02 17:57:55 --> File loaded: app/views/include/header.php
+DEBUG - 2012-02-02 17:57:55 --> File loaded: app/views/include/footer.php
+DEBUG - 2012-02-02 17:57:55 --> File loaded: app/views/round1.php
+DEBUG - 2012-02-02 17:57:55 --> Final output sent to browser
+DEBUG - 2012-02-02 17:57:55 --> Total execution time: 0.0418
+DEBUG - 2012-02-02 17:58:07 --> Config Class Initialized
+DEBUG - 2012-02-02 17:58:07 --> Hooks Class Initialized
+DEBUG - 2012-02-02 17:58:07 --> Utf8 Class Initialized
+DEBUG - 2012-02-02 17:58:07 --> UTF-8 Support Enabled
+DEBUG - 2012-02-02 17:58:07 --> URI Class Initialized
+DEBUG - 2012-02-02 17:58:07 --> Router Class Initialized
+DEBUG - 2012-02-02 17:58:07 --> Output Class Initialized
+DEBUG - 2012-02-02 17:58:07 --> Security Class Initialized
+DEBUG - 2012-02-02 17:58:07 --> Input Class Initialized
+DEBUG - 2012-02-02 17:58:07 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-02-02 17:58:07 --> Language Class Initialized
+DEBUG - 2012-02-02 17:58:07 --> Loader Class Initialized
+DEBUG - 2012-02-02 17:58:07 --> Helper loaded: form_helper
+DEBUG - 2012-02-02 17:58:07 --> Helper loaded: url_helper
+DEBUG - 2012-02-02 17:58:07 --> Helper loaded: login_helper
+DEBUG - 2012-02-02 17:58:07 --> Database Driver Class Initialized
+DEBUG - 2012-02-02 17:58:07 --> Session Class Initialized
+DEBUG - 2012-02-02 17:58:07 --> Helper loaded: string_helper
+DEBUG - 2012-02-02 17:58:07 --> Encrypt Class Initialized
+DEBUG - 2012-02-02 17:58:07 --> Session garbage collection performed.
+DEBUG - 2012-02-02 17:58:07 --> Session routines successfully run
+DEBUG - 2012-02-02 17:58:07 --> Controller Class Initialized
+DEBUG - 2012-02-02 17:58:07 --> Config Class Initialized
+DEBUG - 2012-02-02 17:58:07 --> Hooks Class Initialized
+DEBUG - 2012-02-02 17:58:07 --> Utf8 Class Initialized
+DEBUG - 2012-02-02 17:58:07 --> UTF-8 Support Enabled
+DEBUG - 2012-02-02 17:58:07 --> URI Class Initialized
+DEBUG - 2012-02-02 17:58:07 --> Router Class Initialized
+DEBUG - 2012-02-02 17:58:07 --> Output Class Initialized
+DEBUG - 2012-02-02 17:58:07 --> Security Class Initialized
+DEBUG - 2012-02-02 17:58:07 --> Input Class Initialized
+DEBUG - 2012-02-02 17:58:07 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-02-02 17:58:07 --> Language Class Initialized
+DEBUG - 2012-02-02 17:58:07 --> Loader Class Initialized
+DEBUG - 2012-02-02 17:58:07 --> Helper loaded: form_helper
+DEBUG - 2012-02-02 17:58:07 --> Helper loaded: url_helper
+DEBUG - 2012-02-02 17:58:07 --> Helper loaded: login_helper
+DEBUG - 2012-02-02 17:58:07 --> Database Driver Class Initialized
+DEBUG - 2012-02-02 17:58:07 --> Session Class Initialized
+DEBUG - 2012-02-02 17:58:07 --> Helper loaded: string_helper
+DEBUG - 2012-02-02 17:58:07 --> Encrypt Class Initialized
+DEBUG - 2012-02-02 17:58:07 --> Session garbage collection performed.
+DEBUG - 2012-02-02 17:58:07 --> Session routines successfully run
+DEBUG - 2012-02-02 17:58:07 --> Controller Class Initialized
+DEBUG - 2012-02-02 17:58:07 --> File loaded: app/views/include/header.php
+DEBUG - 2012-02-02 17:58:07 --> File loaded: app/views/include/footer.php
+DEBUG - 2012-02-02 17:58:07 --> File loaded: app/views/round1.php
+DEBUG - 2012-02-02 17:58:07 --> Final output sent to browser
+DEBUG - 2012-02-02 17:58:07 --> Total execution time: 0.0428
+DEBUG - 2012-02-02 17:58:12 --> Config Class Initialized
+DEBUG - 2012-02-02 17:58:12 --> Hooks Class Initialized
+DEBUG - 2012-02-02 17:58:12 --> Utf8 Class Initialized
+DEBUG - 2012-02-02 17:58:12 --> UTF-8 Support Enabled
+DEBUG - 2012-02-02 17:58:12 --> URI Class Initialized
+DEBUG - 2012-02-02 17:58:12 --> Router Class Initialized
+DEBUG - 2012-02-02 17:58:12 --> Output Class Initialized
+DEBUG - 2012-02-02 17:58:12 --> Security Class Initialized
+DEBUG - 2012-02-02 17:58:12 --> Input Class Initialized
+DEBUG - 2012-02-02 17:58:12 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-02-02 17:58:12 --> Language Class Initialized
+DEBUG - 2012-02-02 17:58:12 --> Loader Class Initialized
+DEBUG - 2012-02-02 17:58:12 --> Helper loaded: form_helper
+DEBUG - 2012-02-02 17:58:12 --> Helper loaded: url_helper
+DEBUG - 2012-02-02 17:58:12 --> Helper loaded: login_helper
+DEBUG - 2012-02-02 17:58:12 --> Database Driver Class Initialized
+DEBUG - 2012-02-02 17:58:12 --> Session Class Initialized
+DEBUG - 2012-02-02 17:58:12 --> Helper loaded: string_helper
+DEBUG - 2012-02-02 17:58:12 --> Encrypt Class Initialized
+DEBUG - 2012-02-02 17:58:12 --> Session routines successfully run
+DEBUG - 2012-02-02 17:58:12 --> Controller Class Initialized
+DEBUG - 2012-02-02 17:58:12 --> File loaded: app/views/include/header.php
+DEBUG - 2012-02-02 17:58:12 --> File loaded: app/views/include/footer.php
+DEBUG - 2012-02-02 17:58:12 --> File loaded: app/views/round2.php
+DEBUG - 2012-02-02 17:58:12 --> Final output sent to browser
+DEBUG - 2012-02-02 17:58:12 --> Total execution time: 0.0559
+DEBUG - 2012-02-02 17:58:29 --> Config Class Initialized
+DEBUG - 2012-02-02 17:58:29 --> Hooks Class Initialized
+DEBUG - 2012-02-02 17:58:29 --> Utf8 Class Initialized
+DEBUG - 2012-02-02 17:58:29 --> UTF-8 Support Enabled
+DEBUG - 2012-02-02 17:58:29 --> URI Class Initialized
+DEBUG - 2012-02-02 17:58:29 --> Router Class Initialized
+DEBUG - 2012-02-02 17:58:29 --> Output Class Initialized
+DEBUG - 2012-02-02 17:58:29 --> Security Class Initialized
+DEBUG - 2012-02-02 17:58:29 --> Input Class Initialized
+DEBUG - 2012-02-02 17:58:29 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-02-02 17:58:29 --> Language Class Initialized
+DEBUG - 2012-02-02 17:58:29 --> Loader Class Initialized
+DEBUG - 2012-02-02 17:58:29 --> Helper loaded: form_helper
+DEBUG - 2012-02-02 17:58:30 --> Helper loaded: url_helper
+DEBUG - 2012-02-02 17:58:30 --> Helper loaded: login_helper
+DEBUG - 2012-02-02 17:58:30 --> Database Driver Class Initialized
+DEBUG - 2012-02-02 17:58:30 --> Session Class Initialized
+DEBUG - 2012-02-02 17:58:30 --> Helper loaded: string_helper
+DEBUG - 2012-02-02 17:58:30 --> Encrypt Class Initialized
+DEBUG - 2012-02-02 17:58:30 --> Session routines successfully run
+DEBUG - 2012-02-02 17:58:30 --> Controller Class Initialized
+DEBUG - 2012-02-02 17:58:30 --> Config Class Initialized
+DEBUG - 2012-02-02 17:58:30 --> Hooks Class Initialized
+DEBUG - 2012-02-02 17:58:30 --> Utf8 Class Initialized
+DEBUG - 2012-02-02 17:58:30 --> UTF-8 Support Enabled
+DEBUG - 2012-02-02 17:58:30 --> URI Class Initialized
+DEBUG - 2012-02-02 17:58:30 --> Router Class Initialized
+DEBUG - 2012-02-02 17:58:30 --> Output Class Initialized
+DEBUG - 2012-02-02 17:58:30 --> Security Class Initialized
+DEBUG - 2012-02-02 17:58:30 --> Input Class Initialized
+DEBUG - 2012-02-02 17:58:30 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-02-02 17:58:30 --> Language Class Initialized
+DEBUG - 2012-02-02 17:58:30 --> Loader Class Initialized
+DEBUG - 2012-02-02 17:58:30 --> Helper loaded: form_helper
+DEBUG - 2012-02-02 17:58:30 --> Helper loaded: url_helper
+DEBUG - 2012-02-02 17:58:30 --> Helper loaded: login_helper
+DEBUG - 2012-02-02 17:58:30 --> Database Driver Class Initialized
+DEBUG - 2012-02-02 17:58:30 --> Session Class Initialized
+DEBUG - 2012-02-02 17:58:30 --> Helper loaded: string_helper
+DEBUG - 2012-02-02 17:58:30 --> Encrypt Class Initialized
+DEBUG - 2012-02-02 17:58:30 --> Session routines successfully run
+DEBUG - 2012-02-02 17:58:30 --> Controller Class Initialized
+DEBUG - 2012-02-02 17:58:30 --> File loaded: app/views/include/header.php
+DEBUG - 2012-02-02 17:58:30 --> File loaded: app/views/include/footer.php
+DEBUG - 2012-02-02 17:58:30 --> File loaded: app/views/round2.php
+DEBUG - 2012-02-02 17:58:30 --> Final output sent to browser
+DEBUG - 2012-02-02 17:58:30 --> Total execution time: 0.0414
+DEBUG - 2012-02-02 17:58:33 --> Config Class Initialized
+DEBUG - 2012-02-02 17:58:33 --> Hooks Class Initialized
+DEBUG - 2012-02-02 17:58:33 --> Utf8 Class Initialized
+DEBUG - 2012-02-02 17:58:33 --> UTF-8 Support Enabled
+DEBUG - 2012-02-02 17:58:33 --> URI Class Initialized
+DEBUG - 2012-02-02 17:58:33 --> Router Class Initialized
+DEBUG - 2012-02-02 17:58:33 --> Output Class Initialized
+DEBUG - 2012-02-02 17:58:33 --> Security Class Initialized
+DEBUG - 2012-02-02 17:58:33 --> Input Class Initialized
+DEBUG - 2012-02-02 17:58:33 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-02-02 17:58:33 --> Language Class Initialized
+DEBUG - 2012-02-02 17:58:33 --> Loader Class Initialized
+DEBUG - 2012-02-02 17:58:33 --> Helper loaded: form_helper
+DEBUG - 2012-02-02 17:58:33 --> Helper loaded: url_helper
+DEBUG - 2012-02-02 17:58:33 --> Helper loaded: login_helper
+DEBUG - 2012-02-02 17:58:33 --> Database Driver Class Initialized
+DEBUG - 2012-02-02 17:58:33 --> Session Class Initialized
+DEBUG - 2012-02-02 17:58:33 --> Helper loaded: string_helper
+DEBUG - 2012-02-02 17:58:33 --> Encrypt Class Initialized
+DEBUG - 2012-02-02 17:58:33 --> Session routines successfully run
+DEBUG - 2012-02-02 17:58:33 --> Controller Class Initialized
+DEBUG - 2012-02-02 17:58:33 --> File loaded: app/views/include/header.php
+DEBUG - 2012-02-02 17:58:33 --> File loaded: app/views/include/footer.php
+DEBUG - 2012-02-02 17:58:33 --> File loaded: app/views/round3.php
+DEBUG - 2012-02-02 17:58:33 --> Final output sent to browser
+DEBUG - 2012-02-02 17:58:33 --> Total execution time: 0.0542
+DEBUG - 2012-02-02 17:58:38 --> Config Class Initialized
+DEBUG - 2012-02-02 17:58:38 --> Hooks Class Initialized
+DEBUG - 2012-02-02 17:58:38 --> Utf8 Class Initialized
+DEBUG - 2012-02-02 17:58:38 --> UTF-8 Support Enabled
+DEBUG - 2012-02-02 17:58:38 --> URI Class Initialized
+DEBUG - 2012-02-02 17:58:38 --> Router Class Initialized
+DEBUG - 2012-02-02 17:58:38 --> Output Class Initialized
+DEBUG - 2012-02-02 17:58:38 --> Security Class Initialized
+DEBUG - 2012-02-02 17:58:38 --> Input Class Initialized
+DEBUG - 2012-02-02 17:58:38 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-02-02 17:58:38 --> Language Class Initialized
+DEBUG - 2012-02-02 17:58:38 --> Loader Class Initialized
+DEBUG - 2012-02-02 17:58:38 --> Helper loaded: form_helper
+DEBUG - 2012-02-02 17:58:38 --> Helper loaded: url_helper
+DEBUG - 2012-02-02 17:58:38 --> Helper loaded: login_helper
+DEBUG - 2012-02-02 17:58:38 --> Database Driver Class Initialized
+DEBUG - 2012-02-02 17:58:38 --> Session Class Initialized
+DEBUG - 2012-02-02 17:58:38 --> Helper loaded: string_helper
+DEBUG - 2012-02-02 17:58:38 --> Encrypt Class Initialized
+DEBUG - 2012-02-02 17:58:38 --> Session routines successfully run
+DEBUG - 2012-02-02 17:58:38 --> Controller Class Initialized
+DEBUG - 2012-02-02 17:58:38 --> Config Class Initialized
+DEBUG - 2012-02-02 17:58:38 --> Hooks Class Initialized
+DEBUG - 2012-02-02 17:58:38 --> Utf8 Class Initialized
+DEBUG - 2012-02-02 17:58:38 --> UTF-8 Support Enabled
+DEBUG - 2012-02-02 17:58:38 --> URI Class Initialized
+DEBUG - 2012-02-02 17:58:38 --> Router Class Initialized
+DEBUG - 2012-02-02 17:58:38 --> Output Class Initialized
+DEBUG - 2012-02-02 17:58:38 --> Security Class Initialized
+DEBUG - 2012-02-02 17:58:38 --> Input Class Initialized
+DEBUG - 2012-02-02 17:58:38 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-02-02 17:58:38 --> Language Class Initialized
+DEBUG - 2012-02-02 17:58:38 --> Loader Class Initialized
+DEBUG - 2012-02-02 17:58:38 --> Helper loaded: form_helper
+DEBUG - 2012-02-02 17:58:38 --> Helper loaded: url_helper
+DEBUG - 2012-02-02 17:58:38 --> Helper loaded: login_helper
+DEBUG - 2012-02-02 17:58:38 --> Database Driver Class Initialized
+DEBUG - 2012-02-02 17:58:38 --> Session Class Initialized
+DEBUG - 2012-02-02 17:58:38 --> Helper loaded: string_helper
+DEBUG - 2012-02-02 17:58:38 --> Encrypt Class Initialized
+DEBUG - 2012-02-02 17:58:38 --> Session routines successfully run
+DEBUG - 2012-02-02 17:58:38 --> Controller Class Initialized
+DEBUG - 2012-02-02 17:58:38 --> File loaded: app/views/include/header.php
+DEBUG - 2012-02-02 17:58:38 --> File loaded: app/views/include/footer.php
+DEBUG - 2012-02-02 17:58:38 --> File loaded: app/views/round3.php
+DEBUG - 2012-02-02 17:58:38 --> Final output sent to browser
+DEBUG - 2012-02-02 17:58:38 --> Total execution time: 0.0522
+DEBUG - 2012-02-02 17:58:51 --> Config Class Initialized
+DEBUG - 2012-02-02 17:58:51 --> Hooks Class Initialized
+DEBUG - 2012-02-02 17:58:51 --> Utf8 Class Initialized
+DEBUG - 2012-02-02 17:58:51 --> UTF-8 Support Enabled
+DEBUG - 2012-02-02 17:58:51 --> URI Class Initialized
+DEBUG - 2012-02-02 17:58:51 --> Router Class Initialized
+DEBUG - 2012-02-02 17:58:51 --> Output Class Initialized
+DEBUG - 2012-02-02 17:58:51 --> Security Class Initialized
+DEBUG - 2012-02-02 17:58:51 --> Input Class Initialized
+DEBUG - 2012-02-02 17:58:51 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-02-02 17:58:51 --> Language Class Initialized
+DEBUG - 2012-02-02 17:58:51 --> Loader Class Initialized
+DEBUG - 2012-02-02 17:58:51 --> Helper loaded: form_helper
+DEBUG - 2012-02-02 17:58:51 --> Helper loaded: url_helper
+DEBUG - 2012-02-02 17:58:51 --> Helper loaded: login_helper
+DEBUG - 2012-02-02 17:58:51 --> Database Driver Class Initialized
+DEBUG - 2012-02-02 17:58:51 --> Session Class Initialized
+DEBUG - 2012-02-02 17:58:51 --> Helper loaded: string_helper
+DEBUG - 2012-02-02 17:58:51 --> Encrypt Class Initialized
+DEBUG - 2012-02-02 17:58:51 --> Session routines successfully run
+DEBUG - 2012-02-02 17:58:51 --> Controller Class Initialized
+DEBUG - 2012-02-02 17:58:51 --> File loaded: app/views/include/header.php
+DEBUG - 2012-02-02 17:58:51 --> File loaded: app/views/include/footer.php
+DEBUG - 2012-02-02 17:58:51 --> File loaded: app/views/round3.php
+DEBUG - 2012-02-02 17:58:51 --> Final output sent to browser
+DEBUG - 2012-02-02 17:58:51 --> Total execution time: 0.0490
