@@ -1,10 +1,12 @@
 <?php 
-  $this->load->view('include/header');
+  $data['round'] = 1;
+  $this->load->view('include/header',$data);
 ?>
 <div class="container">
   <section id="Round1Table">
     <div class="page-header">
       <h3>Round 1</h3>
+      <span class="label important" id="credit">Credits Accumulated (Min 15 | Max 21): &nbsp;<span class="creditshow">0</span></span>
     </div>
     <div class="row">
       <div class="span16">
@@ -67,8 +69,7 @@
         </div>
 
         <div class="actions well">
-          <input type="submit" data-controls-modal="modal-from-dom" data-backdrop="true" data-keyboard="true" class="btn primary" value="Submit My Choices"/>
-          <span class="label important" id="credit">Credits: &nbsp;<span class="creditshow">0</span></span>
+          <input type="submit" id="#Round1Submit" class="btn primary" value="Submit My Choices"/>
           <a href="#header">Top</a>
         </div>
       </form>

@@ -1,5 +1,6 @@
 <?php
-$this->load->view('include/header');
+$data['round'] = 3;
+$this->load->view('include/header',$data);
 ?>
 
 <div class="container">

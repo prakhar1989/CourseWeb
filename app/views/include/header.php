@@ -30,10 +30,21 @@
     <div class="topbar">
       <div class="fill">
         <div class="container">
-          <a class="brand" href="#">Round 3</a>
-          <ul class="nav pull-left">
-          <li class="active"><a href="#">Hi, <?php echo getUserName(); ?></a></li>
-          <li class="pull-right"><?php echo anchor("logout", "Logout");?></li>
+        <a class="brand" href="#header">Round <?php echo $round;?> </a>
+<?php 
+  if($round==2)
+  {
+      echo "<ul class=\"nav pull-left\">";
+    for($i=1;$i<=$num_slots;$i++)
+    {
+      echo "<li><a href=\"#slot$i\">Slot $i</a></li>";
+    }
+      echo "</ul>";
+  }
+?>
+          <ul class="nav secondary-nav">
+            <li class="active pull-right"><a href="#">Hi, <?php echo getUserName(); ?></a></li>
+            <li class="pull-right"><?php echo anchor("logout", "Logout");?></li>
           </ul>
         </div>
       </div>

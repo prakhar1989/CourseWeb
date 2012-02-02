@@ -92,7 +92,7 @@ table thead{
   font-size: 42px;
 }
 
-#eoiTable{
+#eoiTable, .round2Tables{
   cursor: pointer;
 }
 
@@ -157,12 +157,13 @@ div.modal, div.modal h3{
   color: black;
 }
 
-.well {
+.page-header {
   position: relative;
 }
 
-.well span.label{
+span.label{
   position: absolute;
-  top:20px;
-  left: 20px;
+  top: 6px;
+  left: 120px;
 }
+

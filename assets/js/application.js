@@ -1,4 +1,5 @@
 $(document).ready(function(){
+
     //scroll settings for round2
     $('.nav li a').smoothScroll();
     $('a.brand').smoothScroll({offset: -100});
@@ -53,28 +54,48 @@ $(document).ready(function(){
     });
     
     //selection tables in round1
-    $('#eoiTable tr input[type="checkbox"]').click(function(e) {
-       $(this).parent().parent().toggleClass('selected');
+    $('table tr input[type="radio"]').click(function(e) {
+        var trClicked = $(this).parent().parent();
+        console.log(trClicked);
+        if (!$(trClicked).hasClass('selected')){
+          console.log("here");
+          //remove selected class from all rows in this table
+          $(trClicked).parent().children().removeClass('selected');
+          //add selected class to this row
+          $(trClicked).addClass('selected');
+        }
        e.stopPropagation();
     });
-    $('#eoiTable tr').click(function(){
-      $(this).toggleClass('selected');
-      var $checkbox = $(this).find('input[type=checkbox]');
-      $checkbox.prop('checked', !$checkbox.is(':checked'));
-      computeTotalCredits();
+    $('table.round2Tables tr').click(function(){
+      if (!$(this).hasClass('selected')){
+        //remove selected class from all rows in this table
+        $(this).parent().children().removeClass('selected');
+        //add selected class to this row
+        $(this).addClass('selected');
+      } else {
+        $(this).removeClass('selected');
+      }
+      var radio = $(this).find('input[type=radio]');
+      radio.prop('checked', !radio.is(':checked'));
+      // computeTotalCredits();
      });
+      
+     //selection tables in round2
+     $
+     
+
 
      //onSubmit check in round1
-     $('#round1Form').submit(function(){
+    $('#Round1Submit').click(function(e){
        var totalCredits = parseFloat($('#credit span').text());
        if(totalCredits>21 || totalCredits<15){
          alert('Please make sure your total credits are between 15 and 21');
-         $('#modal-from-dom').modal('hide');
          return false;
        } else {
-         return true;
+          e.preventDefault();
+          $('#modal-from-dom').modal('show');
        }
-     });
+    });
     
     //modal window handling
     $('.quit').click(function(){
@@ -83,6 +104,7 @@ $(document).ready(function(){
 
     $('.modal-footer a.primary').click(function(){
       $('#round1Form').submit();
+      $('#round2Form').submit();
     });
 });
 

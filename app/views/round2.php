@@ -1,5 +1,14 @@
 <?php 
-  $data['isRound3'] = true;
+  $get_slots_query = " SELECT COUNT( DISTINCT slot ) as count FROM  `round2_slots` WHERE 1 ";
+  $query = $this->db->query($get_slots_query); 
+  $num_slots=0;
+  foreach($query->result() as $row)
+  {
+     $num_slots = $row->count;
+  }
+  $data['round'] = 2;
+  $data['num_slots'] = $num_slots;
+
   $this->load->view('include/header', $data);
 ?>
 
@@ -17,26 +26,7 @@
   else
   {
 ?>
-<form action="round2/submit" method="post">
-<?php
-  $get_slots_query = " SELECT COUNT( DISTINCT slot ) as count FROM  `round2_slots` WHERE 1 ";
-  $query = $this->db->query($get_slots_query); 
-  $num_slots=0;
-  foreach($query->result() as $row)
-  {
-     $num_slots = $row->count;
-  }
-?>
-  <div class="pagination">
-    <ul>
-<?php 
-  for($i=1; $i<= $num_slots; $i++)
-  {
-    echo "<li><a href=\"#slot$i\">$i</a></li>";
-  }
-?>
-     </ul>
-  </div>
+<form action="round2/submit" method="post" id="round2Form">
 
 <?php
   for($i=1; $i<= $num_slots; $i++)
@@ -47,8 +37,8 @@
 <h3>Slot <?php echo $i;?></h3>
 </div>
 <div class="row">
-  <div class="span12">
-    <table class="bordered-table zebra-striped">
+  <div class="span16">
+    <table class="bordered-table zebra-striped round2Tables">
       <thead>
         <tr>
           <th>COURSE ID</th>
@@ -56,6 +46,8 @@
           <th>FACULTY</th>
           <th>SEATS</th>
           <th>APPLIED</th>
+          <th>CREDITS</th>
+          <th>SELECT</th>
         </tr>
       </thead>
       <tbody>
@@ -71,33 +63,37 @@
       echo "<td>". $row->faculty."</td> \n";
       echo "<td>". $row->seats."</td> \n";
       echo "<td>". $row->applied."</td> \n";
+      echo "<td>". $row->credits."</td> \n";
+      echo "<td><input type=\"radio\" name=\"slot".$row->slot."Radio\" value=\"". $row->course_id."\"\></td> \n";
       echo "</tr> \n";
     }
 ?>
       </tbody>
     </table>
   </div>
-
-  <div class="span4">
-    <h5>Course Select</h5>
-    <select name= "<?php echo "slot$i"?>">
-      <option value="nil">--------</option>
-<?php 
-    foreach($slot_courses as $course_id=>$course_name)
-    {
-      echo "<option value=\"$course_id\">$course_name</option> \n";
-    }
-    $slot_courses = "";
-?>
-    </select>
-  </div>
 </div>
 </section>
 <?php 
-  } ?>
+  } 
+?>
+
+
+<div id="modal-from-dom" class="modal hide fade">
+  <div class="modal-header">
+    <a href="#" class="close">&times;</a>
+    <h3>Submission Confirmation</h3>
+  </div>
+  <div class="modal-body">
+    <p>Are you sure you want to submit your choices? Only one submission is allowed, hence your choices will be considered final.</p>
+  </div>
+  <div class="modal-footer">
+    <a href="#" class="btn primary">Yup! I'm sure</a>
+    <a href="#" class="btn secondary quit">No, I'll check again</a>
+  </div>
+</div>
 
 <div class="actions well">
-  <input type="submit" class="btn primary" name="" value="Submit Courses" id=""/>
+  <input type="submit" data-controls-modal="modal-from-dom" data-backdrop="true" data-keyboard="true" class="btn primary" value="Submit Courses"/>
   <a href="#header">Top</a>
 </div>
 </form>
